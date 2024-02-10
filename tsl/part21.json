@@ -1,0 +1,552 @@
+[
+  {
+    "word": "pastry",
+    "quiz": {
+      "answer": "ペイストリー",
+      "options": [
+        "パン",
+        "ケーキ",
+        "クッキー"
+      ]
+    }
+  },
+  {
+    "word": "personalize",
+    "quiz": {
+      "answer": "個人化する",
+      "options": [
+        "一般化する",
+        "無視する",
+        "集団化する"
+      ]
+    }
+  },
+  {
+    "word": "poorly",
+    "quiz": {
+      "answer": "貧しく",
+      "options": [
+        "豊かに",
+        "健康的に",
+        "効率的に"
+      ]
+    }
+  },
+  {
+    "word": "prestigious",
+    "quiz": {
+      "answer": "権威ある",
+      "options": [
+        "無名の",
+        "平凡な",
+        "下層の"
+      ]
+    }
+  },
+  {
+    "word": "purser",
+    "quiz": {
+      "answer": "船務長",
+      "options": [
+        "機長",
+        "客室乗務員",
+        "技術者"
+      ]
+    }
+  },
+  {
+    "word": "reassure",
+    "quiz": {
+      "answer": "安心させる",
+      "options": [
+        "不安を煽る",
+        "無視する",
+        "混乱させる"
+      ]
+    }
+  },
+  {
+    "word": "resume",
+    "quiz": {
+      "answer": "再開する",
+      "options": [
+        "中止する",
+        "継続する",
+        "避ける"
+      ]
+    }
+  },
+  {
+    "word": "reunion",
+    "quiz": {
+      "answer": "再会",
+      "options": [
+        "別離",
+        "孤独",
+        "疎外"
+      ]
+    }
+  },
+  {
+    "word": "revolutionize",
+    "quiz": {
+      "answer": "革命を起こす",
+      "options": [
+        "従来通り",
+        "退化する",
+        "無視する"
+      ]
+    }
+  },
+  {
+    "word": "seafood",
+    "quiz": {
+      "answer": "シーフード",
+      "options": [
+        "陸産物",
+        "野菜",
+        "果物"
+      ]
+    }
+  },
+  {
+    "word": "signify",
+    "quiz": {
+      "answer": "意味する",
+      "options": [
+        "無視する",
+        "軽視する",
+        "否定する"
+      ]
+    }
+  },
+  {
+    "word": "slot",
+    "quiz": {
+      "answer": "スロット",
+      "options": [
+        "広場",
+        "閉塞",
+        "境界"
+      ]
+    }
+  },
+  {
+    "word": "steer",
+    "quiz": {
+      "answer": "操縦する",
+      "options": [
+        "放置する",
+        "迷う",
+        "避ける"
+      ]
+    }
+  },
+  {
+    "word": "sue",
+    "quiz": {
+      "answer": "訴える",
+      "options": [
+        "擁護する",
+        "支援する",
+        "無視する"
+      ]
+    }
+  },
+  {
+    "word": "superb",
+    "quiz": {
+      "answer": "素晴らしい",
+      "options": [
+        "平凡な",
+        "劣る",
+        "悪い"
+      ]
+    }
+  },
+  {
+    "word": "traditionally",
+    "quiz": {
+      "answer": "伝統的に",
+      "options": [
+        "現代的に",
+        "無視して",
+        "偶発的に"
+      ]
+    }
+  },
+  {
+    "word": "tremendous",
+    "quiz": {
+      "answer": "莫大な",
+      "options": [
+        "微小な",
+        "平凡な",
+        "無視できる"
+      ]
+    }
+  },
+  {
+    "word": "underway",
+    "quiz": {
+      "answer": "進行中で",
+      "options": [
+        "停止中で",
+        "計画中で",
+        "完了で"
+      ]
+    }
+  },
+  {
+    "word": "unpleasant",
+    "quiz": {
+      "answer": "不愉快な",
+      "options": [
+        "快適な",
+        "楽しい",
+        "望ましい"
+      ]
+    }
+  },
+  {
+    "word": "violin",
+    "quiz": {
+      "answer": "バイオリン",
+      "options": [
+        "ドラム",
+        "ギター",
+        "ピアノ"
+      ]
+    }
+  },
+  {
+    "word": "ward",
+    "quiz": {
+      "answer": "病棟",
+      "options": [
+        "自宅",
+        "オフィス",
+        "学校"
+      ]
+    }
+  },
+  {
+    "word": "worthwhile",
+    "quiz": {
+      "answer": "価値がある",
+      "options": [
+        "無価値な",
+        "無視できる",
+        "取るに足らない"
+      ]
+    }
+  },
+  {
+    "word": "adapter",
+    "quiz": {
+      "answer": "アダプタ",
+      "options": [
+        "リモコン",
+        "キーボード",
+        "マウス"
+      ]
+    }
+  },
+  {
+    "word": "advisable",
+    "quiz": {
+      "answer": "勧められる",
+      "options": [
+        "避けるべき",
+        "危険な",
+        "無視できる"
+      ]
+    }
+  },
+  {
+    "word": "archive",
+    "quiz": {
+      "answer": "アーカイブ",
+      "options": [
+        "現行ファイル",
+        "ゴミ箱",
+        "新規プロジェクト"
+      ]
+    }
+  },
+  {
+    "word": "artistic",
+    "quiz": {
+      "answer": "芸術的",
+      "options": [
+        "無関心",
+        "科学的",
+        "実用的"
+      ]
+    }
+  },
+  {
+    "word": "assurance",
+    "quiz": {
+      "answer": "保証",
+      "options": [
+        "不安",
+        "疑問",
+        "無視"
+      ]
+    }
+  },
+  {
+    "word": "athletic",
+    "quiz": {
+      "answer": "運動の",
+      "options": [
+        "座りがちな",
+        "無関心な",
+        "学術的"
+      ]
+    }
+  },
+  {
+    "word": "attire",
+    "quiz": {
+      "answer": "服装",
+      "options": [
+        "裸",
+        "制服",
+        "古着"
+      ]
+    }
+  },
+  {
+    "word": "auditor",
+    "quiz": {
+      "answer": "監査役",
+      "options": [
+        "社員",
+        "学生",
+        "管理者"
+      ]
+    }
+  },
+  {
+    "word": "bankruptcy",
+    "quiz": {
+      "answer": "破産",
+      "options": [
+        "裕福",
+        "安定",
+        "成功"
+      ]
+    }
+  },
+  {
+    "word": "bulk",
+    "quiz": {
+      "answer": "大量",
+      "options": [
+        "少量",
+        "単品",
+        "無視"
+      ]
+    }
+  },
+  {
+    "word": "butter",
+    "quiz": {
+      "answer": "バター",
+      "options": [
+        "砂糖",
+        "塩",
+        "ペッパー"
+      ]
+    }
+  },
+  {
+    "word": "centimeter",
+    "quiz": {
+      "answer": "センチメートル",
+      "options": [
+        "インチ",
+        "フィート",
+        "マイル"
+      ]
+    }
+  },
+  {
+    "word": "circulate",
+    "quiz": {
+      "answer": "循環させる",
+      "options": [
+        "停止する",
+        "集中する",
+        "避ける"
+      ]
+    }
+  },
+  {
+    "word": "comb",
+    "quiz": {
+      "answer": "櫛",
+      "options": [
+        "ブラシ",
+        "スプーン",
+        "ナイフ"
+      ]
+    }
+  },
+  {
+    "word": "comfortably",
+    "quiz": {
+      "answer": "快適に",
+      "options": [
+        "不快に",
+        "無視して",
+        "痛みを伴って"
+      ]
+    }
+  },
+  {
+    "word": "compliance",
+    "quiz": {
+      "answer": "順守",
+      "options": [
+        "反抗",
+        "無視",
+        "違反"
+      ]
+    }
+  },
+  {
+    "word": "contraction",
+    "quiz": {
+      "answer": "収縮",
+      "options": [
+        "拡張",
+        "静止",
+        "増大"
+      ]
+    }
+  },
+  {
+    "word": "cookbook",
+    "quiz": {
+      "answer": "料理本",
+      "options": [
+        "小説",
+        "辞書",
+        "雑誌"
+      ]
+    }
+  },
+  {
+    "word": "cushion",
+    "quiz": {
+      "answer": "クッション",
+      "options": [
+        "床",
+        "壁",
+        "天井"
+      ]
+    }
+  },
+  {
+    "word": "dose",
+    "quiz": {
+      "answer": "用量",
+      "options": [
+        "全量",
+        "無視",
+        "減少"
+      ]
+    }
+  },
+  {
+    "word": "drum",
+    "quiz": {
+      "answer": "ドラム",
+      "options": [
+        "ギター",
+        "ピアノ",
+        "バイオリン"
+      ]
+    }
+  },
+  {
+    "word": "embed",
+    "quiz": {
+      "answer": "埋め込む",
+      "options": [
+        "取り除く",
+        "無視する",
+        "浮かぶ"
+      ]
+    }
+  },
+  {
+    "word": "evacuate",
+    "quiz": {
+      "answer": "避難する",
+      "options": [
+        "占拠する",
+        "無視する",
+        "拡張する"
+      ]
+    }
+  },
+  {
+    "word": "expedite",
+    "quiz": {
+      "answer": "促進する",
+      "options": [
+        "遅らせる",
+        "無視する",
+        "妨げる"
+      ]
+    }
+  },
+  {
+    "word": "extinguisher",
+    "quiz": {
+      "answer": "消火器",
+      "options": [
+        "加熱器",
+        "扇風機",
+        "エアコン"
+      ]
+    }
+  },
+  {
+    "word": "familiarity",
+    "quiz": {
+      "answer": "親しみ",
+      "options": [
+        "疎外",
+        "不明",
+        "無視"
+      ]
+    }
+  },
+  {
+    "word": "flaw",
+    "quiz": {
+      "answer": "欠陥",
+      "options": [
+        "長所",
+        "利点",
+        "無関係"
+      ]
+    }
+  },
+  {
+    "word": "fluctuate",
+    "quiz": {
+      "answer": "変動する",
+      "options": [
+        "安定する",
+        "固定する",
+        "無視する"
+      ]
+    }
+  }
+]

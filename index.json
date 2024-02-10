@@ -35,6 +35,126 @@
           "wordSetName": "Part5",
           "filePath": "tsl/part5.json",
           "size": 50
+        },
+        {
+          "wordSetNo": 6,
+          "wordSetName": "Part6",
+          "filePath": "tsl/part6.json",
+          "size": 50
+        },
+        {
+          "wordSetNo": 7,
+          "wordSetName": "Part7",
+          "filePath": "tsl/part7.json",
+          "size": 50
+        },
+        {
+          "wordSetNo": 8,
+          "wordSetName": "Part8",
+          "filePath": "tsl/part8.json",
+          "size": 50
+        },
+        {
+          "wordSetNo": 9,
+          "wordSetName": "Part9",
+          "filePath": "tsl/part9.json",
+          "size": 50
+        },
+        {
+          "wordSetNo": 10,
+          "wordSetName": "Part10",
+          "filePath": "tsl/part10.json",
+          "size": 50
+        },
+        {
+          "wordSetNo": 11,
+          "wordSetName": "Part11",
+          "filePath": "tsl/part11.json",
+          "size": 50
+        },
+        {
+          "wordSetNo": 12,
+          "wordSetName": "Part12",
+          "filePath": "tsl/part12.json",
+          "size": 50
+        },
+        {
+          "wordSetNo": 13,
+          "wordSetName": "Part13",
+          "filePath": "tsl/part13.json",
+          "size": 50
+        },
+        {
+          "wordSetNo": 14,
+          "wordSetName": "Part14",
+          "filePath": "tsl/part14.json",
+          "size": 50
+        },
+        {
+          "wordSetNo": 15,
+          "wordSetName": "Part15",
+          "filePath": "tsl/part15.json",
+          "size": 50
+        },
+        {
+          "wordSetNo": 16,
+          "wordSetName": "Part16",
+          "filePath": "tsl/part16.json",
+          "size": 50
+        },
+        {
+          "wordSetNo": 17,
+          "wordSetName": "Part17",
+          "filePath": "tsl/part17.json",
+          "size": 50
+        },
+        {
+          "wordSetNo": 18,
+          "wordSetName": "Part18",
+          "filePath": "tsl/part18.json",
+          "size": 50
+        },
+        {
+          "wordSetNo": 19,
+          "wordSetName": "Part19",
+          "filePath": "tsl/part19.json",
+          "size": 50
+        },
+        {
+          "wordSetNo": 20,
+          "wordSetName": "Part20",
+          "filePath": "tsl/part20.json",
+          "size": 50
+        },
+        {
+          "wordSetNo": 21,
+          "wordSetName": "Part21",
+          "filePath": "tsl/part21.json",
+          "size": 50
+        },
+        {
+          "wordSetNo": 22,
+          "wordSetName": "Part22",
+          "filePath": "tsl/part22.json",
+          "size": 50
+        },
+        {
+          "wordSetNo": 23,
+          "wordSetName": "Part23",
+          "filePath": "tsl/part23.json",
+          "size": 50
+        },
+        {
+          "wordSetNo": 24,
+          "wordSetName": "Part24",
+          "filePath": "tsl/part24.json",
+          "size": 50
+        },
+        {
+          "wordSetNo": 25,
+          "wordSetName": "Part25",
+          "filePath": "tsl/part25.json",
+          "size": 50
         }
       ]
     }

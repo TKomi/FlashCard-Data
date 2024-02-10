@@ -1,0 +1,552 @@
+[
+  {
+    "word": "advisory",
+    "quiz": {
+      "answer": "助言的",
+      "options": [
+        "命令的",
+        "要求的",
+        "許可的"
+      ]
+    }
+  },
+  {
+    "word": "asleep",
+    "quiz": {
+      "answer": "眠って",
+      "options": [
+        "起きて",
+        "活動中",
+        "注意深く"
+      ]
+    }
+  },
+  {
+    "word": "authentic",
+    "quiz": {
+      "answer": "本物の",
+      "options": [
+        "偽物の",
+        "一般的な",
+        "珍しい"
+      ]
+    }
+  },
+  {
+    "word": "bakery",
+    "quiz": {
+      "answer": "パン屋",
+      "options": [
+        "肉屋",
+        "魚屋",
+        "果物屋"
+      ]
+    }
+  },
+  {
+    "word": "carton",
+    "quiz": {
+      "answer": "段ボール",
+      "options": [
+        "プラスチック",
+        "ガラス",
+        "金属"
+      ]
+    }
+  },
+  {
+    "word": "compartment",
+    "quiz": {
+      "answer": "区画",
+      "options": [
+        "全体",
+        "外側",
+        "内部"
+      ]
+    }
+  },
+  {
+    "word": "compatible",
+    "quiz": {
+      "answer": "互換性がある",
+      "options": [
+        "相反する",
+        "無関係の",
+        "矛盾する"
+      ]
+    }
+  },
+  {
+    "word": "consumption",
+    "quiz": {
+      "answer": "消費",
+      "options": [
+        "生産",
+        "保存",
+        "廃棄"
+      ]
+    }
+  },
+  {
+    "word": "conveniently",
+    "quiz": {
+      "answer": "便利に",
+      "options": [
+        "不便に",
+        "困難に",
+        "やっかいに"
+      ]
+    }
+  },
+  {
+    "word": "cosmetic",
+    "quiz": {
+      "answer": "化粧品",
+      "options": [
+        "食品",
+        "清掃用品",
+        "工具"
+      ]
+    }
+  },
+  {
+    "word": "courtesy",
+    "quiz": {
+      "answer": "礼儀",
+      "options": [
+        "無礼",
+        "怠慢",
+        "敵意"
+      ]
+    }
+  },
+  {
+    "word": "creativity",
+    "quiz": {
+      "answer": "創造性",
+      "options": [
+        "単調さ",
+        "模倣",
+        "退屈"
+      ]
+    }
+  },
+  {
+    "word": "disagreement",
+    "quiz": {
+      "answer": "不一致",
+      "options": [
+        "同意",
+        "協力",
+        "確認"
+      ]
+    }
+  },
+  {
+    "word": "disappointment",
+    "quiz": {
+      "answer": "失望",
+      "options": [
+        "喜び",
+        "満足",
+        "興奮"
+      ]
+    }
+  },
+  {
+    "word": "dissatisfy",
+    "quiz": {
+      "answer": "不満を感じさせる",
+      "options": [
+        "満足させる",
+        "興味を引く",
+        "魅了する"
+      ]
+    }
+  },
+  {
+    "word": "enjoyable",
+    "quiz": {
+      "answer": "楽しい",
+      "options": [
+        "つまらない",
+        "苦痛な",
+        "面倒な"
+      ]
+    }
+  },
+  {
+    "word": "faculty",
+    "quiz": {
+      "answer": "教授陣",
+      "options": [
+        "学生",
+        "管理職",
+        "職員"
+      ]
+    }
+  },
+  {
+    "word": "favorable",
+    "quiz": {
+      "answer": "好意的",
+      "options": [
+        "不利な",
+        "批判的",
+        "無関心な"
+      ]
+    }
+  },
+  {
+    "word": "foreman",
+    "quiz": {
+      "answer": "監督",
+      "options": [
+        "従業員",
+        "新入社員",
+        "実習生"
+      ]
+    }
+  },
+  {
+    "word": "forum",
+    "quiz": {
+      "answer": "フォーラム",
+      "options": [
+        "単独会話",
+        "閉鎖会議",
+        "非公開セッション"
+      ]
+    }
+  },
+  {
+    "word": "founder",
+    "quiz": {
+      "answer": "創設者",
+      "options": [
+        "後継者",
+        "競合者",
+        "客"
+      ]
+    }
+  },
+  {
+    "word": "fundraise",
+    "quiz": {
+      "answer": "資金調達",
+      "options": [
+        "費用削減",
+        "利益確保",
+        "投資撤退"
+      ]
+    }
+  },
+  {
+    "word": "graphics",
+    "quiz": {
+      "answer": "グラフィックス",
+      "options": [
+        "テキスト",
+        "オーディオ",
+        "ビデオ"
+      ]
+    }
+  },
+  {
+    "word": "handy",
+    "quiz": {
+      "answer": "便利な",
+      "options": [
+        "遠い",
+        "手間がかかる",
+        "不便な"
+      ]
+    }
+  },
+  {
+    "word": "hazardous",
+    "quiz": {
+      "answer": "有害な",
+      "options": [
+        "安全な",
+        "有益な",
+        "健康的"
+      ]
+    }
+  },
+  {
+    "word": "healthcare",
+    "quiz": {
+      "answer": "医療",
+      "options": [
+        "娯楽",
+        "教育",
+        "金融"
+      ]
+    }
+  },
+  {
+    "word": "humidity",
+    "quiz": {
+      "answer": "湿度",
+      "options": [
+        "乾燥",
+        "寒冷",
+        "高温"
+      ]
+    }
+  },
+  {
+    "word": "influential",
+    "quiz": {
+      "answer": "影響力のある",
+      "options": [
+        "無力な",
+        "従属的",
+        "一時的"
+      ]
+    }
+  },
+  {
+    "word": "nationwide",
+    "quiz": {
+      "answer": "全国的",
+      "options": [
+        "地方的",
+        "市内の",
+        "国外の"
+      ]
+    }
+  },
+  {
+    "word": "pad",
+    "quiz": {
+      "answer": "パッド",
+      "options": [
+        "硬いカバー",
+        "鋭いエッジ",
+        "平らな表面"
+      ]
+    }
+  },
+  {
+    "word": "paraphrase",
+    "quiz": {
+      "answer": "言い換える",
+      "options": [
+        "直接引用",
+        "無視する",
+        "文字通りにとる"
+      ]
+    }
+  },
+  {
+    "word": "placement",
+    "quiz": {
+      "answer": "配置",
+      "options": [
+        "取り除き",
+        "隠蔽",
+        "無視"
+      ]
+    }
+  },
+  {
+    "word": "postal",
+    "quiz": {
+      "answer": "郵便の",
+      "options": [
+        "電話の",
+        "インターネットの",
+        "手渡しの"
+      ]
+    }
+  },
+  {
+    "word": "publicity",
+    "quiz": {
+      "answer": "宣伝",
+      "options": [
+        "秘密",
+        "非公開",
+        "内密"
+      ]
+    }
+  },
+  {
+    "word": "renter",
+    "quiz": {
+      "answer": "借り手",
+      "options": [
+        "貸し手",
+        "売り手",
+        "購入者"
+      ]
+    }
+  },
+  {
+    "word": "repairperson",
+    "quiz": {
+      "answer": "修理工",
+      "options": [
+        "販売員",
+        "管理者",
+        "設計者"
+      ]
+    }
+  },
+  {
+    "word": "repeatedly",
+    "quiz": {
+      "answer": "繰り返し",
+      "options": [
+        "一度だけ",
+        "滅多に",
+        "まれに"
+      ]
+    }
+  },
+  {
+    "word": "restroom",
+    "quiz": {
+      "answer": "トイレ",
+      "options": [
+        "キッチン",
+        "寝室",
+        "リビング"
+      ]
+    }
+  },
+  {
+    "word": "silently",
+    "quiz": {
+      "answer": "静かに",
+      "options": [
+        "騒々しく",
+        "明るく",
+        "活発に"
+      ]
+    }
+  },
+  {
+    "word": "spa",
+    "quiz": {
+      "answer": "スパ",
+      "options": [
+        "ジム",
+        "図書館",
+        "カフェ"
+      ]
+    }
+  },
+  {
+    "word": "spreadsheet",
+    "quiz": {
+      "answer": "スプレッドシート",
+      "options": [
+        "ワードプロセッサ",
+        "プレゼンテーション",
+        "データベース"
+      ]
+    }
+  },
+  {
+    "word": "stapler",
+    "quiz": {
+      "answer": "ホッチキス",
+      "options": [
+        "カッター",
+        "ペン",
+        "鉛筆"
+      ]
+    }
+  },
+  {
+    "word": "streamline",
+    "quiz": {
+      "answer": "合理化する",
+      "options": [
+        "複雑化する",
+        "拡大する",
+        "減少させる"
+      ]
+    }
+  },
+  {
+    "word": "substantially",
+    "quiz": {
+      "answer": "大幅に",
+      "options": [
+        "わずかに",
+        "一時的に",
+        "永続的に"
+      ]
+    }
+  },
+  {
+    "word": "teller",
+    "quiz": {
+      "answer": "窓口係",
+      "options": [
+        "顧客",
+        "監査役",
+        "管理者"
+      ]
+    }
+  },
+  {
+    "word": "tidy",
+    "quiz": {
+      "answer": "きちんとした",
+      "options": [
+        "乱雑な",
+        "汚い",
+        "広大な"
+      ]
+    }
+  },
+  {
+    "word": "toll",
+    "quiz": {
+      "answer": "通行料",
+      "options": [
+        "報酬",
+        "ボーナス",
+        "無料"
+      ]
+    }
+  },
+  {
+    "word": "toner",
+    "quiz": {
+      "answer": "トナー",
+      "options": [
+        "インク",
+        "紙",
+        "ペン"
+      ]
+    }
+  },
+  {
+    "word": "urgently",
+    "quiz": {
+      "answer": "緊急に",
+      "options": [
+        "ゆっくりと",
+        "たまに",
+        "常に"
+      ]
+    }
+  },
+  {
+    "word": "walkway",
+    "quiz": {
+      "answer": "歩道",
+      "options": [
+        "高速道路",
+        "狭い道",
+        "閉鎖区域"
+      ]
+    }
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "word": "preview",
+    "quiz": {
+      "answer": "予告",
+      "options": [
+        "概要",
+        "回顧",
+        "批評"
+      ]
+    }
+  },
+  {
+    "word": "attendant",
+    "quiz": {
+      "answer": "係員",
+      "options": [
+        "ゲスト",
+        "参加者",
+        "講師"
+      ]
+    }
+  },
+  {
+    "word": "subscription",
+    "quiz": {
+      "answer": "定期購読",
+      "options": [
+        "単発購入",
+        "無料購読",
+        "貸出"
+      ]
+    }
+  },
+  {
+    "word": "convenient",
+    "quiz": {
+      "answer": "便利な",
+      "options": [
+        "遠い",
+        "不便な",
+        "複雑な"
+      ]
+    }
+  },
+  {
+    "word": "manual",
+    "quiz": {
+      "answer": "マニュアル",
+      "options": [
+        "自動",
+        "指南",
+        "概要"
+      ]
+    }
+  },
+  {
+    "word": "clue",
+    "quiz": {
+      "answer": "手がかり",
+      "options": [
+        "答え",
+        "問題",
+        "謎"
+      ]
+    }
+  },
+  {
+    "word": "garage",
+    "quiz": {
+      "answer": "ガレージ",
+      "options": [
+        "駐車場",
+        "倉庫",
+        "庭"
+      ]
+    }
+  },
+  {
+    "word": "obtain",
+    "quiz": {
+      "answer": "入手する",
+      "options": [
+        "失う",
+        "拒否する",
+        "諦める"
+      ]
+    }
+  },
+  {
+    "word": "oval",
+    "quiz": {
+      "answer": "楕円形",
+      "options": [
+        "正方形",
+        "三角",
+        "円"
+      ]
+    }
+  },
+  {
+    "word": "inventory",
+    "quiz": {
+      "answer": "在庫",
+      "options": [
+        "欠品",
+        "資産",
+        "損失"
+      ]
+    }
+  },
+  {
+    "word": "outdoor",
+    "quiz": {
+      "answer": "屋外の",
+      "options": [
+        "屋内の",
+        "私的な",
+        "公共の"
+      ]
+    }
+  },
+  {
+    "word": "suitcase",
+    "quiz": {
+      "answer": "スーツケース",
+      "options": [
+        "バックパック",
+        "財布",
+        "鞄"
+      ]
+    }
+  },
+  {
+    "word": "destination",
+    "quiz": {
+      "answer": "目的地",
+      "options": [
+        "出発点",
+        "過程",
+        "起点"
+      ]
+    }
+  },
+  {
+    "word": "occupation",
+    "quiz": {
+      "answer": "職業",
+      "options": [
+        "趣味",
+        "習慣",
+        "学問"
+      ]
+    }
+  },
+  {
+    "word": "postpone",
+    "quiz": {
+      "answer": "延期する",
+      "options": [
+        "加速する",
+        "完了する",
+        "取り消す"
+      ]
+    }
+  },
+  {
+    "word": "contradict",
+    "quiz": {
+      "answer": "矛盾する",
+      "options": [
+        "補強する",
+        "同意する",
+        "確認する"
+      ]
+    }
+  },
+  {
+    "word": "umbrella",
+    "quiz": {
+      "answer": "傘",
+      "options": [
+        "帽子",
+        "コート",
+        "マフラー"
+      ]
+    }
+  },
+  {
+    "word": "inference",
+    "quiz": {
+      "answer": "推測",
+      "options": [
+        "証明",
+        "宣言",
+        "指示"
+      ]
+    }
+  },
+  {
+    "word": "cellphone",
+    "quiz": {
+      "answer": "携帯電話",
+      "options": [
+        "固定電話",
+        "コンピュータ",
+        "ラジオ"
+      ]
+    }
+  },
+  {
+    "word": "compact",
+    "quiz": {
+      "answer": "コンパクト",
+      "options": [
+        "広大",
+        "緩い",
+        "大きい"
+      ]
+    }
+  },
+  {
+    "word": "merchandise",
+    "quiz": {
+      "answer": "商品",
+      "options": [
+        "サービス",
+        "アイデア",
+        "技術"
+      ]
+    }
+  },
+  {
+    "word": "receptionist",
+    "quiz": {
+      "answer": "受付係",
+      "options": [
+        "管理者",
+        "セールス",
+        "技術者"
+      ]
+    }
+  },
+  {
+    "word": "dentist",
+    "quiz": {
+      "answer": "歯科医",
+      "options": [
+        "医師",
+        "薬剤師",
+        "看護師"
+      ]
+    }
+  },
+  {
+    "word": "identification",
+    "quiz": {
+      "answer": "識別",
+      "options": [
+        "無視",
+        "誤認",
+        "混同"
+      ]
+    }
+  },
+  {
+    "word": "coupon",
+    "quiz": {
+      "answer": "クーポン",
+      "options": [
+        "切符",
+        "証明書",
+        "チケット"
+      ]
+    }
+  },
+  {
+    "word": "depart",
+    "quiz": {
+      "answer": "出発する",
+      "options": [
+        "到着する",
+        "滞在する",
+        "継続する"
+      ]
+    }
+  },
+  {
+    "word": "reschedule",
+    "quiz": {
+      "answer": "再スケジュール",
+      "options": [
+        "維持",
+        "取り消し",
+        "加速"
+      ]
+    }
+  },
+  {
+    "word": "tactic",
+    "quiz": {
+      "answer": "戦術",
+      "options": [
+        "戦略",
+        "目標",
+        "理論"
+      ]
+    }
+  },
+  {
+    "word": "renovation",
+    "quiz": {
+      "answer": "改装",
+      "options": [
+        "破壊",
+        "損傷",
+        "衰退"
+      ]
+    }
+  },
+  {
+    "word": "upgrade",
+    "quiz": {
+      "answer": "アップグレード",
+      "options": [
+        "ダウングレード",
+        "維持",
+        "低下"
+      ]
+    }
+  },
+  {
+    "word": "precede",
+    "quiz": {
+      "answer": "先行する",
+      "options": [
+        "後続する",
+        "同時に行う",
+        "中断する"
+      ]
+    }
+  },
+  {
+    "word": "replacement",
+    "quiz": {
+      "answer": "交換",
+      "options": [
+        "維持",
+        "削除",
+        "忽略"
+      ]
+    }
+  },
+  {
+    "word": "dine",
+    "quiz": {
+      "answer": "食事をする",
+      "options": [
+        "断食する",
+        "運動する",
+        "勉強する"
+      ]
+    }
+  },
+  {
+    "word": "passport",
+    "quiz": {
+      "answer": "パスポート",
+      "options": [
+        "免許",
+        "証明書",
+        "学生証"
+      ]
+    }
+  },
+  {
+    "word": "coworker",
+    "quiz": {
+      "answer": "同僚",
+      "options": [
+        "上司",
+        "部下",
+        "競争相手"
+      ]
+    }
+  },
+  {
+    "word": "upcoming",
+    "quiz": {
+      "answer": "今後の",
+      "options": [
+        "過去の",
+        "現在の",
+        "永続的な"
+      ]
+    }
+  },
+  {
+    "word": "cabinet",
+    "quiz": {
+      "answer": "キャビネット",
+      "options": [
+        "ソファ",
+        "ベッド",
+        "テーブル"
+      ]
+    }
+  },
+  {
+    "word": "appliance",
+    "quiz": {
+      "answer": "家電製品",
+      "options": [
+        "家具",
+        "車",
+        "コンピュータ"
+      ]
+    }
+  },
+  {
+    "word": "explanatory",
+    "quiz": {
+      "answer": "説明的",
+      "options": [
+        "複雑",
+        "無関係",
+        "簡潔"
+      ]
+    }
+  },
+  {
+    "word": "instructor",
+    "quiz": {
+      "answer": "指導者",
+      "options": [
+        "学生",
+        "監督者",
+        "参加者"
+      ]
+    }
+  },
+  {
+    "word": "keyboard",
+    "quiz": {
+      "answer": "キーボード",
+      "options": [
+        "マウス",
+        "画面",
+        "プリンター"
+      ]
+    }
+  },
+  {
+    "word": "media",
+    "quiz": {
+      "answer": "メディア",
+      "options": [
+        "書籍",
+        "雑誌",
+        "新聞"
+      ]
+    }
+  },
+  {
+    "word": "supermarket",
+    "quiz": {
+      "answer": "スーパーマーケット",
+      "options": [
+        "コンビニ",
+        "デパート",
+        "小売店"
+      ]
+    }
+  },
+  {
+    "word": "valid",
+    "quiz": {
+      "answer": "有効",
+      "options": [
+        "無効",
+        "期限切れ",
+        "仮説"
+      ]
+    }
+  },
+  {
+    "word": "admission",
+    "quiz": {
+      "answer": "入場",
+      "options": [
+        "退場",
+        "拒否",
+        "無視"
+      ]
+    }
+  },
+  {
+    "word": "laptop",
+    "quiz": {
+      "answer": "ノートパソコン",
+      "options": [
+        "デスクトップ",
+        "タブレット",
+        "スマートフォン"
+      ]
+    }
+  },
+  {
+    "word": "underline",
+    "quiz": {
+      "answer": "下線を引く",
+      "options": [
+        "無視する",
+        "強調しない",
+        "削除する"
+      ]
+    }
+  },
+  {
+    "word": "electrical",
+    "quiz": {
+      "answer": "電気の",
+      "options": [
+        "機械的",
+        "手動の",
+        "自然の"
+      ]
+    }
+  },
+  {
+    "word": "airplane",
+    "quiz": {
+      "answer": "飛行機",
+      "options": [
+        "車",
+        "自転車",
+        "船"
+      ]
+    }
+  },
+  {
+    "word": "assignment",
+    "quiz": {
+      "answer": "課題",
+      "options": [
+        "余暇",
+        "自由",
+        "休息"
+      ]
+    }
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "word": "exit",
+    "quiz": {
+      "answer": "出口",
+      "options": [
+        "入口",
+        "通路",
+        "窓"
+      ]
+    }
+  },
+  {
+    "word": "attendee",
+    "quiz": {
+      "answer": "出席者",
+      "options": [
+        "講師",
+        "主催者",
+        "観客"
+      ]
+    }
+  },
+  {
+    "word": "cruise",
+    "quiz": {
+      "answer": "クルーズ",
+      "options": [
+        "旅行",
+        "飛行",
+        "ハイキング"
+      ]
+    }
+  },
+  {
+    "word": "birthday",
+    "quiz": {
+      "answer": "誕生日",
+      "options": [
+        "結婚記念日",
+        "卒業式",
+        "入学式"
+      ]
+    }
+  },
+  {
+    "word": "café",
+    "quiz": {
+      "answer": "カフェ",
+      "options": [
+        "レストラン",
+        "図書館",
+        "オフィス"
+      ]
+    }
+  },
+  {
+    "word": "comprehension",
+    "quiz": {
+      "answer": "理解",
+      "options": [
+        "誤解",
+        "忘却",
+        "評価"
+      ]
+    }
+  },
+  {
+    "word": "mall",
+    "quiz": {
+      "answer": "ショッピングモール",
+      "options": [
+        "公園",
+        "図書館",
+        "スーパーマーケット"
+      ]
+    }
+  },
+  {
+    "word": "medication",
+    "quiz": {
+      "answer": "薬",
+      "options": [
+        "食事",
+        "運動",
+        "休息"
+      ]
+    }
+  },
+  {
+    "word": "recycle",
+    "quiz": {
+      "answer": "リサイクル",
+      "options": [
+        "廃棄",
+        "購入",
+        "販売"
+      ]
+    }
+  },
+  {
+    "word": "renew",
+    "quiz": {
+      "answer": "更新",
+      "options": [
+        "停止",
+        "破棄",
+        "減少"
+      ]
+    }
+  },
+  {
+    "word": "tenant",
+    "quiz": {
+      "answer": "入居者",
+      "options": [
+        "家主",
+        "訪問者",
+        "売り手"
+      ]
+    }
+  },
+  {
+    "word": "sandwich",
+    "quiz": {
+      "answer": "サンドイッチ",
+      "options": [
+        "スープ",
+        "サラダ",
+        "パスタ"
+      ]
+    }
+  },
+  {
+    "word": "departure",
+    "quiz": {
+      "answer": "出発",
+      "options": [
+        "到着",
+        "滞在",
+        "中断"
+      ]
+    }
+  },
+  {
+    "word": "mini",
+    "quiz": {
+      "answer": "ミニ",
+      "options": [
+        "大",
+        "中",
+        "小"
+      ]
+    }
+  },
+  {
+    "word": "fitness",
+    "quiz": {
+      "answer": "フィットネス",
+      "options": [
+        "リラクゼーション",
+        "瞑想",
+        "教育"
+      ]
+    }
+  },
+  {
+    "word": "inconvenience",
+    "quiz": {
+      "answer": "不便",
+      "options": [
+        "便利",
+        "快適",
+        "利益"
+      ]
+    }
+  },
+  {
+    "word": "banquet",
+    "quiz": {
+      "answer": "宴会",
+      "options": [
+        "会議",
+        "ミーティング",
+        "クラス"
+      ]
+    }
+  },
+  {
+    "word": "closet",
+    "quiz": {
+      "answer": "クローゼット",
+      "options": [
+        "キッチン",
+        "リビング",
+        "ガレージ"
+      ]
+    }
+  },
+  {
+    "word": "unreal",
+    "quiz": {
+      "answer": "非現実的",
+      "options": [
+        "現実的",
+        "可能性",
+        "確実性"
+      ]
+    }
+  },
+  {
+    "word": "distractor",
+    "quiz": {
+      "answer": "撹乱要素",
+      "options": [
+        "集中",
+        "支援",
+        "明確化"
+      ]
+    }
+  },
+  {
+    "word": "expire",
+    "quiz": {
+      "answer": "期限切れ",
+      "options": [
+        "更新",
+        "開始",
+        "継続"
+      ]
+    }
+  },
+  {
+    "word": "folder",
+    "quiz": {
+      "answer": "フォルダ",
+      "options": [
+        "ファイル",
+        "ノート",
+        "ブック"
+      ]
+    }
+  },
+  {
+    "word": "photocopy",
+    "quiz": {
+      "answer": "コピー",
+      "options": [
+        "オリジナル",
+        "印刷",
+        "スケッチ"
+      ]
+    }
+  },
+  {
+    "word": "renovate",
+    "quiz": {
+      "answer": "改装する",
+      "options": [
+        "破壊する",
+        "忽視する",
+        "減少する"
+      ]
+    }
+  },
+  {
+    "word": "sunny",
+    "quiz": {
+      "answer": "晴れ",
+      "options": [
+        "曇り",
+        "雨",
+        "雪"
+      ]
+    }
+  },
+  {
+    "word": "calendar",
+    "quiz": {
+      "answer": "カレンダー",
+      "options": [
+        "時計",
+        "ノート",
+        "日記"
+      ]
+    }
+  },
+  {
+    "word": "donation",
+    "quiz": {
+      "answer": "寄付",
+      "options": [
+        "費用",
+        "請求",
+        "売却"
+      ]
+    }
+  },
+  {
+    "word": "feedback",
+    "quiz": {
+      "answer": "フィードバック",
+      "options": [
+        "質問",
+        "指示",
+        "無視"
+      ]
+    }
+  },
+  {
+    "word": "shortly",
+    "quiz": {
+      "answer": "まもなく",
+      "options": [
+        "永遠に",
+        "以前",
+        "後で"
+      ]
+    }
+  },
+  {
+    "word": "snack",
+    "quiz": {
+      "answer": "スナック",
+      "options": [
+        "メインディッシュ",
+        "デザート",
+        "飲料"
+      ]
+    }
+  },
+  {
+    "word": "warehouse",
+    "quiz": {
+      "answer": "倉庫",
+      "options": [
+        "オフィス",
+        "店舗",
+        "アパート"
+      ]
+    }
+  },
+  {
+    "word": "copier",
+    "quiz": {
+      "answer": "コピー機",
+      "options": [
+        "プリンター",
+        "スキャナー",
+        "ファックス"
+      ]
+    }
+  },
+  {
+    "word": "provider",
+    "quiz": {
+      "answer": "提供者",
+      "options": [
+        "受取人",
+        "監督者",
+        "クライアント"
+      ]
+    }
+  },
+  {
+    "word": "beverage",
+    "quiz": {
+      "answer": "飲料",
+      "options": [
+        "食事",
+        "スナック",
+        "デザート"
+      ]
+    }
+  },
+  {
+    "word": "hungry",
+    "quiz": {
+      "answer": "空腹",
+      "options": [
+        "満腹",
+        "渇望",
+        "冷静"
+      ]
+    }
+  },
+  {
+    "word": "inspection",
+    "quiz": {
+      "answer": "検査",
+      "options": [
+        "承認",
+        "無視",
+        "評価"
+      ]
+    }
+  },
+  {
+    "word": "recipient",
+    "quiz": {
+      "answer": "受取人",
+      "options": [
+        "送信者",
+        "拒否者",
+        "提供者"
+      ]
+    }
+  },
+  {
+    "word": "aisle",
+    "quiz": {
+      "answer": "通路",
+      "options": [
+        "壁",
+        "閉鎖区域",
+        "広場"
+      ]
+    }
+  },
+  {
+    "word": "inspect",
+    "quiz": {
+      "answer": "検査する",
+      "options": [
+        "無視する",
+        "作成する",
+        "購入する"
+      ]
+    }
+  },
+  {
+    "word": "mechanic",
+    "quiz": {
+      "answer": "整備士",
+      "options": [
+        "技術者",
+        "管理者",
+        "販売員"
+      ]
+    }
+  },
+  {
+    "word": "merger",
+    "quiz": {
+      "answer": "合併",
+      "options": [
+        "分割",
+        "創立",
+        "廃止"
+      ]
+    }
+  },
+  {
+    "word": "soccer",
+    "quiz": {
+      "answer": "サッカー",
+      "options": [
+        "野球",
+        "バスケットボール",
+        "テニス"
+      ]
+    }
+  },
+  {
+    "word": "sweater",
+    "quiz": {
+      "answer": "セーター",
+      "options": [
+        "ジャケット",
+        "コート",
+        "パンツ"
+      ]
+    }
+  },
+  {
+    "word": "ingredient",
+    "quiz": {
+      "answer": "材料",
+      "options": [
+        "製品",
+        "器具",
+        "ツール"
+      ]
+    }
+  },
+  {
+    "word": "rewrite",
+    "quiz": {
+      "answer": "書き直す",
+      "options": [
+        "コピー",
+        "無視",
+        "削除"
+      ]
+    }
+  },
+  {
+    "word": "itinerary",
+    "quiz": {
+      "answer": "旅程",
+      "options": [
+        "日程",
+        "目的",
+        "停止"
+      ]
+    }
+  },
+  {
+    "word": "workplace",
+    "quiz": {
+      "answer": "職場",
+      "options": [
+        "家",
+        "学校",
+        "公園"
+      ]
+    }
+  },
+  {
+    "word": "architect",
+    "quiz": {
+      "answer": "建築家",
+      "options": [
+        "教師",
+        "エンジニア",
+        "芸術家"
+      ]
+    }
+  },
+  {
+    "word": "convenience",
+    "quiz": {
+      "answer": "便利",
+      "options": [
+        "不便",
+        "複雑",
+        "簡単"
+      ]
+    }
+  },
+  {
+    "word": "eligible",
+    "quiz": {
+      "answer": "資格がある",
+      "options": [
+        "不適格",
+        "無関心",
+        "不参加"
+      ]
+    }
+  }
+]

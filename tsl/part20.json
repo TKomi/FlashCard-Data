@@ -1,0 +1,552 @@
+[
+  {
+    "word": "thunderstorm",
+    "quiz": {
+      "answer": "雷雨",
+      "options": [
+        "晴天",
+        "熱波",
+        "吹雪"
+      ]
+    }
+  },
+  {
+    "word": "transmission",
+    "quiz": {
+      "answer": "伝送",
+      "options": [
+        "受信",
+        "静止",
+        "解析"
+      ]
+    }
+  },
+  {
+    "word": "transmit",
+    "quiz": {
+      "answer": "送信する",
+      "options": [
+        "受け取る",
+        "忘れる",
+        "停止する"
+      ]
+    }
+  },
+  {
+    "word": "unused",
+    "quiz": {
+      "answer": "未使用の",
+      "options": [
+        "使用済みの",
+        "汚染された",
+        "壊れた"
+      ]
+    }
+  },
+  {
+    "word": "waive",
+    "quiz": {
+      "answer": "放棄する",
+      "options": [
+        "要求する",
+        "強化する",
+        "確認する"
+      ]
+    }
+  },
+  {
+    "word": "yen",
+    "quiz": {
+      "answer": "円",
+      "options": [
+        "ドル",
+        "ユーロ",
+        "ポンド"
+      ]
+    }
+  },
+  {
+    "word": "activate",
+    "quiz": {
+      "answer": "活性化する",
+      "options": [
+        "非活性化する",
+        "無視する",
+        "消去する"
+      ]
+    }
+  },
+  {
+    "word": "additionally",
+    "quiz": {
+      "answer": "追加で",
+      "options": [
+        "減少して",
+        "代わりに",
+        "無視して"
+      ]
+    }
+  },
+  {
+    "word": "affirmative",
+    "quiz": {
+      "answer": "肯定的",
+      "options": [
+        "否定的",
+        "無関心な",
+        "不明瞭な"
+      ]
+    }
+  },
+  {
+    "word": "baker",
+    "quiz": {
+      "answer": "パン屋",
+      "options": [
+        "肉屋",
+        "野菜販売者",
+        "魚屋"
+      ]
+    }
+  },
+  {
+    "word": "brainstorm",
+    "quiz": {
+      "answer": "ブレインストーミング",
+      "options": [
+        "熟考",
+        "無視",
+        "単独作業"
+      ]
+    }
+  },
+  {
+    "word": "cage",
+    "quiz": {
+      "answer": "籠",
+      "options": [
+        "部屋",
+        "広場",
+        "海"
+      ]
+    }
+  },
+  {
+    "word": "cinema",
+    "quiz": {
+      "answer": "映画館",
+      "options": [
+        "図書館",
+        "劇場",
+        "美術館"
+      ]
+    }
+  },
+  {
+    "word": "collaboration",
+    "quiz": {
+      "answer": "協力",
+      "options": [
+        "対立",
+        "独立",
+        "分離"
+      ]
+    }
+  },
+  {
+    "word": "condominium",
+    "quiz": {
+      "answer": "分譲マンション",
+      "options": [
+        "一軒家",
+        "テント",
+        "ホテル"
+      ]
+    }
+  },
+  {
+    "word": "consecutive",
+    "quiz": {
+      "answer": "連続的",
+      "options": [
+        "断続的",
+        "稀",
+        "間歇的"
+      ]
+    }
+  },
+  {
+    "word": "cordless",
+    "quiz": {
+      "answer": "コードレス",
+      "options": [
+        "有線の",
+        "固定式",
+        "永久的"
+      ]
+    }
+  },
+  {
+    "word": "deluxe",
+    "quiz": {
+      "answer": "高級な",
+      "options": [
+        "基本的な",
+        "質素な",
+        "劣化した"
+      ]
+    }
+  },
+  {
+    "word": "desirable",
+    "quiz": {
+      "answer": "望ましい",
+      "options": [
+        "避けるべき",
+        "一般的な",
+        "無関心な"
+      ]
+    }
+  },
+  {
+    "word": "discrepancy",
+    "quiz": {
+      "answer": "不一致",
+      "options": [
+        "一致",
+        "調和",
+        "同意"
+      ]
+    }
+  },
+  {
+    "word": "dispatch",
+    "quiz": {
+      "answer": "発送",
+      "options": [
+        "保留",
+        "取り消し",
+        "遅延"
+      ]
+    }
+  },
+  {
+    "word": "drawback",
+    "quiz": {
+      "answer": "欠点",
+      "options": [
+        "長所",
+        "利点",
+        "無関係"
+      ]
+    }
+  },
+  {
+    "word": "dull",
+    "quiz": {
+      "answer": "退屈な",
+      "options": [
+        "魅力的",
+        "興奮する",
+        "明るい"
+      ]
+    }
+  },
+  {
+    "word": "economically",
+    "quiz": {
+      "answer": "経済的に",
+      "options": [
+        "贅沢に",
+        "無駄に",
+        "大規模に"
+      ]
+    }
+  },
+  {
+    "word": "evenly",
+    "quiz": {
+      "answer": "均等に",
+      "options": [
+        "不均等に",
+        "断続的に",
+        "集中的に"
+      ]
+    }
+  },
+  {
+    "word": "excellence",
+    "quiz": {
+      "answer": "優秀",
+      "options": [
+        "平凡",
+        "劣等",
+        "不十分"
+      ]
+    }
+  },
+  {
+    "word": "exclusively",
+    "quiz": {
+      "answer": "排他的に",
+      "options": [
+        "包括的に",
+        "間接的に",
+        "一般的に"
+      ]
+    }
+  },
+  {
+    "word": "farewell",
+    "quiz": {
+      "answer": "別れ",
+      "options": [
+        "歓迎",
+        "開始",
+        "継続"
+      ]
+    }
+  },
+  {
+    "word": "fatigue",
+    "quiz": {
+      "answer": "疲労",
+      "options": [
+        "活力",
+        "元気",
+        "活動"
+      ]
+    }
+  },
+  {
+    "word": "fiscal",
+    "quiz": {
+      "answer": "財政の",
+      "options": [
+        "物理的な",
+        "社会的な",
+        "非経済的"
+      ]
+    }
+  },
+  {
+    "word": "fleet",
+    "quiz": {
+      "answer": "艦隊",
+      "options": [
+        "単艦",
+        "停泊",
+        "静止"
+      ]
+    }
+  },
+  {
+    "word": "flour",
+    "quiz": {
+      "answer": "小麦粉",
+      "options": [
+        "砂糖",
+        "塩",
+        "ペッパー"
+      ]
+    }
+  },
+  {
+    "word": "fog",
+    "quiz": {
+      "answer": "霧",
+      "options": [
+        "晴れ",
+        "風",
+        "熱波"
+      ]
+    }
+  },
+  {
+    "word": "formally",
+    "quiz": {
+      "answer": "正式に",
+      "options": [
+        "非公式に",
+        "無作法に",
+        "たまに"
+      ]
+    }
+  },
+  {
+    "word": "gram",
+    "quiz": {
+      "answer": "グラム",
+      "options": [
+        "リットル",
+        "キロ",
+        "トン"
+      ]
+    }
+  },
+  {
+    "word": "handbook",
+    "quiz": {
+      "answer": "ハンドブック",
+      "options": [
+        "小説",
+        "辞書",
+        "雑誌"
+      ]
+    }
+  },
+  {
+    "word": "headphone",
+    "quiz": {
+      "answer": "ヘッドホン",
+      "options": [
+        "スピーカー",
+        "マイク",
+        "アンプ"
+      ]
+    }
+  },
+  {
+    "word": "heater",
+    "quiz": {
+      "answer": "ヒーター",
+      "options": [
+        "エアコン",
+        "扇風機",
+        "冷蔵庫"
+      ]
+    }
+  },
+  {
+    "word": "helmet",
+    "quiz": {
+      "answer": "ヘルメット",
+      "options": [
+        "帽子",
+        "マフラー",
+        "グローブ"
+      ]
+    }
+  },
+  {
+    "word": "hiker",
+    "quiz": {
+      "answer": "ハイカー",
+      "options": [
+        "自転車乗り",
+        "運転手",
+        "泳ぎ手"
+      ]
+    }
+  },
+  {
+    "word": "homeless",
+    "quiz": {
+      "answer": "ホームレス",
+      "options": [
+        "住宅所有者",
+        "テナント",
+        "富豪"
+      ]
+    }
+  },
+  {
+    "word": "lighter",
+    "quiz": {
+      "answer": "ライター",
+      "options": [
+        "灰皿",
+        "マッチ",
+        "煙草"
+      ]
+    }
+  },
+  {
+    "word": "loudly",
+    "quiz": {
+      "answer": "大声で",
+      "options": [
+        "静かに",
+        "ささやかに",
+        "読む"
+      ]
+    }
+  },
+  {
+    "word": "loyalty",
+    "quiz": {
+      "answer": "忠誠",
+      "options": [
+        "裏切り",
+        "無関心",
+        "反逆"
+      ]
+    }
+  },
+  {
+    "word": "microwave",
+    "quiz": {
+      "answer": "電子レンジ",
+      "options": [
+        "オーブン",
+        "冷蔵庫",
+        "洗濯機"
+      ]
+    }
+  },
+  {
+    "word": "misidentify",
+    "quiz": {
+      "answer": "誤認",
+      "options": [
+        "正確に識別",
+        "無視",
+        "確認"
+      ]
+    }
+  },
+  {
+    "word": "neat",
+    "quiz": {
+      "answer": "きちんとした",
+      "options": [
+        "乱雑な",
+        "汚い",
+        "広範囲"
+      ]
+    }
+  },
+  {
+    "word": "nomination",
+    "quiz": {
+      "answer": "指名",
+      "options": [
+        "拒否",
+        "無視",
+        "批判"
+      ]
+    }
+  },
+  {
+    "word": "officially",
+    "quiz": {
+      "answer": "公式に",
+      "options": [
+        "私的に",
+        "非公開で",
+        "間接的に"
+      ]
+    }
+  },
+  {
+    "word": "outfit",
+    "quiz": {
+      "answer": "服装",
+      "options": [
+        "裸",
+        "制服",
+        "古着"
+      ]
+    }
+  }
+]

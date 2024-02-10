@@ -1,0 +1,552 @@
+[
+  {
+    "word": "seldom",
+    "quiz": {
+      "answer": "めったにない",
+      "options": [
+        "頻繁に",
+        "常に",
+        "いつも"
+      ]
+    }
+  },
+  {
+    "word": "signature",
+    "quiz": {
+      "answer": "署名",
+      "options": [
+        "印鑑",
+        "認証",
+        "パスワード"
+      ]
+    }
+  },
+  {
+    "word": "worldwide",
+    "quiz": {
+      "answer": "世界的に",
+      "options": [
+        "地域的に",
+        "国内で",
+        "個人的に"
+      ]
+    }
+  },
+  {
+    "word": "carrier",
+    "quiz": {
+      "answer": "運送業者",
+      "options": [
+        "受取人",
+        "発送人",
+        "製造業者"
+      ]
+    }
+  },
+  {
+    "word": "designate",
+    "quiz": {
+      "answer": "指名する",
+      "options": [
+        "無視する",
+        "取り消す",
+        "誤認する"
+      ]
+    }
+  },
+  {
+    "word": "exclusive",
+    "quiz": {
+      "answer": "独占的な",
+      "options": [
+        "共有の",
+        "開放的な",
+        "一般的な"
+      ]
+    }
+  },
+  {
+    "word": "grocery",
+    "quiz": {
+      "answer": "食料品店",
+      "options": [
+        "衣料品店",
+        "家具店",
+        "書店"
+      ]
+    }
+  },
+  {
+    "word": "homework",
+    "quiz": {
+      "answer": "宿題",
+      "options": [
+        "事務作業",
+        "会社の仕事",
+        "クラス活動"
+      ]
+    }
+  },
+  {
+    "word": "memorandum",
+    "quiz": {
+      "answer": "覚書",
+      "options": [
+        "契約書",
+        "手紙",
+        "日記"
+      ]
+    }
+  },
+  {
+    "word": "photocopier",
+    "quiz": {
+      "answer": "コピー機",
+      "options": [
+        "プリンター",
+        "スキャナー",
+        "ファックス"
+      ]
+    }
+  },
+  {
+    "word": "suite",
+    "quiz": {
+      "answer": "スイートルーム",
+      "options": [
+        "個室",
+        "一般室",
+        "ダブルルーム"
+      ]
+    }
+  },
+  {
+    "word": "thorough",
+    "quiz": {
+      "answer": "徹底的な",
+      "options": [
+        "浅い",
+        "簡単な",
+        "一時的な"
+      ]
+    }
+  },
+  {
+    "word": "bookstore",
+    "quiz": {
+      "answer": "書店",
+      "options": [
+        "図書館",
+        "カフェ",
+        "映画館"
+      ]
+    }
+  },
+  {
+    "word": "cater",
+    "quiz": {
+      "answer": "料理を提供する",
+      "options": [
+        "拒否する",
+        "要求する",
+        "無視する"
+      ]
+    }
+  },
+  {
+    "word": "dental",
+    "quiz": {
+      "answer": "歯科の",
+      "options": [
+        "一般的な",
+        "内科の",
+        "外科の"
+      ]
+    }
+  },
+  {
+    "word": "duration",
+    "quiz": {
+      "answer": "期間",
+      "options": [
+        "瞬間",
+        "永遠",
+        "終了"
+      ]
+    }
+  },
+  {
+    "word": "lounge",
+    "quiz": {
+      "answer": "ラウンジ",
+      "options": [
+        "会議室",
+        "教室",
+        "オフィス"
+      ]
+    }
+  },
+  {
+    "word": "painter",
+    "quiz": {
+      "answer": "画家",
+      "options": [
+        "彫刻家",
+        "作家",
+        "ミュージシャン"
+      ]
+    }
+  },
+  {
+    "word": "patron",
+    "quiz": {
+      "answer": "後援者",
+      "options": [
+        "敵",
+        "競争者",
+        "客"
+      ]
+    }
+  },
+  {
+    "word": "prescription",
+    "quiz": {
+      "answer": "処方箋",
+      "options": [
+        "記録",
+        "日記",
+        "手紙"
+      ]
+    }
+  },
+  {
+    "word": "productive",
+    "quiz": {
+      "answer": "生産的な",
+      "options": [
+        "無駄な",
+        "消極的な",
+        "静的な"
+      ]
+    }
+  },
+  {
+    "word": "salad",
+    "quiz": {
+      "answer": "サラダ",
+      "options": [
+        "スープ",
+        "メインディッシュ",
+        "デザート"
+      ]
+    }
+  },
+  {
+    "word": "stack",
+    "quiz": {
+      "answer": "積み重ね",
+      "options": [
+        "散らかし",
+        "減少",
+        "拡散"
+      ]
+    }
+  },
+  {
+    "word": "delegate",
+    "quiz": {
+      "answer": "代表を委任する",
+      "options": [
+        "取り消す",
+        "独立する",
+        "避ける"
+      ]
+    }
+  },
+  {
+    "word": "salesperson",
+    "quiz": {
+      "answer": "販売員",
+      "options": [
+        "顧客",
+        "マネージャー",
+        "製造者"
+      ]
+    }
+  },
+  {
+    "word": "calculator",
+    "quiz": {
+      "answer": "電卓",
+      "options": [
+        "ノートパソコン",
+        "スマートフォン",
+        "タブレット"
+      ]
+    }
+  },
+  {
+    "word": "completion",
+    "quiz": {
+      "answer": "完成",
+      "options": [
+        "開始",
+        "中断",
+        "継続"
+      ]
+    }
+  },
+  {
+    "word": "defect",
+    "quiz": {
+      "answer": "欠陥",
+      "options": [
+        "長所",
+        "強化",
+        "改善"
+      ]
+    }
+  },
+  {
+    "word": "garbage",
+    "quiz": {
+      "answer": "ごみ",
+      "options": [
+        "財宝",
+        "資源",
+        "贈り物"
+      ]
+    }
+  },
+  {
+    "word": "omit",
+    "quiz": {
+      "answer": "省略する",
+      "options": [
+        "強調する",
+        "追加する",
+        "修正する"
+      ]
+    }
+  },
+  {
+    "word": "spite",
+    "quiz": {
+      "answer": "悪意",
+      "options": [
+        "善意",
+        "感謝",
+        "尊敬"
+      ]
+    }
+  },
+  {
+    "word": "bathroom",
+    "quiz": {
+      "answer": "浴室",
+      "options": [
+        "キッチン",
+        "寝室",
+        "リビングルーム"
+      ]
+    }
+  },
+  {
+    "word": "cab",
+    "quiz": {
+      "answer": "タクシー",
+      "options": [
+        "バス",
+        "自転車",
+        "飛行機"
+      ]
+    }
+  },
+  {
+    "word": "correspondence",
+    "quiz": {
+      "answer": "文書通信",
+      "options": [
+        "面会",
+        "電話会議",
+        "直接会話"
+      ]
+    }
+  },
+  {
+    "word": "ladder",
+    "quiz": {
+      "answer": "はしご",
+      "options": [
+        "滑り台",
+        "橋",
+        "階段"
+      ]
+    }
+  },
+  {
+    "word": "photography",
+    "quiz": {
+      "answer": "写真撮影",
+      "options": [
+        "絵画",
+        "彫刻",
+        "書道"
+      ]
+    }
+  },
+  {
+    "word": "sculpture",
+    "quiz": {
+      "answer": "彫刻",
+      "options": [
+        "絵画",
+        "写真",
+        "書道"
+      ]
+    }
+  },
+  {
+    "word": "anniversary",
+    "quiz": {
+      "answer": "記念日",
+      "options": [
+        "誕生日",
+        "祝日",
+        "年末"
+      ]
+    }
+  },
+  {
+    "word": "buffet",
+    "quiz": {
+      "answer": "ビュッフェ",
+      "options": [
+        "アラカルト",
+        "カフェ",
+        "レストラン"
+      ]
+    }
+  },
+  {
+    "word": "defective",
+    "quiz": {
+      "answer": "欠陥がある",
+      "options": [
+        "完璧な",
+        "改善された",
+        "強化された"
+      ]
+    }
+  },
+  {
+    "word": "ice cream",
+    "quiz": {
+      "answer": "アイスクリーム",
+      "options": [
+        "ホットケーキ",
+        "チョコレート",
+        "ケーキ"
+      ]
+    }
+  },
+  {
+    "word": "leak",
+    "quiz": {
+      "answer": "漏れる",
+      "options": [
+        "防ぐ",
+        "乾燥する",
+        "凍結する"
+      ]
+    }
+  },
+  {
+    "word": "occupancy",
+    "quiz": {
+      "answer": "占有",
+      "options": [
+        "空室",
+        "閉鎖",
+        "解放"
+      ]
+    }
+  },
+  {
+    "word": "proficiency",
+    "quiz": {
+      "answer": "熟達",
+      "options": [
+        "初心者",
+        "不十分",
+        "下手"
+      ]
+    }
+  },
+  {
+    "word": "renewal",
+    "quiz": {
+      "answer": "更新",
+      "options": [
+        "停止",
+        "取り消し",
+        "継続"
+      ]
+    }
+  },
+  {
+    "word": "urgent",
+    "quiz": {
+      "answer": "緊急の",
+      "options": [
+        "無関心な",
+        "遅延の",
+        "余裕のある"
+      ]
+    }
+  },
+  {
+    "word": "annually",
+    "quiz": {
+      "answer": "年に一度",
+      "options": [
+        "毎月",
+        "毎週",
+        "毎日"
+      ]
+    }
+  },
+  {
+    "word": "basketball",
+    "quiz": {
+      "answer": "バスケットボール",
+      "options": [
+        "サッカー",
+        "野球",
+        "テニス"
+      ]
+    }
+  },
+  {
+    "word": "delete",
+    "quiz": {
+      "answer": "削除する",
+      "options": [
+        "保存する",
+        "追加する",
+        "強調する"
+      ]
+    }
+  },
+  {
+    "word": "illogical",
+    "quiz": {
+      "answer": "非論理的な",
+      "options": [
+        "合理的な",
+        "論理的な",
+        "明白な"
+      ]
+    }
+  }
+]

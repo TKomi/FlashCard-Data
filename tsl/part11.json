@@ -1,0 +1,552 @@
+[
+  {
+    "word": "lawn",
+    "quiz": {
+      "answer": "芝生",
+      "options": [
+        "庭",
+        "畑",
+        "山"
+      ]
+    }
+  },
+  {
+    "word": "microscope",
+    "quiz": {
+      "answer": "顕微鏡",
+      "options": [
+        "望遠鏡",
+        "カメラ",
+        "レンズ"
+      ]
+    }
+  },
+  {
+    "word": "mislead",
+    "quiz": {
+      "answer": "誤解させる",
+      "options": [
+        "正しく案内する",
+        "確認する",
+        "支援する"
+      ]
+    }
+  },
+  {
+    "word": "misplace",
+    "quiz": {
+      "answer": "置き忘れる",
+      "options": [
+        "保管する",
+        "固定する",
+        "集める"
+      ]
+    }
+  },
+  {
+    "word": "newsstand",
+    "quiz": {
+      "answer": "新聞販売所",
+      "options": [
+        "図書館",
+        "カフェ",
+        "スーパーマーケット"
+      ]
+    }
+  },
+  {
+    "word": "overhead",
+    "quiz": {
+      "answer": "高い",
+      "options": [
+        "地面に",
+        "低い",
+        "水中の"
+      ]
+    }
+  },
+  {
+    "word": "portfolio",
+    "quiz": {
+      "answer": "ポートフォリオ",
+      "options": [
+        "日記",
+        "手帳",
+        "メモ帳"
+      ]
+    }
+  },
+  {
+    "word": "rack",
+    "quiz": {
+      "answer": "棚",
+      "options": [
+        "床",
+        "ベッド",
+        "ソファ"
+      ]
+    }
+  },
+  {
+    "word": "remodel",
+    "quiz": {
+      "answer": "改装する",
+      "options": [
+        "壊す",
+        "閉じる",
+        "購入する"
+      ]
+    }
+  },
+  {
+    "word": "statistics",
+    "quiz": {
+      "answer": "統計",
+      "options": [
+        "物語",
+        "予測",
+        "計画"
+      ]
+    }
+  },
+  {
+    "word": "tunnel",
+    "quiz": {
+      "answer": "トンネル",
+      "options": [
+        "橋",
+        "道",
+        "庭"
+      ]
+    }
+  },
+  {
+    "word": "unlimited",
+    "quiz": {
+      "answer": "無制限の",
+      "options": [
+        "限定された",
+        "一時的な",
+        "禁止された"
+      ]
+    }
+  },
+  {
+    "word": "vitamin",
+    "quiz": {
+      "answer": "ビタミン",
+      "options": [
+        "タンパク質",
+        "炭水化物",
+        "脂肪"
+      ]
+    }
+  },
+  {
+    "word": "zoo",
+    "quiz": {
+      "answer": "動物園",
+      "options": [
+        "図書館",
+        "公園",
+        "美術館"
+      ]
+    }
+  },
+  {
+    "word": "alert",
+    "quiz": {
+      "answer": "警戒する",
+      "options": [
+        "安心する",
+        "無視する",
+        "休む"
+      ]
+    }
+  },
+  {
+    "word": "auditorium",
+    "quiz": {
+      "answer": "講堂",
+      "options": [
+        "教室",
+        "オフィス",
+        "屋外"
+      ]
+    }
+  },
+  {
+    "word": "celebrity",
+    "quiz": {
+      "answer": "有名人",
+      "options": [
+        "一般人",
+        "新入生",
+        "観客"
+      ]
+    }
+  },
+  {
+    "word": "deduct",
+    "quiz": {
+      "answer": "控除する",
+      "options": [
+        "加える",
+        "乗算する",
+        "分割する"
+      ]
+    }
+  },
+  {
+    "word": "disruption",
+    "quiz": {
+      "answer": "混乱",
+      "options": [
+        "秩序",
+        "静寂",
+        "協調"
+      ]
+    }
+  },
+  {
+    "word": "electrician",
+    "quiz": {
+      "answer": "電気技師",
+      "options": [
+        "水道工",
+        "大工",
+        "塗装工"
+      ]
+    }
+  },
+  {
+    "word": "enthusiastic",
+    "quiz": {
+      "answer": "熱心な",
+      "options": [
+        "無関心な",
+        "冷静な",
+        "悲観的な"
+      ]
+    }
+  },
+  {
+    "word": "graduation",
+    "quiz": {
+      "answer": "卒業",
+      "options": [
+        "入学",
+        "中断",
+        "開始"
+      ]
+    }
+  },
+  {
+    "word": "icy",
+    "quiz": {
+      "answer": "凍った",
+      "options": [
+        "温かい",
+        "乾燥した",
+        "湿った"
+      ]
+    }
+  },
+  {
+    "word": "irregular",
+    "quiz": {
+      "answer": "不規則な",
+      "options": [
+        "規則正しい",
+        "一定の",
+        "定期的な"
+      ]
+    }
+  },
+  {
+    "word": "login",
+    "quiz": {
+      "answer": "ログイン",
+      "options": [
+        "ログアウト",
+        "シャットダウン",
+        "開始"
+      ]
+    }
+  },
+  {
+    "word": "managerial",
+    "quiz": {
+      "answer": "管理の",
+      "options": [
+        "従業員の",
+        "学生の",
+        "外部の"
+      ]
+    }
+  },
+  {
+    "word": "mineral",
+    "quiz": {
+      "answer": "鉱物",
+      "options": [
+        "植物",
+        "動物",
+        "ガス"
+      ]
+    }
+  },
+  {
+    "word": "motorcycle",
+    "quiz": {
+      "answer": "オートバイ",
+      "options": [
+        "自動車",
+        "自転車",
+        "馬車"
+      ]
+    }
+  },
+  {
+    "word": "necessity",
+    "quiz": {
+      "answer": "必需品",
+      "options": [
+        "豪華品",
+        "余分",
+        "廃棄物"
+      ]
+    }
+  },
+  {
+    "word": "planner",
+    "quiz": {
+      "answer": "プランナー",
+      "options": [
+        "実行者",
+        "観察者",
+        "批評家"
+      ]
+    }
+  },
+  {
+    "word": "programmer",
+    "quiz": {
+      "answer": "プログラマー",
+      "options": [
+        "デザイナー",
+        "エンジニア",
+        "アーティスト"
+      ]
+    }
+  },
+  {
+    "word": "proofread",
+    "quiz": {
+      "answer": "校正する",
+      "options": [
+        "書く",
+        "無視する",
+        "削除する"
+      ]
+    }
+  },
+  {
+    "word": "recruiter",
+    "quiz": {
+      "answer": "採用担当者",
+      "options": [
+        "応募者",
+        "退職者",
+        "転職者"
+      ]
+    }
+  },
+  {
+    "word": "remainder",
+    "quiz": {
+      "answer": "残り",
+      "options": [
+        "全部",
+        "開始",
+        "終了"
+      ]
+    }
+  },
+  {
+    "word": "statue",
+    "quiz": {
+      "answer": "彫像",
+      "options": [
+        "絵画",
+        "写真",
+        "書籍"
+      ]
+    }
+  },
+  {
+    "word": "steadily",
+    "quiz": {
+      "answer": "着実に",
+      "options": [
+        "不安定に",
+        "急激に",
+        "たまに"
+      ]
+    }
+  },
+  {
+    "word": "stockholder",
+    "quiz": {
+      "answer": "株主",
+      "options": [
+        "従業員",
+        "顧客",
+        "競合他社"
+      ]
+    }
+  },
+  {
+    "word": "vacant",
+    "quiz": {
+      "answer": "空いている",
+      "options": [
+        "満員の",
+        "使用中の",
+        "閉鎖された"
+      ]
+    }
+  },
+  {
+    "word": "accessory",
+    "quiz": {
+      "answer": "アクセサリー",
+      "options": [
+        "主要部",
+        "大部分",
+        "基礎"
+      ]
+    }
+  },
+  {
+    "word": "assembly",
+    "quiz": {
+      "answer": "組み立て",
+      "options": [
+        "分解",
+        "破壊",
+        "避難"
+      ]
+    }
+  },
+  {
+    "word": "basket",
+    "quiz": {
+      "answer": "バスケット",
+      "options": [
+        "ボックス",
+        "袋",
+        "ケース"
+      ]
+    }
+  },
+  {
+    "word": "certification",
+    "quiz": {
+      "answer": "認証",
+      "options": [
+        "否定",
+        "疑問",
+        "無視"
+      ]
+    }
+  },
+  {
+    "word": "closure",
+    "quiz": {
+      "answer": "閉鎖",
+      "options": [
+        "開放",
+        "拡張",
+        "継続"
+      ]
+    }
+  },
+  {
+    "word": "dislike",
+    "quiz": {
+      "answer": "嫌悪",
+      "options": [
+        "好意",
+        "興味",
+        "無関心"
+      ]
+    }
+  },
+  {
+    "word": "downstairs",
+    "quiz": {
+      "answer": "階下",
+      "options": [
+        "階上",
+        "屋外",
+        "屋根裏"
+      ]
+    }
+  },
+  {
+    "word": "expiration",
+    "quiz": {
+      "answer": "有効期限",
+      "options": [
+        "開始",
+        "継続",
+        "延長"
+      ]
+    }
+  },
+  {
+    "word": "headache",
+    "quiz": {
+      "answer": "頭痛",
+      "options": [
+        "安心",
+        "楽しみ",
+        "快適"
+      ]
+    }
+  },
+  {
+    "word": "jam",
+    "quiz": {
+      "answer": "ジャム",
+      "options": [
+        "ゼリー",
+        "バター",
+        "チーズ"
+      ]
+    }
+  },
+  {
+    "word": "nail",
+    "quiz": {
+      "answer": "釘",
+      "options": [
+        "ねじ",
+        "ボルト",
+        "針"
+      ]
+    }
+  },
+  {
+    "word": "optimistic",
+    "quiz": {
+      "answer": "楽観的",
+      "options": [
+        "悲観的",
+        "無関心",
+        "客観的"
+      ]
+    }
+  }
+]

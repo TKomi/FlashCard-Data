@@ -1,0 +1,552 @@
+[
+  {
+    "word": "blanket",
+    "quiz": {
+      "answer": "毛布",
+      "options": [
+        "タオル",
+        "カーテン",
+        "シーツ"
+      ]
+    }
+  },
+  {
+    "word": "chairperson",
+    "quiz": {
+      "answer": "議長",
+      "options": [
+        "社員",
+        "客",
+        "学生"
+      ]
+    }
+  },
+  {
+    "word": "charitable",
+    "quiz": {
+      "answer": "慈善的な",
+      "options": [
+        "利己的な",
+        "競争的な",
+        "冷淡な"
+      ]
+    }
+  },
+  {
+    "word": "checkup",
+    "quiz": {
+      "answer": "健康診断",
+      "options": [
+        "修理",
+        "面接",
+        "休憩"
+      ]
+    }
+  },
+  {
+    "word": "cooler",
+    "quiz": {
+      "answer": "冷却器",
+      "options": [
+        "ヒーター",
+        "ストーブ",
+        "ランプ"
+      ]
+    }
+  },
+  {
+    "word": "crane",
+    "quiz": {
+      "answer": "クレーン",
+      "options": [
+        "トラック",
+        "ショベル",
+        "バイク"
+      ]
+    }
+  },
+  {
+    "word": "dealership",
+    "quiz": {
+      "answer": "販売代理店",
+      "options": [
+        "工場",
+        "図書館",
+        "病院"
+      ]
+    }
+  },
+  {
+    "word": "dependable",
+    "quiz": {
+      "answer": "信頼できる",
+      "options": [
+        "不安定な",
+        "危険な",
+        "予測不可能な"
+      ]
+    }
+  },
+  {
+    "word": "disconnect",
+    "quiz": {
+      "answer": "切断する",
+      "options": [
+        "接続する",
+        "強化する",
+        "統合する"
+      ]
+    }
+  },
+  {
+    "word": "dispose",
+    "quiz": {
+      "answer": "処分する",
+      "options": [
+        "保持する",
+        "集める",
+        "購入する"
+      ]
+    }
+  },
+  {
+    "word": "disrupt",
+    "quiz": {
+      "answer": "混乱させる",
+      "options": [
+        "安定させる",
+        "強化する",
+        "保護する"
+      ]
+    }
+  },
+  {
+    "word": "dynamic",
+    "quiz": {
+      "answer": "ダイナミック",
+      "options": [
+        "静的",
+        "弱い",
+        "遅い"
+      ]
+    }
+  },
+  {
+    "word": "enthusiastically",
+    "quiz": {
+      "answer": "熱心に",
+      "options": [
+        "無関心に",
+        "悲観的に",
+        "ゆっくりと"
+      ]
+    }
+  },
+  {
+    "word": "freelance",
+    "quiz": {
+      "answer": "フリーランス",
+      "options": [
+        "正社員",
+        "アルバイト",
+        "無職"
+      ]
+    }
+  },
+  {
+    "word": "grill",
+    "quiz": {
+      "answer": "グリル",
+      "options": [
+        "煮る",
+        "蒸す",
+        "冷やす"
+      ]
+    }
+  },
+  {
+    "word": "habitual",
+    "quiz": {
+      "answer": "習慣的な",
+      "options": [
+        "たまに",
+        "異常な",
+        "新しい"
+      ]
+    }
+  },
+  {
+    "word": "internationally",
+    "quiz": {
+      "answer": "国際的に",
+      "options": [
+        "国内で",
+        "地方で",
+        "個人的に"
+      ]
+    }
+  },
+  {
+    "word": "invaluable",
+    "quiz": {
+      "answer": "非常に貴重な",
+      "options": [
+        "価値がない",
+        "安価な",
+        "一般的な"
+      ]
+    }
+  },
+  {
+    "word": "messenger",
+    "quiz": {
+      "answer": "使者",
+      "options": [
+        "監督",
+        "教師",
+        "技術者"
+      ]
+    }
+  },
+  {
+    "word": "paperback",
+    "quiz": {
+      "answer": "文庫本",
+      "options": [
+        "ハードカバー",
+        "雑誌",
+        "新聞"
+      ]
+    }
+  },
+  {
+    "word": "rebate",
+    "quiz": {
+      "answer": "払い戻し",
+      "options": [
+        "増税",
+        "費用",
+        "料金"
+      ]
+    }
+  },
+  {
+    "word": "recur",
+    "quiz": {
+      "answer": "繰り返す",
+      "options": [
+        "終了する",
+        "減少する",
+        "進化する"
+      ]
+    }
+  },
+  {
+    "word": "reproduce",
+    "quiz": {
+      "answer": "再生産する",
+      "options": [
+        "破壊する",
+        "忘れる",
+        "拒否する"
+      ]
+    }
+  },
+  {
+    "word": "spray",
+    "quiz": {
+      "answer": "スプレー",
+      "options": [
+        "ドリンク",
+        "クリーム",
+        "パウダー"
+      ]
+    }
+  },
+  {
+    "word": "staple",
+    "quiz": {
+      "answer": "主要な",
+      "options": [
+        "二次的な",
+        "無関係な",
+        "例外的な"
+      ]
+    }
+  },
+  {
+    "word": "strategic",
+    "quiz": {
+      "answer": "戦略的",
+      "options": [
+        "無計画な",
+        "無関心な",
+        "一時的な"
+      ]
+    }
+  },
+  {
+    "word": "stripe",
+    "quiz": {
+      "answer": "ストライプ",
+      "options": [
+        "無地",
+        "チェック",
+        "ドット"
+      ]
+    }
+  },
+  {
+    "word": "teen",
+    "quiz": {
+      "answer": "十代",
+      "options": [
+        "成人",
+        "幼児",
+        "老人"
+      ]
+    }
+  },
+  {
+    "word": "tempt",
+    "quiz": {
+      "answer": "誘惑する",
+      "options": [
+        "抑制する",
+        "避ける",
+        "忘れる"
+      ]
+    }
+  },
+  {
+    "word": "timer",
+    "quiz": {
+      "answer": "タイマー",
+      "options": [
+        "時計",
+        "カレンダー",
+        "コンパス"
+      ]
+    }
+  },
+  {
+    "word": "unload",
+    "quiz": {
+      "answer": "荷を下ろす",
+      "options": [
+        "積む",
+        "閉じる",
+        "固定する"
+      ]
+    }
+  },
+  {
+    "word": "unusually",
+    "quiz": {
+      "answer": "異常に",
+      "options": [
+        "通常",
+        "稀",
+        "定期的に"
+      ]
+    }
+  },
+  {
+    "word": "vacate",
+    "quiz": {
+      "answer": "明け渡す",
+      "options": [
+        "占める",
+        "修理する",
+        "強化する"
+      ]
+    }
+  },
+  {
+    "word": "whale",
+    "quiz": {
+      "answer": "鯨",
+      "options": [
+        "魚",
+        "イカ",
+        "エビ"
+      ]
+    }
+  },
+  {
+    "word": "wisely",
+    "quiz": {
+      "answer": "賢明に",
+      "options": [
+        "愚かに",
+        "急いで",
+        "無視して"
+      ]
+    }
+  },
+  {
+    "word": "amateur",
+    "quiz": {
+      "answer": "アマチュア",
+      "options": [
+        "プロ",
+        "初心者",
+        "専門家"
+      ]
+    }
+  },
+  {
+    "word": "ambassador",
+    "quiz": {
+      "answer": "大使",
+      "options": [
+        "学生",
+        "観光客",
+        "ボランティア"
+      ]
+    }
+  },
+  {
+    "word": "anew",
+    "quiz": {
+      "answer": "再び",
+      "options": [
+        "継続して",
+        "中断して",
+        "減少して"
+      ]
+    }
+  },
+  {
+    "word": "architectural",
+    "quiz": {
+      "answer": "建築の",
+      "options": [
+        "自然の",
+        "文学の",
+        "経済の"
+      ]
+    }
+  },
+  {
+    "word": "attain",
+    "quiz": {
+      "answer": "達成する",
+      "options": [
+        "失敗する",
+        "放棄する",
+        "減少する"
+      ]
+    }
+  },
+  {
+    "word": "balloon",
+    "quiz": {
+      "answer": "風船",
+      "options": [
+        "石",
+        "木",
+        "紙"
+      ]
+    }
+  },
+  {
+    "word": "blueprint",
+    "quiz": {
+      "answer": "設計図",
+      "options": [
+        "予想",
+        "回顧",
+        "瞑想"
+      ]
+    }
+  },
+  {
+    "word": "bug",
+    "quiz": {
+      "answer": "虫",
+      "options": [
+        "鳥",
+        "猫",
+        "犬"
+      ]
+    }
+  },
+  {
+    "word": "cautious",
+    "quiz": {
+      "answer": "慎重な",
+      "options": [
+        "無謀な",
+        "急進的",
+        "無関心"
+      ]
+    }
+  },
+  {
+    "word": "circuit",
+    "quiz": {
+      "answer": "回路",
+      "options": [
+        "直線",
+        "断絶",
+        "単純"
+      ]
+    }
+  },
+  {
+    "word": "clap",
+    "quiz": {
+      "answer": "拍手",
+      "options": [
+        "笑い",
+        "泣き",
+        "沈黙"
+      ]
+    }
+  },
+  {
+    "word": "commerce",
+    "quiz": {
+      "answer": "商業",
+      "options": [
+        "学術",
+        "芸術",
+        "医療"
+      ]
+    }
+  },
+  {
+    "word": "convey",
+    "quiz": {
+      "answer": "伝達する",
+      "options": [
+        "隠す",
+        "忘れる",
+        "誤解する"
+      ]
+    }
+  },
+  {
+    "word": "cord",
+    "quiz": {
+      "answer": "コード",
+      "options": [
+        "板",
+        "箱",
+        "バッグ"
+      ]
+    }
+  },
+  {
+    "word": "counselor",
+    "quiz": {
+      "answer": "カウンセラー",
+      "options": [
+        "生徒",
+        "教師",
+        "管理者"
+      ]
+    }
+  }
+]

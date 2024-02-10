@@ -1,0 +1,552 @@
+[
+  {
+    "word": "booklet",
+    "quiz": {
+      "answer": "小冊子",
+      "options": [
+        "雑誌",
+        "新聞",
+        "手紙"
+      ]
+    }
+  },
+  {
+    "word": "conditioner",
+    "quiz": {
+      "answer": "リンス",
+      "options": [
+        "シャンプー",
+        "石鹸",
+        "歯磨き粉"
+      ]
+    }
+  },
+  {
+    "word": "enroll",
+    "quiz": {
+      "answer": "登録する",
+      "options": [
+        "解除する",
+        "拒否する",
+        "無視する"
+      ]
+    }
+  },
+  {
+    "word": "frustrate",
+    "quiz": {
+      "answer": "挫折させる",
+      "options": [
+        "励ます",
+        "安心させる",
+        "喜ばせる"
+      ]
+    }
+  },
+  {
+    "word": "garment",
+    "quiz": {
+      "answer": "衣類",
+      "options": [
+        "家具",
+        "食器",
+        "電化製品"
+      ]
+    }
+  },
+  {
+    "word": "orientation",
+    "quiz": {
+      "answer": "オリエンテーション",
+      "options": [
+        "終了式",
+        "休憩時間",
+        "閉会式"
+      ]
+    }
+  },
+  {
+    "word": "outlet",
+    "quiz": {
+      "answer": "アウトレット",
+      "options": [
+        "入口",
+        "閉鎖区域",
+        "私室"
+      ]
+    }
+  },
+  {
+    "word": "packet",
+    "quiz": {
+      "answer": "小包",
+      "options": [
+        "大箱",
+        "大袋",
+        "大容器"
+      ]
+    }
+  },
+  {
+    "word": "plumber",
+    "quiz": {
+      "answer": "配管工",
+      "options": [
+        "電気工",
+        "大工",
+        "塗装工"
+      ]
+    }
+  },
+  {
+    "word": "specification",
+    "quiz": {
+      "answer": "仕様",
+      "options": [
+        "概要",
+        "全体像",
+        "詳細計画"
+      ]
+    }
+  },
+  {
+    "word": "auto",
+    "quiz": {
+      "answer": "自動車",
+      "options": [
+        "自転車",
+        "馬車",
+        "船"
+      ]
+    }
+  },
+  {
+    "word": "decorate",
+    "quiz": {
+      "answer": "飾る",
+      "options": [
+        "取り壊す",
+        "汚す",
+        "隠す"
+      ]
+    }
+  },
+  {
+    "word": "deduction",
+    "quiz": {
+      "answer": "控除",
+      "options": [
+        "加算",
+        "総計",
+        "倍増"
+      ]
+    }
+  },
+  {
+    "word": "definite",
+    "quiz": {
+      "answer": "明確な",
+      "options": [
+        "不確かな",
+        "曖昧な",
+        "不明瞭な"
+      ]
+    }
+  },
+  {
+    "word": "economical",
+    "quiz": {
+      "answer": "経済的な",
+      "options": [
+        "浪費的な",
+        "贅沢な",
+        "高価な"
+      ]
+    }
+  },
+  {
+    "word": "efficiently",
+    "quiz": {
+      "answer": "効率的に",
+      "options": [
+        "非効率的に",
+        "ゆっくりと",
+        "不注意に"
+      ]
+    }
+  },
+  {
+    "word": "flyer",
+    "quiz": {
+      "answer": "チラシ",
+      "options": [
+        "書籍",
+        "ノート",
+        "日記"
+      ]
+    }
+  },
+  {
+    "word": "franchise",
+    "quiz": {
+      "answer": "フランチャイズ",
+      "options": [
+        "独立企業",
+        "国営企業",
+        "非営利団体"
+      ]
+    }
+  },
+  {
+    "word": "generous",
+    "quiz": {
+      "answer": "寛大な",
+      "options": [
+        "吝嗇な",
+        "冷淡な",
+        "無関心な"
+      ]
+    }
+  },
+  {
+    "word": "interrupt",
+    "quiz": {
+      "answer": "中断する",
+      "options": [
+        "続ける",
+        "開始する",
+        "促進する"
+      ]
+    }
+  },
+  {
+    "word": "oven",
+    "quiz": {
+      "answer": "オーブン",
+      "options": [
+        "冷蔵庫",
+        "洗濯機",
+        "扇風機"
+      ]
+    }
+  },
+  {
+    "word": "pant",
+    "quiz": {
+      "answer": "パンツ",
+      "options": [
+        "シャツ",
+        "コート",
+        "ネクタイ"
+      ]
+    }
+  },
+  {
+    "word": "profitable",
+    "quiz": {
+      "answer": "利益がある",
+      "options": [
+        "損失がある",
+        "無駄な",
+        "非効率的な"
+      ]
+    }
+  },
+  {
+    "word": "refrigerator",
+    "quiz": {
+      "answer": "冷蔵庫",
+      "options": [
+        "オーブン",
+        "電子レンジ",
+        "ガスコンロ"
+      ]
+    }
+  },
+  {
+    "word": "reimburse",
+    "quiz": {
+      "answer": "払い戻す",
+      "options": [
+        "請求する",
+        "借りる",
+        "無視する"
+      ]
+    }
+  },
+  {
+    "word": "showroom",
+    "quiz": {
+      "answer": "ショールーム",
+      "options": [
+        "倉庫",
+        "オフィス",
+        "寝室"
+      ]
+    }
+  },
+  {
+    "word": "vegetarian",
+    "quiz": {
+      "answer": "ベジタリアン",
+      "options": [
+        "肉食主義者",
+        "全食主義者",
+        "海産物愛好家"
+      ]
+    }
+  },
+  {
+    "word": "administrator",
+    "quiz": {
+      "answer": "管理者",
+      "options": [
+        "従業員",
+        "顧客",
+        "学生"
+      ]
+    }
+  },
+  {
+    "word": "broker",
+    "quiz": {
+      "answer": "ブローカー",
+      "options": [
+        "買い手",
+        "売り手",
+        "製造者"
+      ]
+    }
+  },
+  {
+    "word": "cancellation",
+    "quiz": {
+      "answer": "キャンセル",
+      "options": [
+        "確認",
+        "予約",
+        "延長"
+      ]
+    }
+  },
+  {
+    "word": "confidential",
+    "quiz": {
+      "answer": "機密の",
+      "options": [
+        "公開の",
+        "共有の",
+        "一般的な"
+      ]
+    }
+  },
+  {
+    "word": "jet",
+    "quiz": {
+      "answer": "ジェット機",
+      "options": [
+        "自転車",
+        "船",
+        "馬車"
+      ]
+    }
+  },
+  {
+    "word": "realistic",
+    "quiz": {
+      "answer": "現実的な",
+      "options": [
+        "非現実的な",
+        "理想的な",
+        "抽象的な"
+      ]
+    }
+  },
+  {
+    "word": "thoroughly",
+    "quiz": {
+      "answer": "徹底的に",
+      "options": [
+        "ほんの少し",
+        "表面的に",
+        "急いで"
+      ]
+    }
+  },
+  {
+    "word": "trash",
+    "quiz": {
+      "answer": "ごみ",
+      "options": [
+        "宝物",
+        "資源",
+        "贈り物"
+      ]
+    }
+  },
+  {
+    "word": "usage",
+    "quiz": {
+      "answer": "使用法",
+      "options": [
+        "無視",
+        "廃棄",
+        "保存"
+      ]
+    }
+  },
+  {
+    "word": "windy",
+    "quiz": {
+      "answer": "風の強い",
+      "options": [
+        "穏やかな",
+        "雨の",
+        "雪の"
+      ]
+    }
+  },
+  {
+    "word": "automate",
+    "quiz": {
+      "answer": "自動化する",
+      "options": [
+        "手動で操作",
+        "停止",
+        "破壊"
+      ]
+    }
+  },
+  {
+    "word": "ferry",
+    "quiz": {
+      "answer": "フェリー",
+      "options": [
+        "タクシー",
+        "飛行機",
+        "自転車"
+      ]
+    }
+  },
+  {
+    "word": "finalize",
+    "quiz": {
+      "answer": "最終決定する",
+      "options": [
+        "開始する",
+        "中断する",
+        "検討する"
+      ]
+    }
+  },
+  {
+    "word": "incur",
+    "quiz": {
+      "answer": "負担する",
+      "options": [
+        "回避する",
+        "拒否する",
+        "受け入れる"
+      ]
+    }
+  },
+  {
+    "word": "instruct",
+    "quiz": {
+      "answer": "指導する",
+      "options": [
+        "無視する",
+        "阻害する",
+        "避ける"
+      ]
+    }
+  },
+  {
+    "word": "loyal",
+    "quiz": {
+      "answer": "忠実な",
+      "options": [
+        "裏切りの",
+        "無関心な",
+        "反抗的な"
+      ]
+    }
+  },
+  {
+    "word": "luncheon",
+    "quiz": {
+      "answer": "昼食会",
+      "options": [
+        "夕食会",
+        "朝食会",
+        "夜食"
+      ]
+    }
+  },
+  {
+    "word": "microphone",
+    "quiz": {
+      "answer": "マイクロフォン",
+      "options": [
+        "スピーカー",
+        "ヘッドフォン",
+        "アンプ"
+      ]
+    }
+  },
+  {
+    "word": "overview",
+    "quiz": {
+      "answer": "概要",
+      "options": [
+        "詳細",
+        "部分",
+        "無視"
+      ]
+    }
+  },
+  {
+    "word": "projector",
+    "quiz": {
+      "answer": "プロジェクター",
+      "options": [
+        "モニター",
+        "テレビ",
+        "ラジオ"
+      ]
+    }
+  },
+  {
+    "word": "shortage",
+    "quiz": {
+      "answer": "不足",
+      "options": [
+        "余剰",
+        "完全",
+        "豊富"
+      ]
+    }
+  },
+  {
+    "word": "spacious",
+    "quiz": {
+      "answer": "広々とした",
+      "options": [
+        "狭い",
+        "混雑した",
+        "小さい"
+      ]
+    }
+  },
+  {
+    "word": "accomplishment",
+    "quiz": {
+      "answer": "成果",
+      "options": [
+        "失敗",
+        "試み",
+        "計画"
+      ]
+    }
+  }
+]

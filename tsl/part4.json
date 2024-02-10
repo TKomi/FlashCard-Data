@@ -1,0 +1,552 @@
+[
+  {
+    "word": "indoor",
+    "quiz": {
+      "answer": "屋内での",
+      "options": [
+        "屋外での活動",
+        "公共スペース",
+        "自然の光"
+      ]
+    }
+  },
+  {
+    "word": "baggage",
+    "quiz": {
+      "answer": "荷物",
+      "options": [
+        "手荷物",
+        "持ち物",
+        "運搬品"
+      ]
+    }
+  },
+  {
+    "word": "dial",
+    "quiz": {
+      "answer": "電話をかける",
+      "options": [
+        "ボタンを押す",
+        "スクリーンをタッチ",
+        "音声入力"
+      ]
+    }
+  },
+  {
+    "word": "container",
+    "quiz": {
+      "answer": "容器",
+      "options": [
+        "箱",
+        "袋",
+        "パッケージ"
+      ]
+    }
+  },
+  {
+    "word": "drawer",
+    "quiz": {
+      "answer": "引き出し",
+      "options": [
+        "棚",
+        "キャビネット",
+        "収納箱"
+      ]
+    }
+  },
+  {
+    "word": "lab",
+    "quiz": {
+      "answer": "研究室",
+      "options": [
+        "教室",
+        "図書館",
+        "実験セット"
+      ]
+    }
+  },
+  {
+    "word": "submission",
+    "quiz": {
+      "answer": "提出",
+      "options": [
+        "申請",
+        "応募",
+        "承認要求"
+      ]
+    }
+  },
+  {
+    "word": "bulletin",
+    "quiz": {
+      "answer": "掲示",
+      "options": [
+        "通知",
+        "報告",
+        "情報"
+      ]
+    }
+  },
+  {
+    "word": "certificate",
+    "quiz": {
+      "answer": "証明書",
+      "options": [
+        "免許",
+        "資格",
+        "認証"
+      ]
+    }
+  },
+  {
+    "word": "gym",
+    "quiz": {
+      "answer": "体育館",
+      "options": [
+        "スポーツクラブ",
+        "フィットネスセンター",
+        "トレーニングルーム"
+      ]
+    }
+  },
+  {
+    "word": "highway",
+    "quiz": {
+      "answer": "高速道路",
+      "options": [
+        "主要道",
+        "一般道",
+        "裏道"
+      ]
+    }
+  },
+  {
+    "word": "respondent",
+    "quiz": {
+      "answer": "回答者",
+      "options": [
+        "調査対象者",
+        "アンケート参加者",
+        "質問者"
+      ]
+    }
+  },
+  {
+    "word": "jewelry",
+    "quiz": {
+      "answer": "宝石",
+      "options": [
+        "アクセサリー",
+        "貴金属",
+        "装飾品"
+      ]
+    }
+  },
+  {
+    "word": "overtime",
+    "quiz": {
+      "answer": "残業",
+      "options": [
+        "超過勤務",
+        "休日出勤",
+        "勤務時間外"
+      ]
+    }
+  },
+  {
+    "word": "battery",
+    "quiz": {
+      "answer": "電池",
+      "options": [
+        "電源",
+        "エネルギー",
+        "交換可能な部品"
+      ]
+    }
+  },
+  {
+    "word": "donate",
+    "quiz": {
+      "answer": "寄付する",
+      "options": [
+        "贈る",
+        "支援する",
+        "提供する"
+      ]
+    }
+  },
+  {
+    "word": "outstanding",
+    "quiz": {
+      "answer": "優れた",
+      "options": [
+        "目立つ",
+        "卓越した",
+        "顕著な"
+      ]
+    }
+  },
+  {
+    "word": "skim",
+    "quiz": {
+      "answer": "ざっと読む",
+      "options": [
+        "熟読",
+        "詳細検討",
+        "徹底的に調べる"
+      ]
+    }
+  },
+  {
+    "word": "briefcase",
+    "quiz": {
+      "answer": "書類かばん",
+      "options": [
+        "ハンドバッグ",
+        "ラップトップケース",
+        "トートバッグ"
+      ]
+    }
+  },
+  {
+    "word": "dessert",
+    "quiz": {
+      "answer": "甘味",
+      "options": [
+        "砂漠",
+        "主食",
+        "前菜"
+      ]
+    }
+  },
+  {
+    "word": "impact",
+    "quiz": {
+      "answer": "影響",
+      "options": [
+        "衝撃",
+        "結果",
+        "効果"
+      ]
+    }
+  },
+  {
+    "word": "innovative",
+    "quiz": {
+      "answer": "革新的な",
+      "options": [
+        "伝統的な",
+        "既存の",
+        "古典的な"
+      ]
+    }
+  },
+  {
+    "word": "inquire",
+    "quiz": {
+      "answer": "問い合わせる",
+      "options": [
+        "確認する",
+        "通知する",
+        "指示する"
+      ]
+    }
+  },
+  {
+    "word": "overnight",
+    "quiz": {
+      "answer": "一晩中",
+      "options": [
+        "日中",
+        "長期間",
+        "短期間"
+      ]
+    }
+  },
+  {
+    "word": "venue",
+    "quiz": {
+      "answer": "会場",
+      "options": [
+        "集合場所",
+        "プライベートエリア",
+        "オフィス"
+      ]
+    }
+  },
+  {
+    "word": "commuter",
+    "quiz": {
+      "answer": "通勤者",
+      "options": [
+        "在宅勤務者",
+        "長距離通勤者",
+        "一時帰宅者"
+      ]
+    }
+  },
+  {
+    "word": "logo",
+    "quiz": {
+      "answer": "ロゴ",
+      "options": [
+        "シンボル",
+        "ブランド名",
+        "タイトル"
+      ]
+    }
+  },
+  {
+    "word": "newsletter",
+    "quiz": {
+      "answer": "ニュースレター",
+      "options": [
+        "広告",
+        "カタログ",
+        "プレスリリース"
+      ]
+    }
+  },
+  {
+    "word": "advisor",
+    "quiz": {
+      "answer": "アドバイザー",
+      "options": [
+        "生徒",
+        "同僚",
+        "上司"
+      ]
+    }
+  },
+  {
+    "word": "cartridge",
+    "quiz": {
+      "answer": "カートリッジ",
+      "options": [
+        "ボトル",
+        "パック",
+        "容器"
+      ]
+    }
+  },
+  {
+    "word": "cloudy",
+    "quiz": {
+      "answer": "曇り",
+      "options": [
+        "晴れ",
+        "雨",
+        "雪"
+      ]
+    }
+  },
+  {
+    "word": "photographer",
+    "quiz": {
+      "answer": "写真家",
+      "options": [
+        "モデル",
+        "エディター",
+        "アートディレクター"
+      ]
+    }
+  },
+  {
+    "word": "shopper",
+    "quiz": {
+      "answer": "買い物客",
+      "options": [
+        "店員",
+        "オーナー",
+        "サプライヤー"
+      ]
+    }
+  },
+  {
+    "word": "tag",
+    "quiz": {
+      "answer": "タグ",
+      "options": [
+        "ラベル",
+        "ステッカー",
+        "シール"
+      ]
+    }
+  },
+  {
+    "word": "announcer",
+    "quiz": {
+      "answer": "アナウンサー",
+      "options": [
+        "リポーター",
+        "観客",
+        "スピーカー"
+      ]
+    }
+  },
+  {
+    "word": "aspect",
+    "quiz": {
+      "answer": "側面",
+      "options": [
+        "観点",
+        "方向",
+        "方法"
+      ]
+    }
+  },
+  {
+    "word": "audit",
+    "quiz": {
+      "answer": "監査",
+      "options": [
+        "チェック",
+        "評価",
+        "検証"
+      ]
+    }
+  },
+  {
+    "word": "contractor",
+    "quiz": {
+      "answer": "契約業者",
+      "options": [
+        "クライアント",
+        "顧客",
+        "パートナー"
+      ]
+    }
+  },
+  {
+    "word": "download",
+    "quiz": {
+      "answer": "ダウンロード",
+      "options": [
+        "アップロード",
+        "ストリーミング",
+        "キャッシング"
+      ]
+    }
+  },
+  {
+    "word": "password",
+    "quiz": {
+      "answer": "パスワード",
+      "options": [
+        "ユーザーID",
+        "セキュリティコード",
+        "アクセスキー"
+      ]
+    }
+  },
+  {
+    "word": "prohibit",
+    "quiz": {
+      "answer": "禁止する",
+      "options": [
+        "許可する",
+        "奨励する",
+        "推奨する"
+      ]
+    }
+  },
+  {
+    "word": "stadium",
+    "quiz": {
+      "answer": "スタジアム",
+      "options": [
+        "アリーナ",
+        "公園",
+        "劇場"
+      ]
+    }
+  },
+  {
+    "word": "terminal",
+    "quiz": {
+      "answer": "ターミナル",
+      "options": [
+        "ステーション",
+        "デポ",
+        "ハブ"
+      ]
+    }
+  },
+  {
+    "word": "weekday",
+    "quiz": {
+      "answer": "平日",
+      "options": [
+        "週末",
+        "休日",
+        "祝日"
+      ]
+    }
+  },
+  {
+    "word": "bonus",
+    "quiz": {
+      "answer": "ボーナス",
+      "options": [
+        "罰金",
+        "基本給",
+        "手当"
+      ]
+    }
+  },
+  {
+    "word": "cart",
+    "quiz": {
+      "answer": "カート",
+      "options": [
+        "バスケット",
+        "荷車",
+        "トロリー"
+      ]
+    }
+  },
+  {
+    "word": "delicious",
+    "quiz": {
+      "answer": "おいしい",
+      "options": [
+        "まずい",
+        "平凡な",
+        "素晴らしい"
+      ]
+    }
+  },
+  {
+    "word": "ink",
+    "quiz": {
+      "answer": "インク",
+      "options": [
+        "ペン",
+        "鉛筆",
+        "水彩"
+      ]
+    }
+  },
+  {
+    "word": "supervise",
+    "quiz": {
+      "answer": "監督する",
+      "options": [
+        "従事する",
+        "参加する",
+        "協力する"
+      ]
+    }
+  },
+  {
+    "word": "waitress",
+    "quiz": {
+      "answer": "ウェイトレス",
+      "options": [
+        "シェフ",
+        "バーテンダー",
+        "受付"
+      ]
+    }
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "word": "accustom",
+    "quiz": {
+      "answer": "慣れさせる",
+      "options": [
+        "避ける",
+        "変更する",
+        "忘れる"
+      ]
+    }
+  },
+  {
+    "word": "clinic",
+    "quiz": {
+      "answer": "診療所",
+      "options": [
+        "図書館",
+        "食堂",
+        "スーパーマーケット"
+      ]
+    }
+  },
+  {
+    "word": "desktop",
+    "quiz": {
+      "answer": "デスクトップ",
+      "options": [
+        "ノートブック",
+        "タブレット",
+        "スマートフォン"
+      ]
+    }
+  },
+  {
+    "word": "jog",
+    "quiz": {
+      "answer": "ジョギングする",
+      "options": [
+        "歩く",
+        "泳ぐ",
+        "サイクリングする"
+      ]
+    }
+  },
+  {
+    "word": "leisure",
+    "quiz": {
+      "answer": "余暇",
+      "options": [
+        "仕事",
+        "学校",
+        "緊急事態"
+      ]
+    }
+  },
+  {
+    "word": "nap",
+    "quiz": {
+      "answer": "うたた寝",
+      "options": [
+        "長時間の睡眠",
+        "夜更かし",
+        "作業"
+      ]
+    }
+  },
+  {
+    "word": "reinforce",
+    "quiz": {
+      "answer": "強化する",
+      "options": [
+        "弱める",
+        "無視する",
+        "削除する"
+      ]
+    }
+  },
+  {
+    "word": "sender",
+    "quiz": {
+      "answer": "送信者",
+      "options": [
+        "受信者",
+        "視聴者",
+        "読者"
+      ]
+    }
+  },
+  {
+    "word": "vacuum",
+    "quiz": {
+      "answer": "真空",
+      "options": [
+        "満杯",
+        "水溜り",
+        "騒音"
+      ]
+    }
+  },
+  {
+    "word": "wireless",
+    "quiz": {
+      "answer": "ワイヤレス",
+      "options": [
+        "有線",
+        "固定電話",
+        "メール"
+      ]
+    }
+  },
+  {
+    "word": "yearly",
+    "quiz": {
+      "answer": "年間",
+      "options": [
+        "日々",
+        "毎時",
+        "一時的"
+      ]
+    }
+  },
+  {
+    "word": "appreciation",
+    "quiz": {
+      "answer": "評価",
+      "options": [
+        "非難",
+        "無関心",
+        "減価"
+      ]
+    }
+  },
+  {
+    "word": "cargo",
+    "quiz": {
+      "answer": "貨物",
+      "options": [
+        "乗客",
+        "手荷物",
+        "郵便物"
+      ]
+    }
+  },
+  {
+    "word": "cooperate",
+    "quiz": {
+      "answer": "協力する",
+      "options": [
+        "競争する",
+        "拒否する",
+        "無視する"
+      ]
+    }
+  },
+  {
+    "word": "distract",
+    "quiz": {
+      "answer": "気を散らす",
+      "options": [
+        "集中させる",
+        "落ち着かせる",
+        "強化する"
+      ]
+    }
+  },
+  {
+    "word": "dividend",
+    "quiz": {
+      "answer": "配当",
+      "options": [
+        "損失",
+        "費用",
+        "債務"
+      ]
+    }
+  },
+  {
+    "word": "exemption",
+    "quiz": {
+      "answer": "免除",
+      "options": [
+        "課税",
+        "義務",
+        "制限"
+      ]
+    }
+  },
+  {
+    "word": "furnish",
+    "quiz": {
+      "answer": "家具を提供する",
+      "options": [
+        "取り除く",
+        "破壊する",
+        "隠す"
+      ]
+    }
+  },
+  {
+    "word": "hourly",
+    "quiz": {
+      "answer": "時間ごと",
+      "options": [
+        "年間",
+        "一度きり",
+        "日々"
+      ]
+    }
+  },
+  {
+    "word": "laundry",
+    "quiz": {
+      "answer": "洗濯",
+      "options": [
+        "料理",
+        "清掃",
+        "園芸"
+      ]
+    }
+  },
+  {
+    "word": "mandatory",
+    "quiz": {
+      "answer": "義務的な",
+      "options": [
+        "任意の",
+        "一時的な",
+        "禁止された"
+      ]
+    }
+  },
+  {
+    "word": "mechanical",
+    "quiz": {
+      "answer": "機械的な",
+      "options": [
+        "手動の",
+        "自然な",
+        "感情的な"
+      ]
+    }
+  },
+  {
+    "word": "pharmacy",
+    "quiz": {
+      "answer": "薬局",
+      "options": [
+        "図書館",
+        "食品店",
+        "衣料品店"
+      ]
+    }
+  },
+  {
+    "word": "promotional",
+    "quiz": {
+      "answer": "宣伝の",
+      "options": [
+        "抑制的な",
+        "私的な",
+        "禁止された"
+      ]
+    }
+  },
+  {
+    "word": "quarterly",
+    "quiz": {
+      "answer": "四半期ごと",
+      "options": [
+        "毎日",
+        "年に一度",
+        "一度きり"
+      ]
+    }
+  },
+  {
+    "word": "residential",
+    "quiz": {
+      "answer": "住宅の",
+      "options": [
+        "商業の",
+        "工業の",
+        "農業の"
+      ]
+    }
+  },
+  {
+    "word": "scholarship",
+    "quiz": {
+      "answer": "奨学金",
+      "options": [
+        "罰金",
+        "費用",
+        "給料"
+      ]
+    }
+  },
+  {
+    "word": "seeker",
+    "quiz": {
+      "answer": "探求者",
+      "options": [
+        "提供者",
+        "回避者",
+        "批評家"
+      ]
+    }
+  },
+  {
+    "word": "temporarily",
+    "quiz": {
+      "answer": "一時的に",
+      "options": [
+        "永久に",
+        "継続的に",
+        "断続的に"
+      ]
+    }
+  },
+  {
+    "word": "towel",
+    "quiz": {
+      "answer": "タオル",
+      "options": [
+        "カーテン",
+        "シーツ",
+        "マット"
+      ]
+    }
+  },
+  {
+    "word": "unattended",
+    "quiz": {
+      "answer": "無人の",
+      "options": [
+        "監視された",
+        "満員の",
+        "私的な"
+      ]
+    }
+  },
+  {
+    "word": "accessible",
+    "quiz": {
+      "answer": "アクセス可能な",
+      "options": [
+        "制限された",
+        "閉鎖された",
+        "遠い"
+      ]
+    }
+  },
+  {
+    "word": "afterward",
+    "quiz": {
+      "answer": "その後",
+      "options": [
+        "以前",
+        "同時に",
+        "現在"
+      ]
+    }
+  },
+  {
+    "word": "apology",
+    "quiz": {
+      "answer": "謝罪",
+      "options": [
+        "承認",
+        "要求",
+        "非難"
+      ]
+    }
+  },
+  {
+    "word": "assemble",
+    "quiz": {
+      "answer": "組み立てる",
+      "options": [
+        "分解する",
+        "破壊する",
+        "避ける"
+      ]
+    }
+  },
+  {
+    "word": "automatic",
+    "quiz": {
+      "answer": "自動の",
+      "options": [
+        "手動の",
+        "固定の",
+        "一時的な"
+      ]
+    }
+  },
+  {
+    "word": "boardroom",
+    "quiz": {
+      "answer": "会議室",
+      "options": [
+        "教室",
+        "オフィス",
+        "ロビー"
+      ]
+    }
+  },
+  {
+    "word": "carpenter",
+    "quiz": {
+      "answer": "大工",
+      "options": [
+        "画家",
+        "彫刻家",
+        "教師"
+      ]
+    }
+  },
+  {
+    "word": "caterer",
+    "quiz": {
+      "answer": "ケータリング業者",
+      "options": [
+        "買い手",
+        "販売員",
+        "生産者"
+      ]
+    }
+  },
+  {
+    "word": "classify",
+    "quiz": {
+      "answer": "分類する",
+      "options": [
+        "統合する",
+        "無視する",
+        "削除する"
+      ]
+    }
+  },
+  {
+    "word": "consultation",
+    "quiz": {
+      "answer": "相談",
+      "options": [
+        "独断",
+        "無視",
+        "実行"
+      ]
+    }
+  },
+  {
+    "word": "durable",
+    "quiz": {
+      "answer": "耐久性のある",
+      "options": [
+        "壊れやすい",
+        "一時的な",
+        "消耗品の"
+      ]
+    }
+  },
+  {
+    "word": "glove",
+    "quiz": {
+      "answer": "手袋",
+      "options": [
+        "靴",
+        "帽子",
+        "シャツ"
+      ]
+    }
+  },
+  {
+    "word": "hardware",
+    "quiz": {
+      "answer": "ハードウェア",
+      "options": [
+        "ソフトウェア",
+        "データ",
+        "サービス"
+      ]
+    }
+  },
+  {
+    "word": "malfunction",
+    "quiz": {
+      "answer": "故障",
+      "options": [
+        "正常動作",
+        "強化",
+        "改善"
+      ]
+    }
+  },
+  {
+    "word": "outdated",
+    "quiz": {
+      "answer": "時代遅れ",
+      "options": [
+        "最新の",
+        "進行中の",
+        "革新的な"
+      ]
+    }
+  },
+  {
+    "word": "patience",
+    "quiz": {
+      "answer": "忍耐",
+      "options": [
+        "急ぐ",
+        "不満",
+        "短気"
+      ]
+    }
+  },
+  {
+    "word": "postcard",
+    "quiz": {
+      "answer": "ハガキ",
+      "options": [
+        "手紙",
+        "電子メール",
+        "電報"
+      ]
+    }
+  },
+  {
+    "word": "prospective",
+    "quiz": {
+      "answer": "見込みのある",
+      "options": [
+        "現在の",
+        "過去の",
+        "一時的な"
+      ]
+    }
+  },
+  {
+    "word": "revision",
+    "quiz": {
+      "answer": "改訂",
+      "options": [
+        "確認",
+        "無視",
+        "実施"
+      ]
+    }
+  }
+]

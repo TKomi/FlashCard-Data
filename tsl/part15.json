@@ -1,0 +1,552 @@
+[
+  {
+    "word": "appendix",
+    "quiz": {
+      "answer": "付録",
+      "options": [
+        "序文",
+        "目次",
+        "本文"
+      ]
+    }
+  },
+  {
+    "word": "booth",
+    "quiz": {
+      "answer": "ブース",
+      "options": [
+        "大広間",
+        "屋外",
+        "オフィス"
+      ]
+    }
+  },
+  {
+    "word": "clarify",
+    "quiz": {
+      "answer": "明らかにする",
+      "options": [
+        "曖昧にする",
+        "混乱させる",
+        "無視する"
+      ]
+    }
+  },
+  {
+    "word": "classmate",
+    "quiz": {
+      "answer": "クラスメート",
+      "options": [
+        "教師",
+        "校長",
+        "講師"
+      ]
+    }
+  },
+  {
+    "word": "compile",
+    "quiz": {
+      "answer": "編集する",
+      "options": [
+        "破棄する",
+        "忽視する",
+        "拒絶する"
+      ]
+    }
+  },
+  {
+    "word": "correction",
+    "quiz": {
+      "answer": "訂正",
+      "options": [
+        "誤り",
+        "無視",
+        "確認"
+      ]
+    }
+  },
+  {
+    "word": "customize",
+    "quiz": {
+      "answer": "カスタマイズする",
+      "options": [
+        "標準化する",
+        "一般化する",
+        "抽象化する"
+      ]
+    }
+  },
+  {
+    "word": "dedication",
+    "quiz": {
+      "answer": "献身",
+      "options": [
+        "無関心",
+        "拒絶",
+        "逃避"
+      ]
+    }
+  },
+  {
+    "word": "diagnose",
+    "quiz": {
+      "answer": "診断する",
+      "options": [
+        "無視する",
+        "治療する",
+        "強化する"
+      ]
+    }
+  },
+  {
+    "word": "discontinue",
+    "quiz": {
+      "answer": "中止する",
+      "options": [
+        "継続する",
+        "開始する",
+        "加速する"
+      ]
+    }
+  },
+  {
+    "word": "dishwasher",
+    "quiz": {
+      "answer": "食器洗い機",
+      "options": [
+        "冷蔵庫",
+        "オーブン",
+        "洗濯機"
+      ]
+    }
+  },
+  {
+    "word": "drought",
+    "quiz": {
+      "answer": "干ばつ",
+      "options": [
+        "豊作",
+        "洪水",
+        "霜"
+      ]
+    }
+  },
+  {
+    "word": "economize",
+    "quiz": {
+      "answer": "節約する",
+      "options": [
+        "浪費する",
+        "拡大する",
+        "忽視する"
+      ]
+    }
+  },
+  {
+    "word": "entrée",
+    "quiz": {
+      "answer": "メインディッシュ",
+      "options": [
+        "スナック",
+        "デザート",
+        "前菜"
+      ]
+    }
+  },
+  {
+    "word": "firework",
+    "quiz": {
+      "answer": "花火",
+      "options": [
+        "祭り",
+        "音楽会",
+        "展示会"
+      ]
+    }
+  },
+  {
+    "word": "freight",
+    "quiz": {
+      "answer": "貨物",
+      "options": [
+        "手荷物",
+        "乗客",
+        "郵便物"
+      ]
+    }
+  },
+  {
+    "word": "fry",
+    "quiz": {
+      "answer": "揚げる",
+      "options": [
+        "蒸す",
+        "煮る",
+        "焼く"
+      ]
+    }
+  },
+  {
+    "word": "gallon",
+    "quiz": {
+      "answer": "ガロン",
+      "options": [
+        "リットル",
+        "キログラム",
+        "メートル"
+      ]
+    }
+  },
+  {
+    "word": "gardener",
+    "quiz": {
+      "answer": "庭師",
+      "options": [
+        "農家",
+        "教師",
+        "建築家"
+      ]
+    }
+  },
+  {
+    "word": "ideally",
+    "quiz": {
+      "answer": "理想的に",
+      "options": [
+        "現実的に",
+        "悲観的に",
+        "乱暴に"
+      ]
+    }
+  },
+  {
+    "word": "inclusive",
+    "quiz": {
+      "answer": "包括的",
+      "options": [
+        "排他的",
+        "限定的",
+        "特定の"
+      ]
+    }
+  },
+  {
+    "word": "insufficient",
+    "quiz": {
+      "answer": "不十分",
+      "options": [
+        "十分",
+        "過剰",
+        "完璧"
+      ]
+    }
+  },
+  {
+    "word": "introductory",
+    "quiz": {
+      "answer": "導入の",
+      "options": [
+        "結論の",
+        "中間の",
+        "高度の"
+      ]
+    }
+  },
+  {
+    "word": "junk",
+    "quiz": {
+      "answer": "がらくた",
+      "options": [
+        "宝物",
+        "新品",
+        "貴重品"
+      ]
+    }
+  },
+  {
+    "word": "ma'am",
+    "quiz": {
+      "answer": "女性",
+      "options": [
+        "男性",
+        "子供",
+        "老人"
+      ]
+    }
+  },
+  {
+    "word": "mileage",
+    "quiz": {
+      "answer": "走行距離",
+      "options": [
+        "静止",
+        "速度",
+        "加速"
+      ]
+    }
+  },
+  {
+    "word": "noisy",
+    "quiz": {
+      "answer": "騒がしい",
+      "options": [
+        "静か",
+        "穏やか",
+        "沈黙"
+      ]
+    }
+  },
+  {
+    "word": "pan",
+    "quiz": {
+      "answer": "フライパン",
+      "options": [
+        "鍋",
+        "ケトル",
+        "ボウル"
+      ]
+    }
+  },
+  {
+    "word": "parcel",
+    "quiz": {
+      "answer": "小包",
+      "options": [
+        "大荷物",
+        "手紙",
+        "電子メール"
+      ]
+    }
+  },
+  {
+    "word": "pasta",
+    "quiz": {
+      "answer": "パスタ",
+      "options": [
+        "パン",
+        "ライス",
+        "スープ"
+      ]
+    }
+  },
+  {
+    "word": "periodical",
+    "quiz": {
+      "answer": "定期刊行物",
+      "options": [
+        "単行本",
+        "新聞",
+        "手紙"
+      ]
+    }
+  },
+  {
+    "word": "pill",
+    "quiz": {
+      "answer": "錠剤",
+      "options": [
+        "カプセル",
+        "液体",
+        "シロップ"
+      ]
+    }
+  },
+  {
+    "word": "portable",
+    "quiz": {
+      "answer": "携帯可能",
+      "options": [
+        "固定式",
+        "重い",
+        "大型"
+      ]
+    }
+  },
+  {
+    "word": "punctual",
+    "quiz": {
+      "answer": "時間通り",
+      "options": [
+        "遅刻",
+        "早退",
+        "不規則"
+      ]
+    }
+  },
+  {
+    "word": "recreation",
+    "quiz": {
+      "answer": "レクリエーション",
+      "options": [
+        "労働",
+        "学習",
+        "睡眠"
+      ]
+    }
+  },
+  {
+    "word": "relieve",
+    "quiz": {
+      "answer": "和らげる",
+      "options": [
+        "強化する",
+        "悪化させる",
+        "無視する"
+      ]
+    }
+  },
+  {
+    "word": "reminder",
+    "quiz": {
+      "answer": "リマインダー",
+      "options": [
+        "忘却",
+        "無視",
+        "確認"
+      ]
+    }
+  },
+  {
+    "word": "rumor",
+    "quiz": {
+      "answer": "噂",
+      "options": [
+        "事実",
+        "証拠",
+        "認証"
+      ]
+    }
+  },
+  {
+    "word": "scarf",
+    "quiz": {
+      "answer": "スカーフ",
+      "options": [
+        "コート",
+        "帽子",
+        "ブーツ"
+      ]
+    }
+  },
+  {
+    "word": "seaside",
+    "quiz": {
+      "answer": "海辺",
+      "options": [
+        "山",
+        "荒野",
+        "都市"
+      ]
+    }
+  },
+  {
+    "word": "shorten",
+    "quiz": {
+      "answer": "短縮する",
+      "options": [
+        "長くする",
+        "拡大する",
+        "減少する"
+      ]
+    }
+  },
+  {
+    "word": "specially",
+    "quiz": {
+      "answer": "特別に",
+      "options": [
+        "一般的に",
+        "たまに",
+        "常に"
+      ]
+    }
+  },
+  {
+    "word": "spill",
+    "quiz": {
+      "answer": "こぼす",
+      "options": [
+        "保持する",
+        "吸収する",
+        "集める"
+      ]
+    }
+  },
+  {
+    "word": "spouse",
+    "quiz": {
+      "answer": "配偶者",
+      "options": [
+        "友人",
+        "子供",
+        "親"
+      ]
+    }
+  },
+  {
+    "word": "subtract",
+    "quiz": {
+      "answer": "引く",
+      "options": [
+        "足す",
+        "掛ける",
+        "割る"
+      ]
+    }
+  },
+  {
+    "word": "tablet",
+    "quiz": {
+      "answer": "タブレット",
+      "options": [
+        "ノートパソコン",
+        "スマートフォン",
+        "デスクトップ"
+      ]
+    }
+  },
+  {
+    "word": "ton",
+    "quiz": {
+      "answer": "トン",
+      "options": [
+        "キログラム",
+        "ポンド",
+        "グラム"
+      ]
+    }
+  },
+  {
+    "word": "vend",
+    "quiz": {
+      "answer": "販売する",
+      "options": [
+        "購入する",
+        "製造する",
+        "捨てる"
+      ]
+    }
+  },
+  {
+    "word": "yoga",
+    "quiz": {
+      "answer": "ヨガ",
+      "options": [
+        "ジョギング",
+        "サイクリング",
+        "スイミング"
+      ]
+    }
+  },
+  {
+    "word": "accent",
+    "quiz": {
+      "answer": "アクセント",
+      "options": [
+        "単調",
+        "沈黙",
+        "調和"
+      ]
+    }
+  }
+]

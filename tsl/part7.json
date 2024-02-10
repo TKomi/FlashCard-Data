@@ -1,0 +1,552 @@
+[
+  {
+    "word": "pet",
+    "quiz": {
+      "answer": "ペット",
+      "options": [
+        "害獣",
+        "観賞魚",
+        "家畜"
+      ]
+    }
+  },
+  {
+    "word": "textbook",
+    "quiz": {
+      "answer": "教科書",
+      "options": [
+        "雑誌",
+        "日記",
+        "小説"
+      ]
+    }
+  },
+  {
+    "word": "accurately",
+    "quiz": {
+      "answer": "正確に",
+      "options": [
+        "おおざっぱに",
+        "誤って",
+        "適当に"
+      ]
+    }
+  },
+  {
+    "word": "cabin",
+    "quiz": {
+      "answer": "小屋",
+      "options": [
+        "マンション",
+        "ホテル",
+        "アパート"
+      ]
+    }
+  },
+  {
+    "word": "conductor",
+    "quiz": {
+      "answer": "車掌",
+      "options": [
+        "乗客",
+        "運転手",
+        "パイロット"
+      ]
+    }
+  },
+  {
+    "word": "inspector",
+    "quiz": {
+      "answer": "検査官",
+      "options": [
+        "被検者",
+        "顧客",
+        "学生"
+      ]
+    }
+  },
+  {
+    "word": "intern",
+    "quiz": {
+      "answer": "インターン",
+      "options": [
+        "正社員",
+        "ボランティア",
+        "顧問"
+      ]
+    }
+  },
+  {
+    "word": "semester",
+    "quiz": {
+      "answer": "学期",
+      "options": [
+        "休暇",
+        "週末",
+        "年度"
+      ]
+    }
+  },
+  {
+    "word": "confirmation",
+    "quiz": {
+      "answer": "確認",
+      "options": [
+        "否定",
+        "疑問",
+        "推測"
+      ]
+    }
+  },
+  {
+    "word": "congratulation",
+    "quiz": {
+      "answer": "お祝い",
+      "options": [
+        "お悔やみ",
+        "批判",
+        "警告"
+      ]
+    }
+  },
+  {
+    "word": "expertise",
+    "quiz": {
+      "answer": "専門知識",
+      "options": [
+        "素人意見",
+        "誤解",
+        "一般知識"
+      ]
+    }
+  },
+  {
+    "word": "graph",
+    "quiz": {
+      "answer": "グラフ",
+      "options": [
+        "文章",
+        "写真",
+        "図"
+      ]
+    }
+  },
+  {
+    "word": "taker",
+    "quiz": {
+      "answer": "受験者",
+      "options": [
+        "教師",
+        "評価者",
+        "観察者"
+      ]
+    }
+  },
+  {
+    "word": "utility",
+    "quiz": {
+      "answer": "公共事業",
+      "options": [
+        "私有財産",
+        "趣味",
+        "贅沢品"
+      ]
+    }
+  },
+  {
+    "word": "voucher",
+    "quiz": {
+      "answer": "クーポン",
+      "options": [
+        "請求書",
+        "契約書",
+        "手紙"
+      ]
+    }
+  },
+  {
+    "word": "banker",
+    "quiz": {
+      "answer": "銀行員",
+      "options": [
+        "教師",
+        "弁護士",
+        "医者"
+      ]
+    }
+  },
+  {
+    "word": "behalf",
+    "quiz": {
+      "answer": "代わりに",
+      "options": [
+        "対抗して",
+        "一緒に",
+        "対立して"
+      ]
+    }
+  },
+  {
+    "word": "minimize",
+    "quiz": {
+      "answer": "最小限にする",
+      "options": [
+        "最大化する",
+        "無視する",
+        "誇張する"
+      ]
+    }
+  },
+  {
+    "word": "optional",
+    "quiz": {
+      "answer": "任意の",
+      "options": [
+        "必須の",
+        "禁止された",
+        "限定された"
+      ]
+    }
+  },
+  {
+    "word": "paycheck",
+    "quiz": {
+      "answer": "給与",
+      "options": [
+        "請求書",
+        "領収書",
+        "奨学金"
+      ]
+    }
+  },
+  {
+    "word": "polite",
+    "quiz": {
+      "answer": "礼儀正しい",
+      "options": [
+        "無礼な",
+        "大胆な",
+        "怠慢な"
+      ]
+    }
+  },
+  {
+    "word": "protective",
+    "quiz": {
+      "answer": "保護的な",
+      "options": [
+        "攻撃的な",
+        "無関心な",
+        "危険な"
+      ]
+    }
+  },
+  {
+    "word": "seller",
+    "quiz": {
+      "answer": "販売員",
+      "options": [
+        "購入者",
+        "視聴者",
+        "利用者"
+      ]
+    }
+  },
+  {
+    "word": "sidewalk",
+    "quiz": {
+      "answer": "歩道",
+      "options": [
+        "車道",
+        "自転車道",
+        "高速道路"
+      ]
+    }
+  },
+  {
+    "word": "sightsee",
+    "quiz": {
+      "answer": "観光する",
+      "options": [
+        "仕事をする",
+        "家にいる",
+        "勉強する"
+      ]
+    }
+  },
+  {
+    "word": "soup",
+    "quiz": {
+      "answer": "スープ",
+      "options": [
+        "サラダ",
+        "デザート",
+        "ステーキ"
+      ]
+    }
+  },
+  {
+    "word": "transit",
+    "quiz": {
+      "answer": "通過",
+      "options": [
+        "滞在",
+        "出発",
+        "到着"
+      ]
+    }
+  },
+  {
+    "word": "wallet",
+    "quiz": {
+      "answer": "財布",
+      "options": [
+        "鍵",
+        "スマートフォン",
+        "ノートパソコン"
+      ]
+    }
+  },
+  {
+    "word": "cashier",
+    "quiz": {
+      "answer": "レジ係",
+      "options": [
+        "管理者",
+        "セキュリティ",
+        "コンシェルジュ"
+      ]
+    }
+  },
+  {
+    "word": "casual",
+    "quiz": {
+      "answer": "カジュアルな",
+      "options": [
+        "フォーマルな",
+        "公式の",
+        "緊急の"
+      ]
+    }
+  },
+  {
+    "word": "drill",
+    "quiz": {
+      "answer": "訓練",
+      "options": [
+        "休息",
+        "ゲーム",
+        "競争"
+      ]
+    }
+  },
+  {
+    "word": "fountain",
+    "quiz": {
+      "answer": "噴水",
+      "options": [
+        "池",
+        "海",
+        "川"
+      ]
+    }
+  },
+  {
+    "word": "juice",
+    "quiz": {
+      "answer": "ジュース",
+      "options": [
+        "コーヒー",
+        "ミルク",
+        "お茶"
+      ]
+    }
+  },
+  {
+    "word": "lane",
+    "quiz": {
+      "answer": "車線",
+      "options": [
+        "歩道",
+        "庭",
+        "公園"
+      ]
+    }
+  },
+  {
+    "word": "popularity",
+    "quiz": {
+      "answer": "人気",
+      "options": [
+        "不人気",
+        "普及",
+        "秘密"
+      ]
+    }
+  },
+  {
+    "word": "poster",
+    "quiz": {
+      "answer": "ポスター",
+      "options": [
+        "本",
+        "雑誌",
+        "手紙"
+      ]
+    }
+  },
+  {
+    "word": "promptly",
+    "quiz": {
+      "answer": "迅速に",
+      "options": [
+        "遅れて",
+        "ためらって",
+        "ゆっくりと"
+      ]
+    }
+  },
+  {
+    "word": "retailer",
+    "quiz": {
+      "answer": "小売業者",
+      "options": [
+        "卸売業者",
+        "製造業者",
+        "輸入業者"
+      ]
+    }
+  },
+  {
+    "word": "vacancy",
+    "quiz": {
+      "answer": "空室",
+      "options": [
+        "満室",
+        "閉鎖",
+        "建設中"
+      ]
+    }
+  },
+  {
+    "word": "bench",
+    "quiz": {
+      "answer": "ベンチ",
+      "options": [
+        "椅子",
+        "ソファ",
+        "ベッド"
+      ]
+    }
+  },
+  {
+    "word": "cumulative",
+    "quiz": {
+      "answer": "累積的な",
+      "options": [
+        "一時的な",
+        "減少的な",
+        "単発的な"
+      ]
+    }
+  },
+  {
+    "word": "directory",
+    "quiz": {
+      "answer": "名簿",
+      "options": [
+        "日記",
+        "小説",
+        "辞書"
+      ]
+    }
+  },
+  {
+    "word": "disposal",
+    "quiz": {
+      "answer": "処分",
+      "options": [
+        "保管",
+        "購入",
+        "製造"
+      ]
+    }
+  },
+  {
+    "word": "housekeeper",
+    "quiz": {
+      "answer": "家政婦",
+      "options": [
+        "管理人",
+        "オーナー",
+        "訪問者"
+      ]
+    }
+  },
+  {
+    "word": "internship",
+    "quiz": {
+      "answer": "インターンシップ",
+      "options": [
+        "正職",
+        "アルバイト",
+        "ボランティア活動"
+      ]
+    }
+  },
+  {
+    "word": "knowledgeable",
+    "quiz": {
+      "answer": "知識豊富な",
+      "options": [
+        "無知な",
+        "初心者",
+        "疎外された"
+      ]
+    }
+  },
+  {
+    "word": "organizer",
+    "quiz": {
+      "answer": "主催者",
+      "options": [
+        "参加者",
+        "観客",
+        "評論家"
+      ]
+    }
+  },
+  {
+    "word": "overdue",
+    "quiz": {
+      "answer": "期限切れの",
+      "options": [
+        "新品の",
+        "未使用の",
+        "予定通りの"
+      ]
+    }
+  },
+  {
+    "word": "prediction",
+    "quiz": {
+      "answer": "予測",
+      "options": [
+        "記録",
+        "過去",
+        "現在"
+      ]
+    }
+  },
+  {
+    "word": "subscriber",
+    "quiz": {
+      "answer": "加入者",
+      "options": [
+        "非加入者",
+        "訪問者",
+        "ゲスト"
+      ]
+    }
+  }
+]

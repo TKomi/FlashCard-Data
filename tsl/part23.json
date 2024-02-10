@@ -1,0 +1,552 @@
+[
+  {
+    "word": "arc",
+    "quiz": {
+      "answer": "弧",
+      "options": [
+        "直線",
+        "角度",
+        "平面"
+      ]
+    }
+  },
+  {
+    "word": "audition",
+    "quiz": {
+      "answer": "オーディション",
+      "options": [
+        "公演",
+        "展示",
+        "講義"
+      ]
+    }
+  },
+  {
+    "word": "backpack",
+    "quiz": {
+      "answer": "バックパック",
+      "options": [
+        "スーツケース",
+        "ハンドバッグ",
+        "財布"
+      ]
+    }
+  },
+  {
+    "word": "ballroom",
+    "quiz": {
+      "answer": "ダンスホール",
+      "options": [
+        "寝室",
+        "教室",
+        "キッチン"
+      ]
+    }
+  },
+  {
+    "word": "beneficial",
+    "quiz": {
+      "answer": "有益な",
+      "options": [
+        "有害な",
+        "無関心な",
+        "中立的な"
+      ]
+    }
+  },
+  {
+    "word": "biography",
+    "quiz": {
+      "answer": "伝記",
+      "options": [
+        "小説",
+        "詩集",
+        "教科書"
+      ]
+    }
+  },
+  {
+    "word": "bound",
+    "quiz": {
+      "answer": "境界",
+      "options": [
+        "中心",
+        "無限",
+        "開放性"
+      ]
+    }
+  },
+  {
+    "word": "broom",
+    "quiz": {
+      "answer": "ほうき",
+      "options": [
+        "スポンジ",
+        "ドリル",
+        "ハンマー"
+      ]
+    }
+  },
+  {
+    "word": "cheeseburger",
+    "quiz": {
+      "answer": "チーズバーガー",
+      "options": [
+        "サラダ",
+        "スープ",
+        "ピザ"
+      ]
+    }
+  },
+  {
+    "word": "chilly",
+    "quiz": {
+      "answer": "寒い",
+      "options": [
+        "温かい",
+        "湿った",
+        "乾燥した"
+      ]
+    }
+  },
+  {
+    "word": "circus",
+    "quiz": {
+      "answer": "サーカス",
+      "options": [
+        "図書館",
+        "美術館",
+        "劇場"
+      ]
+    }
+  },
+  {
+    "word": "compliment",
+    "quiz": {
+      "answer": "賛辞",
+      "options": [
+        "批判",
+        "無視",
+        "不平"
+      ]
+    }
+  },
+  {
+    "word": "consignment",
+    "quiz": {
+      "answer": "委託",
+      "options": [
+        "自己所有",
+        "廃棄",
+        "購入"
+      ]
+    }
+  },
+  {
+    "word": "continental",
+    "quiz": {
+      "answer": "大陸の",
+      "options": [
+        "海洋の",
+        "局地的な",
+        "世界的な"
+      ]
+    }
+  },
+  {
+    "word": "copyright",
+    "quiz": {
+      "answer": "著作権",
+      "options": [
+        "公共領域",
+        "特許",
+        "商標"
+      ]
+    }
+  },
+  {
+    "word": "countryside",
+    "quiz": {
+      "answer": "田舎",
+      "options": [
+        "都市",
+        "海辺",
+        "山岳"
+      ]
+    }
+  },
+  {
+    "word": "demolish",
+    "quiz": {
+      "answer": "取り壊す",
+      "options": [
+        "建てる",
+        "修理する",
+        "保持する"
+      ]
+    }
+  },
+  {
+    "word": "departmental",
+    "quiz": {
+      "answer": "部門の",
+      "options": [
+        "個人の",
+        "全体の",
+        "無関係の"
+      ]
+    }
+  },
+  {
+    "word": "desperate",
+    "quiz": {
+      "answer": "絶望的な",
+      "options": [
+        "希望的な",
+        "穏やかな",
+        "無関心な"
+      ]
+    }
+  },
+  {
+    "word": "devastate",
+    "quiz": {
+      "answer": "荒廃させる",
+      "options": [
+        "建設する",
+        "修復する",
+        "強化する"
+      ]
+    }
+  },
+  {
+    "word": "diagnostic",
+    "quiz": {
+      "answer": "診断の",
+      "options": [
+        "予防的な",
+        "治療的な",
+        "無関係な"
+      ]
+    }
+  },
+  {
+    "word": "diagram",
+    "quiz": {
+      "answer": "図",
+      "options": [
+        "文章",
+        "音楽",
+        "映像"
+      ]
+    }
+  },
+  {
+    "word": "diamond",
+    "quiz": {
+      "answer": "ダイヤモンド",
+      "options": [
+        "石炭",
+        "木材",
+        "鉄"
+      ]
+    }
+  },
+  {
+    "word": "disable",
+    "quiz": {
+      "answer": "無効にする",
+      "options": [
+        "強化する",
+        "修理する",
+        "起動する"
+      ]
+    }
+  },
+  {
+    "word": "disgust",
+    "quiz": {
+      "answer": "嫌悪",
+      "options": [
+        "喜び",
+        "興味",
+        "無関心"
+      ]
+    }
+  },
+  {
+    "word": "donut",
+    "quiz": {
+      "answer": "ドーナツ",
+      "options": [
+        "サンドイッチ",
+        "ピザ",
+        "ステーキ"
+      ]
+    }
+  },
+  {
+    "word": "doorman",
+    "quiz": {
+      "answer": "ドアマン",
+      "options": [
+        "シェフ",
+        "教師",
+        "パイロット"
+      ]
+    }
+  },
+  {
+    "word": "electronically",
+    "quiz": {
+      "answer": "電子的に",
+      "options": [
+        "手動で",
+        "機械的に",
+        "自然に"
+      ]
+    }
+  },
+  {
+    "word": "elevate",
+    "quiz": {
+      "answer": "昇進させる",
+      "options": [
+        "降格させる",
+        "維持する",
+        "減少させる"
+      ]
+    }
+  },
+  {
+    "word": "engagement",
+    "quiz": {
+      "answer": "婚約",
+      "options": [
+        "解消",
+        "単身",
+        "集団"
+      ]
+    }
+  },
+  {
+    "word": "enrollment",
+    "quiz": {
+      "answer": "登録",
+      "options": [
+        "退会",
+        "無視",
+        "完了"
+      ]
+    }
+  },
+  {
+    "word": "euro",
+    "quiz": {
+      "answer": "ユーロ",
+      "options": [
+        "円",
+        "ドル",
+        "ポンド"
+      ]
+    }
+  },
+  {
+    "word": "forbid",
+    "quiz": {
+      "answer": "禁止する",
+      "options": [
+        "許可する",
+        "奨励する",
+        "無視する"
+      ]
+    }
+  },
+  {
+    "word": "fork",
+    "quiz": {
+      "answer": "フォーク",
+      "options": [
+        "スプーン",
+        "ナイフ",
+        "皿"
+      ]
+    }
+  },
+  {
+    "word": "foster",
+    "quiz": {
+      "answer": "促進する",
+      "options": [
+        "抑制する",
+        "無視する",
+        "阻害する"
+      ]
+    }
+  },
+  {
+    "word": "getaway",
+    "quiz": {
+      "answer": "逃走",
+      "options": [
+        "滞在",
+        "到着",
+        "閉じ込め"
+      ]
+    }
+  },
+  {
+    "word": "gossip",
+    "quiz": {
+      "answer": "ゴシップ",
+      "options": [
+        "ファクト",
+        "研究",
+        "歴史"
+      ]
+    }
+  },
+  {
+    "word": "hacker",
+    "quiz": {
+      "answer": "ハッカー",
+      "options": [
+        "利用者",
+        "開発者",
+        "管理者"
+      ]
+    }
+  },
+  {
+    "word": "hardworking",
+    "quiz": {
+      "answer": "勤勉な",
+      "options": [
+        "怠惰な",
+        "無関心な",
+        "活動的な"
+      ]
+    }
+  },
+  {
+    "word": "impatient",
+    "quiz": {
+      "answer": "短気な",
+      "options": [
+        "忍耐強い",
+        "無関心な",
+        "落ち着いた"
+      ]
+    }
+  },
+  {
+    "word": "indirect",
+    "quiz": {
+      "answer": "間接的",
+      "options": [
+        "直接的",
+        "単純",
+        "複雑"
+      ]
+    }
+  },
+  {
+    "word": "interpreter",
+    "quiz": {
+      "answer": "通訳",
+      "options": [
+        "著者",
+        "聴衆",
+        "無視者"
+      ]
+    }
+  },
+  {
+    "word": "intersection",
+    "quiz": {
+      "answer": "交差点",
+      "options": [
+        "終点",
+        "始点",
+        "直線"
+      ]
+    }
+  },
+  {
+    "word": "irrelevant",
+    "quiz": {
+      "answer": "無関係な",
+      "options": [
+        "関係がある",
+        "必須の",
+        "中心的な"
+      ]
+    }
+  },
+  {
+    "word": "jeans",
+    "quiz": {
+      "answer": "ジーンズ",
+      "options": [
+        "スーツ",
+        "ドレス",
+        "ユニフォーム"
+      ]
+    }
+  },
+  {
+    "word": "journalism",
+    "quiz": {
+      "answer": "ジャーナリズム",
+      "options": [
+        "小説",
+        "詩",
+        "数学"
+      ]
+    }
+  },
+  {
+    "word": "letterhead",
+    "quiz": {
+      "answer": "レターヘッド",
+      "options": [
+        "メモ",
+        "日記",
+        "教科書"
+      ]
+    }
+  },
+  {
+    "word": "lifeguard",
+    "quiz": {
+      "answer": "救命員",
+      "options": [
+        "教師",
+        "学生",
+        "パイロット"
+      ]
+    }
+  },
+  {
+    "word": "modem",
+    "quiz": {
+      "answer": "モデム",
+      "options": [
+        "スピーカー",
+        "モニター",
+        "キーボード"
+      ]
+    }
+  },
+  {
+    "word": "monument",
+    "quiz": {
+      "answer": "記念碑",
+      "options": [
+        "家",
+        "学校",
+        "病院"
+      ]
+    }
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "word": "fasten",
+    "quiz": {
+      "answer": "締める",
+      "options": [
+        "解く",
+        "切る",
+        "押す"
+      ]
+    }
+  },
+  {
+    "word": "harmful",
+    "quiz": {
+      "answer": "有害な",
+      "options": [
+        "有益な",
+        "栄養豊富な",
+        "無害な"
+      ]
+    }
+  },
+  {
+    "word": "informative",
+    "quiz": {
+      "answer": "情報提供的な",
+      "options": [
+        "無意味な",
+        "混乱させる",
+        "単調な"
+      ]
+    }
+  },
+  {
+    "word": "institute",
+    "quiz": {
+      "answer": "研究所",
+      "options": [
+        "遊園地",
+        "スーパーマーケット",
+        "劇場"
+      ]
+    }
+  },
+  {
+    "word": "kit",
+    "quiz": {
+      "answer": "キット",
+      "options": [
+        "単品",
+        "大量販売",
+        "全体"
+      ]
+    }
+  },
+  {
+    "word": "locally",
+    "quiz": {
+      "answer": "地元で",
+      "options": [
+        "海外で",
+        "国全体で",
+        "宇宙で"
+      ]
+    }
+  },
+  {
+    "word": "mentor",
+    "quiz": {
+      "answer": "メンター",
+      "options": [
+        "生徒",
+        "競争相手",
+        "観客"
+      ]
+    }
+  },
+  {
+    "word": "nominate",
+    "quiz": {
+      "answer": "指名する",
+      "options": [
+        "解雇する",
+        "無視する",
+        "減少させる"
+      ]
+    }
+  },
+  {
+    "word": "opt",
+    "quiz": {
+      "answer": "選択する",
+      "options": [
+        "拒否する",
+        "避ける",
+        "無視する"
+      ]
+    }
+  },
+  {
+    "word": "parade",
+    "quiz": {
+      "answer": "パレード",
+      "options": [
+        "会議",
+        "葬式",
+        "瞑想"
+      ]
+    }
+  },
+  {
+    "word": "physician",
+    "quiz": {
+      "answer": "医師",
+      "options": [
+        "芸術家",
+        "教師",
+        "技術者"
+      ]
+    }
+  },
+  {
+    "word": "polish",
+    "quiz": {
+      "answer": "磨く",
+      "options": [
+        "汚す",
+        "破壊する",
+        "落書きする"
+      ]
+    }
+  },
+  {
+    "word": "postage",
+    "quiz": {
+      "answer": "郵便料金",
+      "options": [
+        "入場料",
+        "手数料",
+        "税金"
+      ]
+    }
+  },
+  {
+    "word": "recreational",
+    "quiz": {
+      "answer": "娯楽の",
+      "options": [
+        "仕事の",
+        "学校の",
+        "医療の"
+      ]
+    }
+  },
+  {
+    "word": "rehearse",
+    "quiz": {
+      "answer": "リハーサルする",
+      "options": [
+        "無視する",
+        "取り消す",
+        "急ぐ"
+      ]
+    }
+  },
+  {
+    "word": "removal",
+    "quiz": {
+      "answer": "除去",
+      "options": [
+        "追加",
+        "保持",
+        "確認"
+      ]
+    }
+  },
+  {
+    "word": "satisfactory",
+    "quiz": {
+      "answer": "満足のいく",
+      "options": [
+        "不満足な",
+        "危険な",
+        "不完全な"
+      ]
+    }
+  },
+  {
+    "word": "seasonal",
+    "quiz": {
+      "answer": "季節の",
+      "options": [
+        "年間を通じて",
+        "一時的な",
+        "永久的な"
+      ]
+    }
+  },
+  {
+    "word": "separately",
+    "quiz": {
+      "answer": "別々に",
+      "options": [
+        "一緒に",
+        "同時に",
+        "混合して"
+      ]
+    }
+  },
+  {
+    "word": "turnover",
+    "quiz": {
+      "answer": "離職率",
+      "options": [
+        "安定",
+        "増加",
+        "減少"
+      ]
+    }
+  },
+  {
+    "word": "unnecessary",
+    "quiz": {
+      "answer": "不必要な",
+      "options": [
+        "必要な",
+        "重要な",
+        "基本的な"
+      ]
+    }
+  },
+  {
+    "word": "accordingly",
+    "quiz": {
+      "answer": "それに応じて",
+      "options": [
+        "無関係に",
+        "常に",
+        "まれに"
+      ]
+    }
+  },
+  {
+    "word": "apple",
+    "quiz": {
+      "answer": "リンゴ",
+      "options": [
+        "バナナ",
+        "オレンジ",
+        "メロン"
+      ]
+    }
+  },
+  {
+    "word": "applicable",
+    "quiz": {
+      "answer": "適用可能な",
+      "options": [
+        "不適切な",
+        "無関係な",
+        "決定的な"
+      ]
+    }
+  },
+  {
+    "word": "auction",
+    "quiz": {
+      "answer": "オークション",
+      "options": [
+        "固定価格販売",
+        "無料配布",
+        "個人売買"
+      ]
+    }
+  },
+  {
+    "word": "balcony",
+    "quiz": {
+      "answer": "バルコニー",
+      "options": [
+        "地下室",
+        "屋根裏部屋",
+        "ガレージ"
+      ]
+    }
+  },
+  {
+    "word": "basement",
+    "quiz": {
+      "answer": "地下室",
+      "options": [
+        "屋根裏",
+        "メインフロア",
+        "屋上"
+      ]
+    }
+  },
+  {
+    "word": "beforehand",
+    "quiz": {
+      "answer": "事前に",
+      "options": [
+        "事後に",
+        "即席で",
+        "無計画に"
+      ]
+    }
+  },
+  {
+    "word": "culinary",
+    "quiz": {
+      "answer": "料理の",
+      "options": [
+        "農業の",
+        "建築の",
+        "音楽の"
+      ]
+    }
+  },
+  {
+    "word": "documentary",
+    "quiz": {
+      "answer": "ドキュメンタリー",
+      "options": [
+        "フィクション",
+        "ノベル",
+        "コメディ"
+      ]
+    }
+  },
+  {
+    "word": "downturn",
+    "quiz": {
+      "answer": "下降",
+      "options": [
+        "上昇",
+        "安定",
+        "成長"
+      ]
+    }
+  },
+  {
+    "word": "earthquake",
+    "quiz": {
+      "answer": "地震",
+      "options": [
+        "津波",
+        "火山噴火",
+        "台風"
+      ]
+    }
+  },
+  {
+    "word": "elegant",
+    "quiz": {
+      "answer": "上品な",
+      "options": [
+        "粗野な",
+        "単純な",
+        "過剰な"
+      ]
+    }
+  },
+  {
+    "word": "excessive",
+    "quiz": {
+      "answer": "過度の",
+      "options": [
+        "適度な",
+        "最小限の",
+        "不足の"
+      ]
+    }
+  },
+  {
+    "word": "generic",
+    "quiz": {
+      "answer": "汎用の",
+      "options": [
+        "特定の",
+        "個別の",
+        "独自の"
+      ]
+    }
+  },
+  {
+    "word": "jazz",
+    "quiz": {
+      "answer": "ジャズ",
+      "options": [
+        "クラシック",
+        "ロック",
+        "ポップ"
+      ]
+    }
+  },
+  {
+    "word": "lifetime",
+    "quiz": {
+      "answer": "一生",
+      "options": [
+        "短期間",
+        "一瞬",
+        "永遠"
+      ]
+    }
+  },
+  {
+    "word": "massage",
+    "quiz": {
+      "answer": "マッサージ",
+      "options": [
+        "手術",
+        "検査",
+        "訓練"
+      ]
+    }
+  },
+  {
+    "word": "maximize",
+    "quiz": {
+      "answer": "最大化する",
+      "options": [
+        "最小化する",
+        "減少させる",
+        "維持する"
+      ]
+    }
+  },
+  {
+    "word": "mild",
+    "quiz": {
+      "answer": "穏やかな",
+      "options": [
+        "激しい",
+        "寒冷な",
+        "熱帯の"
+      ]
+    }
+  },
+  {
+    "word": "ongoing",
+    "quiz": {
+      "answer": "継続中の",
+      "options": [
+        "終了した",
+        "始まっていない",
+        "一時的な"
+      ]
+    }
+  },
+  {
+    "word": "periodically",
+    "quiz": {
+      "answer": "定期的に",
+      "options": [
+        "不定期に",
+        "一度だけ",
+        "継続せず"
+      ]
+    }
+  },
+  {
+    "word": "pie",
+    "quiz": {
+      "answer": "パイ",
+      "options": [
+        "ケーキ",
+        "ゼリー",
+        "アイスクリーム"
+      ]
+    }
+  },
+  {
+    "word": "plug",
+    "quiz": {
+      "answer": "プラグ",
+      "options": [
+        "スイッチ",
+        "ボタン",
+        "レバー"
+      ]
+    }
+  },
+  {
+    "word": "recruitment",
+    "quiz": {
+      "answer": "採用",
+      "options": [
+        "解雇",
+        "休職",
+        "昇進"
+      ]
+    }
+  },
+  {
+    "word": "referee",
+    "quiz": {
+      "answer": "審判",
+      "options": [
+        "選手",
+        "コーチ",
+        "マネージャー"
+      ]
+    }
+  },
+  {
+    "word": "referral",
+    "quiz": {
+      "answer": "紹介",
+      "options": [
+        "拒否",
+        "忽視",
+        "自己決定"
+      ]
+    }
+  },
+  {
+    "word": "renown",
+    "quiz": {
+      "answer": "名声",
+      "options": [
+        "無名",
+        "貧困",
+        "失敗"
+      ]
+    }
+  },
+  {
+    "word": "runner",
+    "quiz": {
+      "answer": "走者",
+      "options": [
+        "観客",
+        "記録者",
+        "調整者"
+      ]
+    }
+  },
+  {
+    "word": "sock",
+    "quiz": {
+      "answer": "靴下",
+      "options": [
+        "靴",
+        "帽子",
+        "グローブ"
+      ]
+    }
+  }
+]

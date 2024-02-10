@@ -1,0 +1,552 @@
+[
+  {
+    "word": "debit",
+    "quiz": {
+      "answer": "引き落とし",
+      "options": [
+        "預金",
+        "貸付",
+        "利益"
+      ]
+    }
+  },
+  {
+    "word": "delicate",
+    "quiz": {
+      "answer": "繊細な",
+      "options": [
+        "頑丈な",
+        "大雑把な",
+        "荒々しい"
+      ]
+    }
+  },
+  {
+    "word": "dependence",
+    "quiz": {
+      "answer": "依存",
+      "options": [
+        "独立",
+        "自給自足",
+        "競争"
+      ]
+    }
+  },
+  {
+    "word": "distraction",
+    "quiz": {
+      "answer": "気晴らし",
+      "options": [
+        "集中",
+        "瞑想",
+        "協力"
+      ]
+    }
+  },
+  {
+    "word": "downsize",
+    "quiz": {
+      "answer": "縮小する",
+      "options": [
+        "拡大する",
+        "安定させる",
+        "一定に保つ"
+      ]
+    }
+  },
+  {
+    "word": "elephant",
+    "quiz": {
+      "answer": "象",
+      "options": [
+        "ライオン",
+        "カメ",
+        "サル"
+      ]
+    }
+  },
+  {
+    "word": "enthusiasm",
+    "quiz": {
+      "answer": "熱意",
+      "options": [
+        "無関心",
+        "悲観",
+        "冷静"
+      ]
+    }
+  },
+  {
+    "word": "enthusiast",
+    "quiz": {
+      "answer": "熱狂者",
+      "options": [
+        "批評家",
+        "無関心な人",
+        "怠け者"
+      ]
+    }
+  },
+  {
+    "word": "evident",
+    "quiz": {
+      "answer": "明白な",
+      "options": [
+        "不明瞭な",
+        "疑問符がつく",
+        "隠された"
+      ]
+    }
+  },
+  {
+    "word": "flexibility",
+    "quiz": {
+      "answer": "柔軟性",
+      "options": [
+        "剛性",
+        "不変",
+        "制約"
+      ]
+    }
+  },
+  {
+    "word": "flextime",
+    "quiz": {
+      "answer": "フレックスタイム",
+      "options": [
+        "固定時間",
+        "オーバータイム",
+        "パートタイム"
+      ]
+    }
+  },
+  {
+    "word": "fortunately",
+    "quiz": {
+      "answer": "幸運にも",
+      "options": [
+        "不運にも",
+        "無関心に",
+        "意図的に"
+      ]
+    }
+  },
+  {
+    "word": "freighter",
+    "quiz": {
+      "answer": "貨物船",
+      "options": [
+        "旅客機",
+        "タクシー",
+        "自転車"
+      ]
+    }
+  },
+  {
+    "word": "generator",
+    "quiz": {
+      "answer": "発電機",
+      "options": [
+        "バッテリー",
+        "ソーラーパネル",
+        "風車"
+      ]
+    }
+  },
+  {
+    "word": "hallway",
+    "quiz": {
+      "answer": "廊下",
+      "options": [
+        "居間",
+        "寝室",
+        "キッチン"
+      ]
+    }
+  },
+  {
+    "word": "hamburger",
+    "quiz": {
+      "answer": "ハンバーガー",
+      "options": [
+        "寿司",
+        "パスタ",
+        "ステーキ"
+      ]
+    }
+  },
+  {
+    "word": "hazard",
+    "quiz": {
+      "answer": "危険",
+      "options": [
+        "安全",
+        "保護",
+        "平和"
+      ]
+    }
+  },
+  {
+    "word": "homeowner",
+    "quiz": {
+      "answer": "家主",
+      "options": [
+        "借り手",
+        "訪問者",
+        "無関係者"
+      ]
+    }
+  },
+  {
+    "word": "imperative",
+    "quiz": {
+      "answer": "命令的",
+      "options": [
+        "提案的",
+        "無関心",
+        "許容的"
+      ]
+    }
+  },
+  {
+    "word": "inflate",
+    "quiz": {
+      "answer": "膨らます",
+      "options": [
+        "縮小する",
+        "凍結する",
+        "安定させる"
+      ]
+    }
+  },
+  {
+    "word": "insert",
+    "quiz": {
+      "answer": "挿入する",
+      "options": [
+        "取り除く",
+        "忽視する",
+        "固定する"
+      ]
+    }
+  },
+  {
+    "word": "lecturer",
+    "quiz": {
+      "answer": "講師",
+      "options": [
+        "学生",
+        "聴衆",
+        "管理者"
+      ]
+    }
+  },
+  {
+    "word": "meaningful",
+    "quiz": {
+      "answer": "意味深い",
+      "options": [
+        "無意味な",
+        "表面的な",
+        "一時的な"
+      ]
+    }
+  },
+  {
+    "word": "memorize",
+    "quiz": {
+      "answer": "記憶する",
+      "options": [
+        "忘れる",
+        "無視する",
+        "捨てる"
+      ]
+    }
+  },
+  {
+    "word": "merchant",
+    "quiz": {
+      "answer": "商人",
+      "options": [
+        "消費者",
+        "生産者",
+        "観光客"
+      ]
+    }
+  },
+  {
+    "word": "modification",
+    "quiz": {
+      "answer": "変更",
+      "options": [
+        "固定",
+        "維持",
+        "減少"
+      ]
+    }
+  },
+  {
+    "word": "occupant",
+    "quiz": {
+      "answer": "居住者",
+      "options": [
+        "訪問者",
+        "空室",
+        "無人"
+      ]
+    }
+  },
+  {
+    "word": "overcharge",
+    "quiz": {
+      "answer": "過剰請求",
+      "options": [
+        "割引",
+        "公平な価格",
+        "無料"
+      ]
+    }
+  },
+  {
+    "word": "oversee",
+    "quiz": {
+      "answer": "監督する",
+      "options": [
+        "無視する",
+        "参加する",
+        "避ける"
+      ]
+    }
+  },
+  {
+    "word": "petition",
+    "quiz": {
+      "answer": "嘆願書",
+      "options": [
+        "拒絶",
+        "承認",
+        "無関心"
+      ]
+    }
+  },
+  {
+    "word": "pillow",
+    "quiz": {
+      "answer": "枕",
+      "options": [
+        "床",
+        "壁",
+        "天井"
+      ]
+    }
+  },
+  {
+    "word": "popcorn",
+    "quiz": {
+      "answer": "ポップコーン",
+      "options": [
+        "チョコレート",
+        "アイスクリーム",
+        "パスタ"
+      ]
+    }
+  },
+  {
+    "word": "pottery",
+    "quiz": {
+      "answer": "陶器",
+      "options": [
+        "金属",
+        "プラスチック",
+        "ガラス"
+      ]
+    }
+  },
+  {
+    "word": "professionally",
+    "quiz": {
+      "answer": "専門的に",
+      "options": [
+        "素人っぽく",
+        "偶然に",
+        "個人的に"
+      ]
+    }
+  },
+  {
+    "word": "publicize",
+    "quiz": {
+      "answer": "宣伝する",
+      "options": [
+        "秘密にする",
+        "無視する",
+        "抑制する"
+      ]
+    }
+  },
+  {
+    "word": "ray",
+    "quiz": {
+      "answer": "光線",
+      "options": [
+        "闇",
+        "影",
+        "曇り"
+      ]
+    }
+  },
+  {
+    "word": "redecorate",
+    "quiz": {
+      "answer": "再装飾する",
+      "options": [
+        "破壊する",
+        "老朽化させる",
+        "無視する"
+      ]
+    }
+  },
+  {
+    "word": "refinery",
+    "quiz": {
+      "answer": "精製所",
+      "options": [
+        "廃棄場",
+        "発電所",
+        "農場"
+      ]
+    }
+  },
+  {
+    "word": "refresh",
+    "quiz": {
+      "answer": "新鮮にする",
+      "options": [
+        "汚染する",
+        "老化させる",
+        "疲れさせる"
+      ]
+    }
+  },
+  {
+    "word": "refundable",
+    "quiz": {
+      "answer": "返金可能な",
+      "options": [
+        "非返金",
+        "固定価格",
+        "交換不可"
+      ]
+    }
+  },
+  {
+    "word": "reimbursement",
+    "quiz": {
+      "answer": "払い戻し",
+      "options": [
+        "請求",
+        "損失",
+        "無視"
+      ]
+    }
+  },
+  {
+    "word": "reliability",
+    "quiz": {
+      "answer": "信頼性",
+      "options": [
+        "不信",
+        "不安定",
+        "危険性"
+      ]
+    }
+  },
+  {
+    "word": "reluctant",
+    "quiz": {
+      "answer": "気が進まない",
+      "options": [
+        "熱心な",
+        "即座の",
+        "無関心な"
+      ]
+    }
+  },
+  {
+    "word": "sewer",
+    "quiz": {
+      "answer": "下水道",
+      "options": [
+        "清流",
+        "湖",
+        "山"
+      ]
+    }
+  },
+  {
+    "word": "skate",
+    "quiz": {
+      "answer": "スケート",
+      "options": [
+        "歩く",
+        "走る",
+        "泳ぐ"
+      ]
+    }
+  },
+  {
+    "word": "skateboard",
+    "quiz": {
+      "answer": "スケートボード",
+      "options": [
+        "自転車",
+        "車",
+        "ボート"
+      ]
+    }
+  },
+  {
+    "word": "sleepy",
+    "quiz": {
+      "answer": "眠い",
+      "options": [
+        "覚醒して",
+        "活動的",
+        "元気な"
+      ]
+    }
+  },
+  {
+    "word": "tailor",
+    "quiz": {
+      "answer": "仕立て屋",
+      "options": [
+        "農夫",
+        "教師",
+        "技術者"
+      ]
+    }
+  },
+  {
+    "word": "termination",
+    "quiz": {
+      "answer": "終了",
+      "options": [
+        "開始",
+        "継続",
+        "拡張"
+      ]
+    }
+  },
+  {
+    "word": "theft",
+    "quiz": {
+      "answer": "盗難",
+      "options": [
+        "購入",
+        "贈与",
+        "貸与"
+      ]
+    }
+  }
+]

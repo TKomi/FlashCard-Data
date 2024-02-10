@@ -1,0 +1,552 @@
+[
+  {
+    "word": "mosquito",
+    "quiz": {
+      "answer": "蚊",
+      "options": [
+        "蝶",
+        "蜂",
+        "蟻"
+      ]
+    }
+  },
+  {
+    "word": "obligate",
+    "quiz": {
+      "answer": "義務付ける",
+      "options": [
+        "解放する",
+        "忘れる",
+        "無視する"
+      ]
+    }
+  },
+  {
+    "word": "oblige",
+    "quiz": {
+      "answer": "強いる",
+      "options": [
+        "許可する",
+        "阻止する",
+        "逃避する"
+      ]
+    }
+  },
+  {
+    "word": "occurrence",
+    "quiz": {
+      "answer": "発生",
+      "options": [
+        "消滅",
+        "維持",
+        "固定"
+      ]
+    }
+  },
+  {
+    "word": "operational",
+    "quiz": {
+      "answer": "運用可能",
+      "options": [
+        "非稼働",
+        "破壊",
+        "閉鎖"
+      ]
+    }
+  },
+  {
+    "word": "outage",
+    "quiz": {
+      "answer": "停電",
+      "options": [
+        "電力過剰",
+        "安定供給",
+        "水力"
+      ]
+    }
+  },
+  {
+    "word": "overcrowd",
+    "quiz": {
+      "answer": "過密",
+      "options": [
+        "疎密",
+        "空虚",
+        "均等"
+      ]
+    }
+  },
+  {
+    "word": "paralegal",
+    "quiz": {
+      "answer": "パラリーガル",
+      "options": [
+        "弁護士",
+        "被告",
+        "証人"
+      ]
+    }
+  },
+  {
+    "word": "partially",
+    "quiz": {
+      "answer": "部分的に",
+      "options": [
+        "全面的に",
+        "完全に",
+        "一貫して"
+      ]
+    }
+  },
+  {
+    "word": "pepper",
+    "quiz": {
+      "answer": "ペッパー",
+      "options": [
+        "塩",
+        "砂糖",
+        "醤油"
+      ]
+    }
+  },
+  {
+    "word": "permanently",
+    "quiz": {
+      "answer": "永久に",
+      "options": [
+        "一時的に",
+        "不定期に",
+        "断続的に"
+      ]
+    }
+  },
+  {
+    "word": "plow",
+    "quiz": {
+      "answer": "耕す",
+      "options": [
+        "収穫する",
+        "播種する",
+        "休耕する"
+      ]
+    }
+  },
+  {
+    "word": "query",
+    "quiz": {
+      "answer": "照会",
+      "options": [
+        "確認",
+        "同意",
+        "無視"
+      ]
+    }
+  },
+  {
+    "word": "railway",
+    "quiz": {
+      "answer": "鉄道",
+      "options": [
+        "道路",
+        "航路",
+        "歩道"
+      ]
+    }
+  },
+  {
+    "word": "raincoat",
+    "quiz": {
+      "answer": "レインコート",
+      "options": [
+        "ジャケット",
+        "セーター",
+        "マフラー"
+      ]
+    }
+  },
+  {
+    "word": "reconsider",
+    "quiz": {
+      "answer": "再考する",
+      "options": [
+        "無視する",
+        "承認する",
+        "拒絶する"
+      ]
+    }
+  },
+  {
+    "word": "redesign",
+    "quiz": {
+      "answer": "再設計",
+      "options": [
+        "複製",
+        "維持",
+        "廃棄"
+      ]
+    }
+  },
+  {
+    "word": "rehearsal",
+    "quiz": {
+      "answer": "リハーサル",
+      "options": [
+        "公演",
+        "観覧",
+        "休憩"
+      ]
+    }
+  },
+  {
+    "word": "relaxation",
+    "quiz": {
+      "answer": "リラクゼーション",
+      "options": [
+        "緊張",
+        "活動",
+        "競争"
+      ]
+    }
+  },
+  {
+    "word": "repetition",
+    "quiz": {
+      "answer": "繰り返し",
+      "options": [
+        "創造",
+        "停止",
+        "変更"
+      ]
+    }
+  },
+  {
+    "word": "retreat",
+    "quiz": {
+      "answer": "後退",
+      "options": [
+        "進行",
+        "攻撃",
+        "防衛"
+      ]
+    }
+  },
+  {
+    "word": "salon",
+    "quiz": {
+      "answer": "サロン",
+      "options": [
+        "キッチン",
+        "寝室",
+        "ガレージ"
+      ]
+    }
+  },
+  {
+    "word": "satellite",
+    "quiz": {
+      "answer": "衛星",
+      "options": [
+        "惑星",
+        "小惑星",
+        "隕石"
+      ]
+    }
+  },
+  {
+    "word": "scenery",
+    "quiz": {
+      "answer": "景色",
+      "options": [
+        "都市",
+        "砂漠",
+        "海"
+      ]
+    }
+  },
+  {
+    "word": "serial",
+    "quiz": {
+      "answer": "シリアル",
+      "options": [
+        "単発",
+        "非連続",
+        "完結"
+      ]
+    }
+  },
+  {
+    "word": "sew",
+    "quiz": {
+      "answer": "縫う",
+      "options": [
+        "切る",
+        "破る",
+        "焼く"
+      ]
+    }
+  },
+  {
+    "word": "sketch",
+    "quiz": {
+      "answer": "スケッチ",
+      "options": [
+        "絵画",
+        "小説",
+        "写真"
+      ]
+    }
+  },
+  {
+    "word": "smartphone",
+    "quiz": {
+      "answer": "スマートフォン",
+      "options": [
+        "固定電話",
+        "ラジオ",
+        "テレビ"
+      ]
+    }
+  },
+  {
+    "word": "soar",
+    "quiz": {
+      "answer": "高騰",
+      "options": [
+        "下落",
+        "安定",
+        "減少"
+      ]
+    }
+  },
+  {
+    "word": "stimulus",
+    "quiz": {
+      "answer": "刺激",
+      "options": [
+        "抑制",
+        "無視",
+        "平穏"
+      ]
+    }
+  },
+  {
+    "word": "stockbroker",
+    "quiz": {
+      "answer": "株式仲買人",
+      "options": [
+        "顧客",
+        "銀行家",
+        "投資家"
+      ]
+    }
+  },
+  {
+    "word": "tablecloth",
+    "quiz": {
+      "answer": "テーブルクロス",
+      "options": [
+        "カーテン",
+        "タオル",
+        "ベッドシーツ"
+      ]
+    }
+  },
+  {
+    "word": "thirsty",
+    "quiz": {
+      "answer": "渇いた",
+      "options": [
+        "満足した",
+        "湿った",
+        "冷たい"
+      ]
+    }
+  },
+  {
+    "word": "thrill",
+    "quiz": {
+      "answer": "スリル",
+      "options": [
+        "平穏",
+        "沈黙",
+        "退屈"
+      ]
+    }
+  },
+  {
+    "word": "tile",
+    "quiz": {
+      "answer": "タイル",
+      "options": [
+        "木材",
+        "カーペット",
+        "プラスチック"
+      ]
+    }
+  },
+  {
+    "word": "toiletry",
+    "quiz": {
+      "answer": "トイレタリー",
+      "options": [
+        "家具",
+        "食器",
+        "電化製品"
+      ]
+    }
+  },
+  {
+    "word": "trademark",
+    "quiz": {
+      "answer": "商標",
+      "options": [
+        "特許",
+        "著作権",
+        "ライセンス"
+      ]
+    }
+  },
+  {
+    "word": "tropical",
+    "quiz": {
+      "answer": "熱帯の",
+      "options": [
+        "寒帯の",
+        "温帯の",
+        "乾燥帯の"
+      ]
+    }
+  },
+  {
+    "word": "tuna",
+    "quiz": {
+      "answer": "マグロ",
+      "options": [
+        "鮭",
+        "鯛",
+        "鶏"
+      ]
+    }
+  },
+  {
+    "word": "unemployed",
+    "quiz": {
+      "answer": "失業中",
+      "options": [
+        "雇用中",
+        "自営業",
+        "退職"
+      ]
+    }
+  },
+  {
+    "word": "validate",
+    "quiz": {
+      "answer": "認証する",
+      "options": [
+        "無効にする",
+        "拒絶する",
+        "無視する"
+      ]
+    }
+  },
+  {
+    "word": "vanilla",
+    "quiz": {
+      "answer": "バニラ",
+      "options": [
+        "チョコレート",
+        "ストロベリー",
+        "抹茶"
+      ]
+    }
+  },
+  {
+    "word": "willingness",
+    "quiz": {
+      "answer": "意欲",
+      "options": [
+        "消極性",
+        "無関心",
+        "抵抗"
+      ]
+    }
+  },
+  {
+    "word": "wristwatch",
+    "quiz": {
+      "answer": "腕時計",
+      "options": [
+        "壁掛け時計",
+        "砂時計",
+        "日時計"
+      ]
+    }
+  },
+  {
+    "word": "abide",
+    "quiz": {
+      "answer": "守る",
+      "options": [
+        "違反する",
+        "忘れる",
+        "蔑視する"
+      ]
+    }
+  },
+  {
+    "word": "actively",
+    "quiz": {
+      "answer": "積極的に",
+      "options": [
+        "消極的に",
+        "一時的に",
+        "不活動的に"
+      ]
+    }
+  },
+  {
+    "word": "allergy",
+    "quiz": {
+      "answer": "アレルギー",
+      "options": [
+        "免疫",
+        "耐性",
+        "感染"
+      ]
+    }
+  },
+  {
+    "word": "apprehensive",
+    "quiz": {
+      "answer": "懸念している",
+      "options": [
+        "安心している",
+        "無関心な",
+        "興奮している"
+      ]
+    }
+  },
+  {
+    "word": "automotive",
+    "quiz": {
+      "answer": "自動車の",
+      "options": [
+        "自転車の",
+        "航空の",
+        "船舶の"
+      ]
+    }
+  },
+  {
+    "word": "bacteria",
+    "quiz": {
+      "answer": "細菌",
+      "options": [
+        "ウイルス",
+        "真菌",
+        "寄生虫"
+      ]
+    }
+  }
+]

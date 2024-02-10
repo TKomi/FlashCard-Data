@@ -1,0 +1,552 @@
+[
+  {
+    "word": "fluent",
+    "quiz": {
+      "answer": "流暢な",
+      "options": [
+        "かたい",
+        "不自由な",
+        "間違った"
+      ]
+    }
+  },
+  {
+    "word": "honestly",
+    "quiz": {
+      "answer": "正直に",
+      "options": [
+        "不誠実に",
+        "嘘をついて",
+        "無関心に"
+      ]
+    }
+  },
+  {
+    "word": "housekeep",
+    "quiz": {
+      "answer": "家事をする",
+      "options": [
+        "外出する",
+        "会社を経営する",
+        "車を運転する"
+      ]
+    }
+  },
+  {
+    "word": "hurricane",
+    "quiz": {
+      "answer": "ハリケーン",
+      "options": [
+        "穏やか",
+        "晴天",
+        "霧"
+      ]
+    }
+  },
+  {
+    "word": "hygiene",
+    "quiz": {
+      "answer": "衛生",
+      "options": [
+        "汚染",
+        "不潔",
+        "混乱"
+      ]
+    }
+  },
+  {
+    "word": "integral",
+    "quiz": {
+      "answer": "不可欠",
+      "options": [
+        "余分な",
+        "無関係",
+        "一時的"
+      ]
+    }
+  },
+  {
+    "word": "interactive",
+    "quiz": {
+      "answer": "対話式の",
+      "options": [
+        "単方向の",
+        "非活動的",
+        "無関心"
+      ]
+    }
+  },
+  {
+    "word": "interfere",
+    "quiz": {
+      "answer": "干渉する",
+      "options": [
+        "支援する",
+        "無視する",
+        "賛成する"
+      ]
+    }
+  },
+  {
+    "word": "kilogram",
+    "quiz": {
+      "answer": "キログラム",
+      "options": [
+        "メートル",
+        "センチメートル",
+        "リットル"
+      ]
+    }
+  },
+  {
+    "word": "layoff",
+    "quiz": {
+      "answer": "解雇",
+      "options": [
+        "採用",
+        "昇進",
+        "安定"
+      ]
+    }
+  },
+  {
+    "word": "lightweight",
+    "quiz": {
+      "answer": "軽量",
+      "options": [
+        "重量",
+        "重要",
+        "不重要"
+      ]
+    }
+  },
+  {
+    "word": "merit",
+    "quiz": {
+      "answer": "長所",
+      "options": [
+        "短所",
+        "平凡",
+        "無関係"
+      ]
+    }
+  },
+  {
+    "word": "necklace",
+    "quiz": {
+      "answer": "ネックレス",
+      "options": [
+        "ブレスレット",
+        "指輪",
+        "腕時計"
+      ]
+    }
+  },
+  {
+    "word": "needy",
+    "quiz": {
+      "answer": "貧しい",
+      "options": [
+        "裕福",
+        "中立",
+        "豊か"
+      ]
+    }
+  },
+  {
+    "word": "overpay",
+    "quiz": {
+      "answer": "過払い",
+      "options": [
+        "未払い",
+        "正確",
+        "下払い"
+      ]
+    }
+  },
+  {
+    "word": "pamphlet",
+    "quiz": {
+      "answer": "パンフレット",
+      "options": [
+        "小説",
+        "教科書",
+        "日記"
+      ]
+    }
+  },
+  {
+    "word": "partial",
+    "quiz": {
+      "answer": "部分的",
+      "options": [
+        "全体的",
+        "完全",
+        "無関心"
+      ]
+    }
+  },
+  {
+    "word": "penalize",
+    "quiz": {
+      "answer": "罰する",
+      "options": [
+        "報酬を与える",
+        "賞賛する",
+        "無視する"
+      ]
+    }
+  },
+  {
+    "word": "pollute",
+    "quiz": {
+      "answer": "汚染する",
+      "options": [
+        "浄化する",
+        "保護する",
+        "無視する"
+      ]
+    }
+  },
+  {
+    "word": "prescribe",
+    "quiz": {
+      "answer": "処方する",
+      "options": [
+        "禁止する",
+        "推奨する",
+        "無視する"
+      ]
+    }
+  },
+  {
+    "word": "probable",
+    "quiz": {
+      "answer": "ありそうな",
+      "options": [
+        "不可能",
+        "確実",
+        "未知"
+      ]
+    }
+  },
+  {
+    "word": "prominent",
+    "quiz": {
+      "answer": "顕著な",
+      "options": [
+        "目立たない",
+        "平凡",
+        "隠れた"
+      ]
+    }
+  },
+  {
+    "word": "rainfall",
+    "quiz": {
+      "answer": "降雨",
+      "options": [
+        "乾燥",
+        "晴天",
+        "熱波"
+      ]
+    }
+  },
+  {
+    "word": "relocation",
+    "quiz": {
+      "answer": "移転",
+      "options": [
+        "定住",
+        "滞在",
+        "帰宅"
+      ]
+    }
+  },
+  {
+    "word": "residence",
+    "quiz": {
+      "answer": "住居",
+      "options": [
+        "職場",
+        "学校",
+        "公園"
+      ]
+    }
+  },
+  {
+    "word": "retrieve",
+    "quiz": {
+      "answer": "取り戻す",
+      "options": [
+        "失う",
+        "無視する",
+        "捨てる"
+      ]
+    }
+  },
+  {
+    "word": "rider",
+    "quiz": {
+      "answer": "乗り手",
+      "options": [
+        "歩行者",
+        "運転手",
+        "観客"
+      ]
+    }
+  },
+  {
+    "word": "rubber",
+    "quiz": {
+      "answer": "ゴム",
+      "options": [
+        "金属",
+        "木",
+        "プラスチック"
+      ]
+    }
+  },
+  {
+    "word": "rug",
+    "quiz": {
+      "answer": "敷物",
+      "options": [
+        "壁",
+        "天井",
+        "床"
+      ]
+    }
+  },
+  {
+    "word": "salespeople",
+    "quiz": {
+      "answer": "販売員",
+      "options": [
+        "購入者",
+        "観光客",
+        "学生"
+      ]
+    }
+  },
+  {
+    "word": "sharply",
+    "quiz": {
+      "answer": "急激に",
+      "options": [
+        "緩やかに",
+        "徐々に",
+        "一貫して"
+      ]
+    }
+  },
+  {
+    "word": "similarity",
+    "quiz": {
+      "answer": "類似性",
+      "options": [
+        "差異",
+        "独自性",
+        "対立"
+      ]
+    }
+  },
+  {
+    "word": "someday",
+    "quiz": {
+      "answer": "いつか",
+      "options": [
+        "今日",
+        "昨日",
+        "決して"
+      ]
+    }
+  },
+  {
+    "word": "spectator",
+    "quiz": {
+      "answer": "観客",
+      "options": [
+        "出演者",
+        "監督",
+        "無関係者"
+      ]
+    }
+  },
+  {
+    "word": "stereo",
+    "quiz": {
+      "answer": "ステレオ",
+      "options": [
+        "モノラル",
+        "サイレント",
+        "ライブ"
+      ]
+    }
+  },
+  {
+    "word": "storeroom",
+    "quiz": {
+      "answer": "貯蔵室",
+      "options": [
+        "居間",
+        "寝室",
+        "キッチン"
+      ]
+    }
+  },
+  {
+    "word": "subsidize",
+    "quiz": {
+      "answer": "補助金を与える",
+      "options": [
+        "取り上げる",
+        "無視する",
+        "罰する"
+      ]
+    }
+  },
+  {
+    "word": "suspicious",
+    "quiz": {
+      "answer": "疑わしい",
+      "options": [
+        "信頼できる",
+        "確実",
+        "明確"
+      ]
+    }
+  },
+  {
+    "word": "tasty",
+    "quiz": {
+      "answer": "おいしい",
+      "options": [
+        "まずい",
+        "無味",
+        "苦い"
+      ]
+    }
+  },
+  {
+    "word": "terrific",
+    "quiz": {
+      "answer": "素晴らしい",
+      "options": [
+        "ひどい",
+        "平凡",
+        "無関心"
+      ]
+    }
+  },
+  {
+    "word": "underground",
+    "quiz": {
+      "answer": "地下",
+      "options": [
+        "地上",
+        "空中",
+        "水中"
+      ]
+    }
+  },
+  {
+    "word": "unpaid",
+    "quiz": {
+      "answer": "未払い",
+      "options": [
+        "支払済み",
+        "過払い",
+        "完済"
+      ]
+    }
+  },
+  {
+    "word": "volleyball",
+    "quiz": {
+      "answer": "バレーボール",
+      "options": [
+        "サッカー",
+        "野球",
+        "テニス"
+      ]
+    }
+  },
+  {
+    "word": "wheelchair",
+    "quiz": {
+      "answer": "車椅子",
+      "options": [
+        "自転車",
+        "自動車",
+        "スクーター"
+      ]
+    }
+  },
+  {
+    "word": "whoever",
+    "quiz": {
+      "answer": "誰でも",
+      "options": [
+        "何も",
+        "どこでも",
+        "どれでも"
+      ]
+    }
+  },
+  {
+    "word": "wool",
+    "quiz": {
+      "answer": "羊毛",
+      "options": [
+        "綿",
+        "シルク",
+        "ナイロン"
+      ]
+    }
+  },
+  {
+    "word": "wrinkle",
+    "quiz": {
+      "answer": "しわ",
+      "options": [
+        "滑らか",
+        "平ら",
+        "均一"
+      ]
+    }
+  },
+  {
+    "word": "accuracy",
+    "quiz": {
+      "answer": "正確さ",
+      "options": [
+        "不正確",
+        "曖昧",
+        "不確実"
+      ]
+    }
+  },
+  {
+    "word": "anyhow",
+    "quiz": {
+      "answer": "とにかく",
+      "options": [
+        "決して",
+        "明確に",
+        "確実に"
+      ]
+    }
+  },
+  {
+    "word": "appetizer",
+    "quiz": {
+      "answer": "前菜",
+      "options": [
+        "メインディッシュ",
+        "デザート",
+        "飲み物"
+      ]
+    }
+  }
+]

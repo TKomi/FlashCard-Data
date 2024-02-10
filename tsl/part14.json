@@ -1,0 +1,552 @@
+[
+  {
+    "word": "spam",
+    "quiz": {
+      "answer": "迷惑メール",
+      "options": [
+        "ヘルシーフード",
+        "高級食材",
+        "新鮮な果物"
+      ]
+    }
+  },
+  {
+    "word": "surf",
+    "quiz": {
+      "answer": "サーフィン",
+      "options": [
+        "山登り",
+        "スキー",
+        "ジョギング"
+      ]
+    }
+  },
+  {
+    "word": "timetable",
+    "quiz": {
+      "answer": "時刻表",
+      "options": [
+        "瞬間",
+        "永久",
+        "ランダム"
+      ]
+    }
+  },
+  {
+    "word": "vase",
+    "quiz": {
+      "answer": "花瓶",
+      "options": [
+        "食器",
+        "椅子",
+        "テーブル"
+      ]
+    }
+  },
+  {
+    "word": "aboard",
+    "quiz": {
+      "answer": "乗って",
+      "options": [
+        "下車して",
+        "歩いて",
+        "走って"
+      ]
+    }
+  },
+  {
+    "word": "advancement",
+    "quiz": {
+      "answer": "進歩",
+      "options": [
+        "後退",
+        "停滞",
+        "減少"
+      ]
+    }
+  },
+  {
+    "word": "advertiser",
+    "quiz": {
+      "answer": "広告主",
+      "options": [
+        "視聴者",
+        "読者",
+        "批評家"
+      ]
+    }
+  },
+  {
+    "word": "alternatively",
+    "quiz": {
+      "answer": "代わりに",
+      "options": [
+        "同様に",
+        "直接に",
+        "永遠に"
+      ]
+    }
+  },
+  {
+    "word": "amuse",
+    "quiz": {
+      "answer": "楽しませる",
+      "options": [
+        "悲しませる",
+        "怒らせる",
+        "無視する"
+      ]
+    }
+  },
+  {
+    "word": "attorney",
+    "quiz": {
+      "answer": "弁護士",
+      "options": [
+        "医者",
+        "教師",
+        "技術者"
+      ]
+    }
+  },
+  {
+    "word": "authorization",
+    "quiz": {
+      "answer": "認証",
+      "options": [
+        "禁止",
+        "無視",
+        "拒否"
+      ]
+    }
+  },
+  {
+    "word": "campus",
+    "quiz": {
+      "answer": "キャンパス",
+      "options": [
+        "オフィス",
+        "工場",
+        "商業地区"
+      ]
+    }
+  },
+  {
+    "word": "candy",
+    "quiz": {
+      "answer": "キャンディ",
+      "options": [
+        "野菜",
+        "果物",
+        "肉"
+      ]
+    }
+  },
+  {
+    "word": "certify",
+    "quiz": {
+      "answer": "認証する",
+      "options": [
+        "拒否する",
+        "疑問を投げかける",
+        "隠す"
+      ]
+    }
+  },
+  {
+    "word": "checkout",
+    "quiz": {
+      "answer": "チェックアウト",
+      "options": [
+        "チェックイン",
+        "滞在",
+        "拡張"
+      ]
+    }
+  },
+  {
+    "word": "chemistry",
+    "quiz": {
+      "answer": "化学",
+      "options": [
+        "物理",
+        "生物",
+        "数学"
+      ]
+    }
+  },
+  {
+    "word": "circulation",
+    "quiz": {
+      "answer": "循環",
+      "options": [
+        "静止",
+        "停止",
+        "減少"
+      ]
+    }
+  },
+  {
+    "word": "concierge",
+    "quiz": {
+      "answer": "コンシェルジュ",
+      "options": [
+        "顧客",
+        "管理者",
+        "訪問者"
+      ]
+    }
+  },
+  {
+    "word": "consent",
+    "quiz": {
+      "answer": "同意",
+      "options": [
+        "拒否",
+        "無視",
+        "抗議"
+      ]
+    }
+  },
+  {
+    "word": "consistently",
+    "quiz": {
+      "answer": "一貫して",
+      "options": [
+        "不規則に",
+        "たまに",
+        "変わりやすく"
+      ]
+    }
+  },
+  {
+    "word": "cookie",
+    "quiz": {
+      "answer": "クッキー",
+      "options": [
+        "ケーキ",
+        "アイスクリーム",
+        "パスタ"
+      ]
+    }
+  },
+  {
+    "word": "deck",
+    "quiz": {
+      "answer": "デッキ",
+      "options": [
+        "地下室",
+        "屋根",
+        "庭"
+      ]
+    }
+  },
+  {
+    "word": "descriptive",
+    "quiz": {
+      "answer": "説明的",
+      "options": [
+        "概要",
+        "簡潔",
+        "抽象的"
+      ]
+    }
+  },
+  {
+    "word": "detach",
+    "quiz": {
+      "answer": "分離する",
+      "options": [
+        "結合する",
+        "強化する",
+        "集中する"
+      ]
+    }
+  },
+  {
+    "word": "documentation",
+    "quiz": {
+      "answer": "文書",
+      "options": [
+        "推測",
+        "忘却",
+        "無視"
+      ]
+    }
+  },
+  {
+    "word": "entrepreneur",
+    "quiz": {
+      "answer": "起業家",
+      "options": [
+        "従業員",
+        "学生",
+        "ボランティア"
+      ]
+    }
+  },
+  {
+    "word": "exceptional",
+    "quiz": {
+      "answer": "例外的",
+      "options": [
+        "普通の",
+        "下位の",
+        "平凡な"
+      ]
+    }
+  },
+  {
+    "word": "familiarize",
+    "quiz": {
+      "answer": "馴染ませる",
+      "options": [
+        "遠ざける",
+        "忘れさせる",
+        "混乱させる"
+      ]
+    }
+  },
+  {
+    "word": "hotline",
+    "quiz": {
+      "answer": "ホットライン",
+      "options": [
+        "冷線",
+        "中断",
+        "遅延"
+      ]
+    }
+  },
+  {
+    "word": "intonation",
+    "quiz": {
+      "answer": "抑揚",
+      "options": [
+        "一色",
+        "単調",
+        "静寂"
+      ]
+    }
+  },
+  {
+    "word": "invention",
+    "quiz": {
+      "answer": "発明",
+      "options": [
+        "破壊",
+        "衰退",
+        "古典"
+      ]
+    }
+  },
+  {
+    "word": "irritate",
+    "quiz": {
+      "answer": "刺激する",
+      "options": [
+        "安心させる",
+        "支援する",
+        "落ち着かせる"
+      ]
+    }
+  },
+  {
+    "word": "locker",
+    "quiz": {
+      "answer": "ロッカー",
+      "options": [
+        "居間",
+        "オフィス",
+        "庭"
+      ]
+    }
+  },
+  {
+    "word": "overlook",
+    "quiz": {
+      "answer": "見落とす",
+      "options": [
+        "注目する",
+        "評価する",
+        "研究する"
+      ]
+    }
+  },
+  {
+    "word": "patent",
+    "quiz": {
+      "answer": "特許",
+      "options": [
+        "公開",
+        "秘密",
+        "一般知識"
+      ]
+    }
+  },
+  {
+    "word": "payable",
+    "quiz": {
+      "answer": "支払い可能",
+      "options": [
+        "無料",
+        "回収不可",
+        "借金"
+      ]
+    }
+  },
+  {
+    "word": "preliminary",
+    "quiz": {
+      "answer": "予備的",
+      "options": [
+        "最終的",
+        "即時的",
+        "恒久的"
+      ]
+    }
+  },
+  {
+    "word": "salesman",
+    "quiz": {
+      "answer": "販売員",
+      "options": [
+        "購入者",
+        "製品開発者",
+        "マーケティング担当"
+      ]
+    }
+  },
+  {
+    "word": "sauna",
+    "quiz": {
+      "answer": "サウナ",
+      "options": [
+        "プール",
+        "ジム",
+        "図書館"
+      ]
+    }
+  },
+  {
+    "word": "smoothly",
+    "quiz": {
+      "answer": "スムーズに",
+      "options": [
+        "困難に",
+        "不規則に",
+        "突然に"
+      ]
+    }
+  },
+  {
+    "word": "sunshine",
+    "quiz": {
+      "answer": "日光",
+      "options": [
+        "雨",
+        "雪",
+        "曇り"
+      ]
+    }
+  },
+  {
+    "word": "tow",
+    "quiz": {
+      "answer": "牽引",
+      "options": [
+        "押す",
+        "走る",
+        "飛ぶ"
+      ]
+    }
+  },
+  {
+    "word": "translator",
+    "quiz": {
+      "answer": "翻訳者",
+      "options": [
+        "作者",
+        "編集者",
+        "クリティック"
+      ]
+    }
+  },
+  {
+    "word": "tuition",
+    "quiz": {
+      "answer": "授業料",
+      "options": [
+        "給料",
+        "報酬",
+        "ボーナス"
+      ]
+    }
+  },
+  {
+    "word": "unavailable",
+    "quiz": {
+      "answer": "利用不可",
+      "options": [
+        "利用可能",
+        "在庫あり",
+        "自由"
+      ]
+    }
+  },
+  {
+    "word": "violation",
+    "quiz": {
+      "answer": "違反",
+      "options": [
+        "順守",
+        "同意",
+        "協力"
+      ]
+    }
+  },
+  {
+    "word": "webpage",
+    "quiz": {
+      "answer": "ウェブページ",
+      "options": [
+        "紙のページ",
+        "本",
+        "雑誌"
+      ]
+    }
+  },
+  {
+    "word": "acceptance",
+    "quiz": {
+      "answer": "受け入れ",
+      "options": [
+        "拒否",
+        "無視",
+        "抗議"
+      ]
+    }
+  },
+  {
+    "word": "allocate",
+    "quiz": {
+      "answer": "割り当てる",
+      "options": [
+        "取り除く",
+        "集める",
+        "減少させる"
+      ]
+    }
+  },
+  {
+    "word": "ambitious",
+    "quiz": {
+      "answer": "野心的",
+      "options": [
+        "満足した",
+        "怠惰な",
+        "単純な"
+      ]
+    }
+  }
+]

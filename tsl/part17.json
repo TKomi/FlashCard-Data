@@ -1,0 +1,552 @@
+[
+  {
+    "word": "absorb",
+    "quiz": {
+      "answer": "吸収する",
+      "options": [
+        "排出する",
+        "拒絶する",
+        "無視する"
+      ]
+    }
+  },
+  {
+    "word": "administer",
+    "quiz": {
+      "answer": "管理する",
+      "options": [
+        "放棄する",
+        "妨げる",
+        "軽視する"
+      ]
+    }
+  },
+  {
+    "word": "ample",
+    "quiz": {
+      "answer": "十分な",
+      "options": [
+        "不足している",
+        "狭い",
+        "限られた"
+      ]
+    }
+  },
+  {
+    "word": "antique",
+    "quiz": {
+      "answer": "骨董品",
+      "options": [
+        "新品",
+        "現代的",
+        "一時的な"
+      ]
+    }
+  },
+  {
+    "word": "bean",
+    "quiz": {
+      "answer": "豆",
+      "options": [
+        "肉",
+        "果物",
+        "米"
+      ]
+    }
+  },
+  {
+    "word": "browse",
+    "quiz": {
+      "answer": "閲覧する",
+      "options": [
+        "無視する",
+        "捨てる",
+        "閉じる"
+      ]
+    }
+  },
+  {
+    "word": "bye",
+    "quiz": {
+      "answer": "さようなら",
+      "options": [
+        "こんにちは",
+        "歓迎",
+        "拒絶"
+      ]
+    }
+  },
+  {
+    "word": "careless",
+    "quiz": {
+      "answer": "不注意な",
+      "options": [
+        "注意深い",
+        "綿密な",
+        "慎重な"
+      ]
+    }
+  },
+  {
+    "word": "collector",
+    "quiz": {
+      "answer": "収集家",
+      "options": [
+        "捨てる人",
+        "忘れる人",
+        "無視する人"
+      ]
+    }
+  },
+  {
+    "word": "conform",
+    "quiz": {
+      "answer": "順応する",
+      "options": [
+        "反抗する",
+        "無視する",
+        "違反する"
+      ]
+    }
+  },
+  {
+    "word": "congestion",
+    "quiz": {
+      "answer": "渋滞",
+      "options": [
+        "流れ",
+        "空虚",
+        "開放"
+      ]
+    }
+  },
+  {
+    "word": "contradiction",
+    "quiz": {
+      "answer": "矛盾",
+      "options": [
+        "一致",
+        "調和",
+        "同意"
+      ]
+    }
+  },
+  {
+    "word": "contrary",
+    "quiz": {
+      "answer": "反対",
+      "options": [
+        "同意",
+        "類似",
+        "補完"
+      ]
+    }
+  },
+  {
+    "word": "diploma",
+    "quiz": {
+      "answer": "卒業証書",
+      "options": [
+        "入学許可",
+        "失格",
+        "留年"
+      ]
+    }
+  },
+  {
+    "word": "distributor",
+    "quiz": {
+      "answer": "流通業者",
+      "options": [
+        "生産者",
+        "消費者",
+        "非関係者"
+      ]
+    }
+  },
+  {
+    "word": "dive",
+    "quiz": {
+      "answer": "飛び込む",
+      "options": [
+        "上昇する",
+        "走る",
+        "避ける"
+      ]
+    }
+  },
+  {
+    "word": "energetic",
+    "quiz": {
+      "answer": "精力的な",
+      "options": [
+        "怠惰な",
+        "無力な",
+        "静かな"
+      ]
+    }
+  },
+  {
+    "word": "environmentally",
+    "quiz": {
+      "answer": "環境に優しい",
+      "options": [
+        "破壊的",
+        "無関心",
+        "汚染的"
+      ]
+    }
+  },
+  {
+    "word": "escalator",
+    "quiz": {
+      "answer": "エスカレーター",
+      "options": [
+        "階段",
+        "エレベーター",
+        "坂"
+      ]
+    }
+  },
+  {
+    "word": "exotic",
+    "quiz": {
+      "answer": "異国情緒の",
+      "options": [
+        "地元の",
+        "平凡な",
+        "慣れ親しんだ"
+      ]
+    }
+  },
+  {
+    "word": "fabric",
+    "quiz": {
+      "answer": "布地",
+      "options": [
+        "金属",
+        "プラスチック",
+        "石"
+      ]
+    }
+  },
+  {
+    "word": "generalization",
+    "quiz": {
+      "answer": "一般化",
+      "options": [
+        "特定",
+        "限定",
+        "無視"
+      ]
+    }
+  },
+  {
+    "word": "guidance",
+    "quiz": {
+      "answer": "指導",
+      "options": [
+        "放置",
+        "混乱",
+        "疑問"
+      ]
+    }
+  },
+  {
+    "word": "gum",
+    "quiz": {
+      "answer": "ガム",
+      "options": [
+        "チョコレート",
+        "アイスクリーム",
+        "パスタ"
+      ]
+    }
+  },
+  {
+    "word": "hesitant",
+    "quiz": {
+      "answer": "ためらう",
+      "options": [
+        "自信がある",
+        "急ぐ",
+        "積極的"
+      ]
+    }
+  },
+  {
+    "word": "indicator",
+    "quiz": {
+      "answer": "指標",
+      "options": [
+        "余剰",
+        "欠如",
+        "無関係"
+      ]
+    }
+  },
+  {
+    "word": "individually",
+    "quiz": {
+      "answer": "個別に",
+      "options": [
+        "集団で",
+        "一斉に",
+        "全体として"
+      ]
+    }
+  },
+  {
+    "word": "junior",
+    "quiz": {
+      "answer": "下級",
+      "options": [
+        "上級",
+        "同等",
+        "独立"
+      ]
+    }
+  },
+  {
+    "word": "lifestyle",
+    "quiz": {
+      "answer": "生活様式",
+      "options": [
+        "一時的趣味",
+        "定期的仕事",
+        "無関心領域"
+      ]
+    }
+  },
+  {
+    "word": "likewise",
+    "quiz": {
+      "answer": "同様に",
+      "options": [
+        "反対に",
+        "異なって",
+        "関連なく"
+      ]
+    }
+  },
+  {
+    "word": "morale",
+    "quiz": {
+      "answer": "士気",
+      "options": [
+        "不安",
+        "無関心",
+        "恐怖"
+      ]
+    }
+  },
+  {
+    "word": "orchestra",
+    "quiz": {
+      "answer": "オーケストラ",
+      "options": [
+        "ソロ",
+        "合唱",
+        "バンド"
+      ]
+    }
+  },
+  {
+    "word": "organizational",
+    "quiz": {
+      "answer": "組織的",
+      "options": [
+        "個人的",
+        "無計画的",
+        "一時的"
+      ]
+    }
+  },
+  {
+    "word": "outlook",
+    "quiz": {
+      "answer": "展望",
+      "options": [
+        "回顧",
+        "無視",
+        "現状"
+      ]
+    }
+  },
+  {
+    "word": "physics",
+    "quiz": {
+      "answer": "物理学",
+      "options": [
+        "生物学",
+        "地理学",
+        "数学"
+      ]
+    }
+  },
+  {
+    "word": "pole",
+    "quiz": {
+      "answer": "極",
+      "options": [
+        "平野",
+        "谷",
+        "山"
+      ]
+    }
+  },
+  {
+    "word": "puzzle",
+    "quiz": {
+      "answer": "パズル",
+      "options": [
+        "解答",
+        "明白",
+        "単純"
+      ]
+    }
+  },
+  {
+    "word": "reflexive",
+    "quiz": {
+      "answer": "反射的",
+      "options": [
+        "主動的",
+        "無関係",
+        "一直線"
+      ]
+    }
+  },
+  {
+    "word": "snowy",
+    "quiz": {
+      "answer": "雪の",
+      "options": [
+        "晴れの",
+        "雨の",
+        "熱帯の"
+      ]
+    }
+  },
+  {
+    "word": "steak",
+    "quiz": {
+      "answer": "ステーキ",
+      "options": [
+        "サラダ",
+        "スープ",
+        "果物"
+      ]
+    }
+  },
+  {
+    "word": "sticker",
+    "quiz": {
+      "answer": "ステッカー",
+      "options": [
+        "ポスター",
+        "カレンダー",
+        "ノート"
+      ]
+    }
+  },
+  {
+    "word": "telecommunication",
+    "quiz": {
+      "answer": "電気通信",
+      "options": [
+        "郵便",
+        "面会",
+        "手紙"
+      ]
+    }
+  },
+  {
+    "word": "timely",
+    "quiz": {
+      "answer": "タイムリー",
+      "options": [
+        "遅れた",
+        "早すぎる",
+        "不定期"
+      ]
+    }
+  },
+  {
+    "word": "uncomfortable",
+    "quiz": {
+      "answer": "不快な",
+      "options": [
+        "快適な",
+        "楽しい",
+        "満足"
+      ]
+    }
+  },
+  {
+    "word": "amenity",
+    "quiz": {
+      "answer": "アメニティ",
+      "options": [
+        "不便",
+        "危険",
+        "欠如"
+      ]
+    }
+  },
+  {
+    "word": "approximate",
+    "quiz": {
+      "answer": "おおよその",
+      "options": [
+        "正確な",
+        "完全な",
+        "一致"
+      ]
+    }
+  },
+  {
+    "word": "await",
+    "quiz": {
+      "answer": "待つ",
+      "options": [
+        "無視する",
+        "進む",
+        "拒否する"
+      ]
+    }
+  },
+  {
+    "word": "barbecue",
+    "quiz": {
+      "answer": "バーベキュー",
+      "options": [
+        "ファーストフード",
+        "ガラディナー",
+        "スナック"
+      ]
+    }
+  },
+  {
+    "word": "beginner",
+    "quiz": {
+      "answer": "初心者",
+      "options": [
+        "専門家",
+        "上級者",
+        "ベテラン"
+      ]
+    }
+  },
+  {
+    "word": "biology",
+    "quiz": {
+      "answer": "生物学",
+      "options": [
+        "物理学",
+        "化学",
+        "数学"
+      ]
+    }
+  }
+]

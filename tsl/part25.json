@@ -1,0 +1,552 @@
+[
+  {
+    "word": "broaden",
+    "quiz": {
+      "answer": "広げる",
+      "options": [
+        "狭める",
+        "減少させる",
+        "固定する"
+      ]
+    }
+  },
+  {
+    "word": "bulb",
+    "quiz": {
+      "answer": "電球",
+      "options": [
+        "カーテン",
+        "椅子",
+        "テーブル"
+      ]
+    }
+  },
+  {
+    "word": "by-law",
+    "quiz": {
+      "answer": "条例",
+      "options": [
+        "指導",
+        "概念",
+        "合意"
+      ]
+    }
+  },
+  {
+    "word": "cheer",
+    "quiz": {
+      "answer": "応援",
+      "options": [
+        "抗議",
+        "沈黙",
+        "無関心"
+      ]
+    }
+  },
+  {
+    "word": "complication",
+    "quiz": {
+      "answer": "合併症",
+      "options": [
+        "単純化",
+        "安定",
+        "明確化"
+      ]
+    }
+  },
+  {
+    "word": "considerate",
+    "quiz": {
+      "answer": "思いやりのある",
+      "options": [
+        "無関心な",
+        "攻撃的な",
+        "怠慢な"
+      ]
+    }
+  },
+  {
+    "word": "daytime",
+    "quiz": {
+      "answer": "昼間",
+      "options": [
+        "夜間",
+        "暁",
+        "夕刻"
+      ]
+    }
+  },
+  {
+    "word": "decoration",
+    "quiz": {
+      "answer": "装飾",
+      "options": [
+        "破壊",
+        "混乱",
+        "退色"
+      ]
+    }
+  },
+  {
+    "word": "discard",
+    "quiz": {
+      "answer": "捨てる",
+      "options": [
+        "保持する",
+        "収集する",
+        "更新する"
+      ]
+    }
+  },
+  {
+    "word": "drastically",
+    "quiz": {
+      "answer": "劇的に",
+      "options": [
+        "微妙に",
+        "ゆっくりと",
+        "一貫して"
+      ]
+    }
+  },
+  {
+    "word": "erase",
+    "quiz": {
+      "answer": "消去する",
+      "options": [
+        "強調する",
+        "保存する",
+        "拡大する"
+      ]
+    }
+  },
+  {
+    "word": "explorer",
+    "quiz": {
+      "answer": "探検家",
+      "options": [
+        "観客",
+        "守衛",
+        "居住者"
+      ]
+    }
+  },
+  {
+    "word": "factual",
+    "quiz": {
+      "answer": "事実に基づく",
+      "options": [
+        "虚偽の",
+        "想像の",
+        "一般的な"
+      ]
+    }
+  },
+  {
+    "word": "fixture",
+    "quiz": {
+      "answer": "備品",
+      "options": [
+        "取り外し可能",
+        "変動",
+        "一時的な"
+      ]
+    }
+  },
+  {
+    "word": "footwear",
+    "quiz": {
+      "answer": "履物",
+      "options": [
+        "帽子",
+        "手袋",
+        "シャツ"
+      ]
+    }
+  },
+  {
+    "word": "genre",
+    "quiz": {
+      "answer": "ジャンル",
+      "options": [
+        "単一",
+        "一般性",
+        "特異性"
+      ]
+    }
+  },
+  {
+    "word": "gymnasium",
+    "quiz": {
+      "answer": "体育館",
+      "options": [
+        "図書館",
+        "食堂",
+        "教室"
+      ]
+    }
+  },
+  {
+    "word": "hereby",
+    "quiz": {
+      "answer": "これによって",
+      "options": [
+        "そこに",
+        "前に",
+        "後に"
+      ]
+    }
+  },
+  {
+    "word": "hesitation",
+    "quiz": {
+      "answer": "躊躇",
+      "options": [
+        "確信",
+        "急進",
+        "満足"
+      ]
+    }
+  },
+  {
+    "word": "homemade",
+    "quiz": {
+      "answer": "自家製",
+      "options": [
+        "工場製",
+        "輸入",
+        "標準"
+      ]
+    }
+  },
+  {
+    "word": "hospitality",
+    "quiz": {
+      "answer": "もてなし",
+      "options": [
+        "敵意",
+        "無関心",
+        "競争"
+      ]
+    }
+  },
+  {
+    "word": "incoming",
+    "quiz": {
+      "answer": "入ってくる",
+      "options": [
+        "出て行く",
+        "静止する",
+        "減少する"
+      ]
+    }
+  },
+  {
+    "word": "induction",
+    "quiz": {
+      "answer": "誘導",
+      "options": [
+        "排除",
+        "減少",
+        "安定"
+      ]
+    }
+  },
+  {
+    "word": "inspiration",
+    "quiz": {
+      "answer": "霊感",
+      "options": [
+        "無関心",
+        "抑制",
+        "退屈"
+      ]
+    }
+  },
+  {
+    "word": "intently",
+    "quiz": {
+      "answer": "熱心に",
+      "options": [
+        "無関心に",
+        "散漫に",
+        "逆に"
+      ]
+    }
+  },
+  {
+    "word": "mower",
+    "quiz": {
+      "answer": "草刈り機",
+      "options": [
+        "鉛筆",
+        "ブラシ",
+        "スプーン"
+      ]
+    }
+  },
+  {
+    "word": "nutrition",
+    "quiz": {
+      "answer": "栄養",
+      "options": [
+        "毒",
+        "空気",
+        "乾燥"
+      ]
+    }
+  },
+  {
+    "word": "restatement",
+    "quiz": {
+      "answer": "再声明",
+      "options": [
+        "拒絶",
+        "無視",
+        "確認"
+      ]
+    }
+  },
+  {
+    "word": "sedan",
+    "quiz": {
+      "answer": "セダン",
+      "options": [
+        "自転車",
+        "船",
+        "飛行機"
+      ]
+    }
+  },
+  {
+    "word": "sunscreen",
+    "quiz": {
+      "answer": "日焼け止め",
+      "options": [
+        "パラソル",
+        "サングラス",
+        "帽子"
+      ]
+    }
+  },
+  {
+    "word": "wellness",
+    "quiz": {
+      "answer": "健康",
+      "options": [
+        "病気",
+        "不安",
+        "混乱"
+      ]
+    }
+  },
+  {
+    "word": "workbook",
+    "quiz": {
+      "answer": "ワークブック",
+      "options": [
+        "小説",
+        "雑誌",
+        "辞書"
+      ]
+    }
+  },
+  {
+    "word": "bookcase",
+    "quiz": {
+      "answer": "本棚",
+      "options": [
+        "冷蔵庫",
+        "ソファ",
+        "ベッド"
+      ]
+    }
+  },
+  {
+    "word": "cleanliness",
+    "quiz": {
+      "answer": "清潔",
+      "options": [
+        "汚れ",
+        "混乱",
+        "雑音"
+      ]
+    }
+  },
+  {
+    "word": "contestant",
+    "quiz": {
+      "answer": "競技者",
+      "options": [
+        "観客",
+        "審判",
+        "コーチ"
+      ]
+    }
+  },
+  {
+    "word": "ethics",
+    "quiz": {
+      "answer": "倫理",
+      "options": [
+        "不正",
+        "無関心",
+        "混乱"
+      ]
+    }
+  },
+  {
+    "word": "healthful",
+    "quiz": {
+      "answer": "健康的",
+      "options": [
+        "有害な",
+        "危険な",
+        "不快な"
+      ]
+    }
+  },
+  {
+    "word": "inefficient",
+    "quiz": {
+      "answer": "非効率的",
+      "options": [
+        "効率的",
+        "速い",
+        "直接的"
+      ]
+    }
+  },
+  {
+    "word": "liter",
+    "quiz": {
+      "answer": "リットル",
+      "options": [
+        "ガロン",
+        "カップ",
+        "オンス"
+      ]
+    }
+  },
+  {
+    "word": "recession",
+    "quiz": {
+      "answer": "不況",
+      "options": [
+        "景気回復",
+        "安定",
+        "成長"
+      ]
+    }
+  },
+  {
+    "word": "timeline",
+    "quiz": {
+      "answer": "タイムライン",
+      "options": [
+        "停止",
+        "加速",
+        "減速"
+      ]
+    }
+  },
+  {
+    "word": "unreliable",
+    "quiz": {
+      "answer": "信頼できない",
+      "options": [
+        "信頼性のある",
+        "安定した",
+        "確実な"
+      ]
+    }
+  },
+  {
+    "word": "acclaim",
+    "quiz": {
+      "answer": "称賛",
+      "options": [
+        "非難",
+        "無視",
+        "沈黙"
+      ]
+    }
+  },
+  {
+    "word": "chronic",
+    "quiz": {
+      "answer": "慢性的",
+      "options": [
+        "急性的",
+        "一時的",
+        "即時的"
+      ]
+    }
+  },
+  {
+    "word": "deteriorate",
+    "quiz": {
+      "answer": "悪化する",
+      "options": [
+        "改善する",
+        "安定する",
+        "固定する"
+      ]
+    }
+  },
+  {
+    "word": "resemble",
+    "quiz": {
+      "answer": "似ている",
+      "options": [
+        "異なる",
+        "遠ざかる",
+        "独立する"
+      ]
+    }
+  },
+  {
+    "word": "unauthorized",
+    "quiz": {
+      "answer": "許可されていない",
+      "options": [
+        "許可された",
+        "公式の",
+        "私的な"
+      ]
+    }
+  },
+  {
+    "word": "violate",
+    "quiz": {
+      "answer": "違反する",
+      "options": [
+        "順守する",
+        "支持する",
+        "確認する"
+      ]
+    }
+  },
+  {
+    "word": "unplug",
+    "quiz": {
+      "answer": "抜く",
+      "options": [
+        "差し込む",
+        "固定する",
+        "増やす"
+      ]
+    }
+  },
+  {
+    "word": "videoconference",
+    "quiz": {
+      "answer": "ビデオ会議",
+      "options": [
+        "対面会議",
+        "単独作業",
+        "文書作成"
+      ]
+    }
+  }
+]

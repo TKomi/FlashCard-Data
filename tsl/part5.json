@@ -1,0 +1,552 @@
+[
+  {
+    "word": "cleaner",
+    "quiz": {
+      "answer": "掃除員",
+      "options": [
+        "洗剤",
+        "清掃機",
+        "洗濯機"
+      ]
+    }
+  },
+  {
+    "word": "developer",
+    "quiz": {
+      "answer": "開発者",
+      "options": [
+        "建築家",
+        "設計者",
+        "投資家"
+      ]
+    }
+  },
+  {
+    "word": "headquarter",
+    "quiz": {
+      "answer": "本社",
+      "options": [
+        "支店",
+        "工場",
+        "研究所"
+      ]
+    }
+  },
+  {
+    "word": "shuttle",
+    "quiz": {
+      "answer": "シャトル",
+      "options": [
+        "循環バス",
+        "運搬車",
+        "無料バス"
+      ]
+    }
+  },
+  {
+    "word": "stationery",
+    "quiz": {
+      "answer": "文房具",
+      "options": [
+        "事務用品",
+        "教材",
+        "筆記具"
+      ]
+    }
+  },
+  {
+    "word": "subscribe",
+    "quiz": {
+      "answer": "定期購読する",
+      "options": [
+        "登録する",
+        "解約する",
+        "加入する"
+      ]
+    }
+  },
+  {
+    "word": "alike",
+    "quiz": {
+      "answer": "似ている",
+      "options": [
+        "異なる",
+        "対照的",
+        "同じ"
+      ]
+    }
+  },
+  {
+    "word": "flavor",
+    "quiz": {
+      "answer": "味",
+      "options": [
+        "香り",
+        "風味",
+        "種類"
+      ]
+    }
+  },
+  {
+    "word": "picnic",
+    "quiz": {
+      "answer": "ピクニック",
+      "options": [
+        "キャンプ",
+        "旅行",
+        "バーベキュー"
+      ]
+    }
+  },
+  {
+    "word": "recipe",
+    "quiz": {
+      "answer": "レシピ",
+      "options": [
+        "調理法",
+        "処方",
+        "調合法"
+      ]
+    }
+  },
+  {
+    "word": "refreshment",
+    "quiz": {
+      "answer": "軽食",
+      "options": [
+        "休憩",
+        "飲み物",
+        "スナック"
+      ]
+    }
+  },
+  {
+    "word": "administrative",
+    "quiz": {
+      "answer": "行政の",
+      "options": [
+        "管理の",
+        "事務の",
+        "政府の"
+      ]
+    }
+  },
+  {
+    "word": "authorize",
+    "quiz": {
+      "answer": "許可する",
+      "options": [
+        "承認する",
+        "禁止する",
+        "否定する"
+      ]
+    }
+  },
+  {
+    "word": "commonly",
+    "quiz": {
+      "answer": "一般的に",
+      "options": [
+        "稀に",
+        "特別に",
+        "たまに"
+      ]
+    }
+  },
+  {
+    "word": "distribution",
+    "quiz": {
+      "answer": "配布",
+      "options": [
+        "流通",
+        "配信",
+        "配置"
+      ]
+    }
+  },
+  {
+    "word": "sofa",
+    "quiz": {
+      "answer": "ソファ",
+      "options": [
+        "椅子",
+        "ベッド",
+        "テーブル"
+      ]
+    }
+  },
+  {
+    "word": "accommodate",
+    "quiz": {
+      "answer": "収容する",
+      "options": [
+        "拒否する",
+        "追放する",
+        "応答する"
+      ]
+    }
+  },
+  {
+    "word": "affordable",
+    "quiz": {
+      "answer": "手頃な",
+      "options": [
+        "高価な",
+        "豪華な",
+        "安価な"
+      ]
+    }
+  },
+  {
+    "word": "annoy",
+    "quiz": {
+      "answer": "悩ます",
+      "options": [
+        "喜ばせる",
+        "励ます",
+        "落ち着かせる"
+      ]
+    }
+  },
+  {
+    "word": "commute",
+    "quiz": {
+      "answer": "通勤する",
+      "options": [
+        "旅行する",
+        "転職する",
+        "在宅勤務"
+      ]
+    }
+  },
+  {
+    "word": "coordinate",
+    "quiz": {
+      "answer": "調整する",
+      "options": [
+        "混乱させる",
+        "分離する",
+        "統一する"
+      ]
+    }
+  },
+  {
+    "word": "paperwork",
+    "quiz": {
+      "answer": "書類作業",
+      "options": [
+        "手続き",
+        "実験",
+        "地図作成"
+      ]
+    }
+  },
+  {
+    "word": "quit",
+    "quiz": {
+      "answer": "辞める",
+      "options": [
+        "続ける",
+        "開始する",
+        "休憩する"
+      ]
+    }
+  },
+  {
+    "word": "authority",
+    "quiz": {
+      "answer": "権限",
+      "options": [
+        "助言者",
+        "部下",
+        "群衆"
+      ]
+    }
+  },
+  {
+    "word": "flu",
+    "quiz": {
+      "answer": "インフルエンザ",
+      "options": [
+        "風邪",
+        "アレルギー",
+        "熱"
+      ]
+    }
+  },
+  {
+    "word": "captain",
+    "quiz": {
+      "answer": "船長",
+      "options": [
+        "兵士",
+        "乗客",
+        "教師"
+      ]
+    }
+  },
+  {
+    "word": "installation",
+    "quiz": {
+      "answer": "設置",
+      "options": [
+        "解体",
+        "廃棄",
+        "売買"
+      ]
+    }
+  },
+  {
+    "word": "trainer",
+    "quiz": {
+      "answer": "トレーナー",
+      "options": [
+        "学生",
+        "参加者",
+        "観客"
+      ]
+    }
+  },
+  {
+    "word": "availability",
+    "quiz": {
+      "answer": "利用可能性",
+      "options": [
+        "品切れ",
+        "閉店",
+        "利用不可"
+      ]
+    }
+  },
+  {
+    "word": "bargain",
+    "quiz": {
+      "answer": "掘り出し物",
+      "options": [
+        "高価格",
+        "標準価格",
+        "定価"
+      ]
+    }
+  },
+  {
+    "word": "complimentary",
+    "quiz": {
+      "answer": "無料の",
+      "options": [
+        "有料の",
+        "批判的な",
+        "要求された"
+      ]
+    }
+  },
+  {
+    "word": "hike",
+    "quiz": {
+      "answer": "ハイキング",
+      "options": [
+        "散歩",
+        "ランニング",
+        "自転車乗り"
+      ]
+    }
+  },
+  {
+    "word": "midnight",
+    "quiz": {
+      "answer": "真夜中",
+      "options": [
+        "昼間",
+        "朝",
+        "夕方"
+      ]
+    }
+  },
+  {
+    "word": "productivity",
+    "quiz": {
+      "answer": "生産性",
+      "options": [
+        "怠惰",
+        "活動性",
+        "効率性"
+      ]
+    }
+  },
+  {
+    "word": "rainy",
+    "quiz": {
+      "answer": "雨の",
+      "options": [
+        "晴れの",
+        "雪の",
+        "曇りの"
+      ]
+    }
+  },
+  {
+    "word": "relocate",
+    "quiz": {
+      "answer": "移転する",
+      "options": [
+        "定住する",
+        "閉鎖する",
+        "拡大する"
+      ]
+    }
+  },
+  {
+    "word": "trainee",
+    "quiz": {
+      "answer": "研修生",
+      "options": [
+        "教官",
+        "監督者",
+        "卒業生"
+      ]
+    }
+  },
+  {
+    "word": "transaction",
+    "quiz": {
+      "answer": "取引",
+      "options": [
+        "中止",
+        "協議",
+        "交渉中止"
+      ]
+    }
+  },
+  {
+    "word": "unhappy",
+    "quiz": {
+      "answer": "不幸な",
+      "options": [
+        "幸せな",
+        "満足している",
+        "快適な"
+      ]
+    }
+  },
+  {
+    "word": "verify",
+    "quiz": {
+      "answer": "確認する",
+      "options": [
+        "無視する",
+        "推測する",
+        "誤解する"
+      ]
+    }
+  },
+  {
+    "word": "automobile",
+    "quiz": {
+      "answer": "自動車",
+      "options": [
+        "自転車",
+        "飛行機",
+        "船"
+      ]
+    }
+  },
+  {
+    "word": "courier",
+    "quiz": {
+      "answer": "宅配便",
+      "options": [
+        "郵便",
+        "タクシー",
+        "配送業者"
+      ]
+    }
+  },
+  {
+    "word": "incomplete",
+    "quiz": {
+      "answer": "未完成の",
+      "options": [
+        "完成した",
+        "完璧な",
+        "進行中の"
+      ]
+    }
+  },
+  {
+    "word": "questionnaire",
+    "quiz": {
+      "answer": "アンケート",
+      "options": [
+        "インタビュー",
+        "ディスカッション",
+        "講義"
+      ]
+    }
+  },
+  {
+    "word": "baseball",
+    "quiz": {
+      "answer": "野球",
+      "options": [
+        "サッカー",
+        "バスケットボール",
+        "テニス"
+      ]
+    }
+  },
+  {
+    "word": "dock",
+    "quiz": {
+      "answer": "埠頭",
+      "options": [
+        "車庫",
+        "空港",
+        "バス停"
+      ]
+    }
+  },
+  {
+    "word": "lamp",
+    "quiz": {
+      "answer": "ランプ",
+      "options": [
+        "照明",
+        "キャンドル",
+        "太陽"
+      ]
+    }
+  },
+  {
+    "word": "lately",
+    "quiz": {
+      "answer": "最近",
+      "options": [
+        "昔",
+        "今後",
+        "現在"
+      ]
+    }
+  },
+  {
+    "word": "machinery",
+    "quiz": {
+      "answer": "機械",
+      "options": [
+        "手工具",
+        "コンピュータ",
+        "家具"
+      ]
+    }
+  },
+  {
+    "word": "presenter",
+    "quiz": {
+      "answer": "プレゼンター",
+      "options": [
+        "聴衆",
+        "参加者",
+        "コメンテーター"
+      ]
+    }
+  }
+]

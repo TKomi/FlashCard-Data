@@ -1,0 +1,552 @@
+[
+  {
+    "word": "pedestrian",
+    "quiz": {
+      "answer": "歩行者",
+      "options": [
+        "乗客",
+        "運転手",
+        "自転車乗り"
+      ]
+    }
+  },
+  {
+    "word": "projection",
+    "quiz": {
+      "answer": "投影",
+      "options": [
+        "収縮",
+        "描写",
+        "取り消し"
+      ]
+    }
+  },
+  {
+    "word": "sleeve",
+    "quiz": {
+      "answer": "袖",
+      "options": [
+        "襟",
+        "ボタン",
+        "ジッパー"
+      ]
+    }
+  },
+  {
+    "word": "suburb",
+    "quiz": {
+      "answer": "郊外",
+      "options": [
+        "中心街",
+        "地下",
+        "山岳地"
+      ]
+    }
+  },
+  {
+    "word": "takeover",
+    "quiz": {
+      "answer": "買収",
+      "options": [
+        "販売",
+        "製造",
+        "放棄"
+      ]
+    }
+  },
+  {
+    "word": "unsure",
+    "quiz": {
+      "answer": "不確か",
+      "options": [
+        "確信して",
+        "無関心",
+        "知っている"
+      ]
+    }
+  },
+  {
+    "word": "upstairs",
+    "quiz": {
+      "answer": "階上",
+      "options": [
+        "地下",
+        "屋外",
+        "階下"
+      ]
+    }
+  },
+  {
+    "word": "verbal",
+    "quiz": {
+      "answer": "口頭の",
+      "options": [
+        "書面の",
+        "数字の",
+        "視覚的な"
+      ]
+    }
+  },
+  {
+    "word": "visa",
+    "quiz": {
+      "answer": "ビザ",
+      "options": [
+        "パスポート",
+        "免許証",
+        "学生証"
+      ]
+    }
+  },
+  {
+    "word": "wildlife",
+    "quiz": {
+      "answer": "野生生物",
+      "options": [
+        "都市生活",
+        "家畜",
+        "水生生物"
+      ]
+    }
+  },
+  {
+    "word": "workforce",
+    "quiz": {
+      "answer": "労働力",
+      "options": [
+        "無職",
+        "管理職",
+        "休職"
+      ]
+    }
+  },
+  {
+    "word": "absent",
+    "quiz": {
+      "answer": "不在",
+      "options": [
+        "存在して",
+        "出席して",
+        "忙しい"
+      ]
+    }
+  },
+  {
+    "word": "accumulate",
+    "quiz": {
+      "answer": "蓄積する",
+      "options": [
+        "分散する",
+        "消費する",
+        "捨てる"
+      ]
+    }
+  },
+  {
+    "word": "appraisal",
+    "quiz": {
+      "answer": "評価",
+      "options": [
+        "批判",
+        "無視",
+        "賛成"
+      ]
+    }
+  },
+  {
+    "word": "apprentice",
+    "quiz": {
+      "answer": "見習い",
+      "options": [
+        "師匠",
+        "専門家",
+        "経営者"
+      ]
+    }
+  },
+  {
+    "word": "businessman",
+    "quiz": {
+      "answer": "実業家",
+      "options": [
+        "学生",
+        "教師",
+        "医者"
+      ]
+    }
+  },
+  {
+    "word": "ceiling",
+    "quiz": {
+      "answer": "天井",
+      "options": [
+        "床",
+        "壁",
+        "ドア"
+      ]
+    }
+  },
+  {
+    "word": "colorful",
+    "quiz": {
+      "answer": "カラフル",
+      "options": [
+        "単色",
+        "透明",
+        "無色"
+      ]
+    }
+  },
+  {
+    "word": "compensate",
+    "quiz": {
+      "answer": "補償する",
+      "options": [
+        "損なう",
+        "忘れる",
+        "軽視する"
+      ]
+    }
+  },
+  {
+    "word": "costume",
+    "quiz": {
+      "answer": "衣装",
+      "options": [
+        "普段着",
+        "アクセサリー",
+        "靴"
+      ]
+    }
+  },
+  {
+    "word": "editorial",
+    "quiz": {
+      "answer": "社説",
+      "options": [
+        "小説",
+        "教科書",
+        "雑誌記事"
+      ]
+    }
+  },
+  {
+    "word": "effectiveness",
+    "quiz": {
+      "answer": "効果",
+      "options": [
+        "無効",
+        "弱点",
+        "欠陥"
+      ]
+    }
+  },
+  {
+    "word": "facilitate",
+    "quiz": {
+      "answer": "促進する",
+      "options": [
+        "妨げる",
+        "遅らせる",
+        "無視する"
+      ]
+    }
+  },
+  {
+    "word": "firefighter",
+    "quiz": {
+      "answer": "消防士",
+      "options": [
+        "警察官",
+        "医者",
+        "教師"
+      ]
+    }
+  },
+  {
+    "word": "gasoline",
+    "quiz": {
+      "answer": "ガソリン",
+      "options": [
+        "水",
+        "電気",
+        "エタノール"
+      ]
+    }
+  },
+  {
+    "word": "inappropriate",
+    "quiz": {
+      "answer": "不適切",
+      "options": [
+        "適切",
+        "必要",
+        "望ましい"
+      ]
+    }
+  },
+  {
+    "word": "internet",
+    "quiz": {
+      "answer": "インターネット",
+      "options": [
+        "図書館",
+        "郵便",
+        "電話"
+      ]
+    }
+  },
+  {
+    "word": "landlord",
+    "quiz": {
+      "answer": "大家",
+      "options": [
+        "借主",
+        "ゲスト",
+        "訪問者"
+      ]
+    }
+  },
+  {
+    "word": "layout",
+    "quiz": {
+      "answer": "レイアウト",
+      "options": [
+        "破壊",
+        "混乱",
+        "一貫性"
+      ]
+    }
+  },
+  {
+    "word": "lunchtime",
+    "quiz": {
+      "answer": "昼食時",
+      "options": [
+        "夜",
+        "朝",
+        "夕方"
+      ]
+    }
+  },
+  {
+    "word": "payroll",
+    "quiz": {
+      "answer": "給与",
+      "options": [
+        "資産",
+        "負債",
+        "損失"
+      ]
+    }
+  },
+  {
+    "word": "pharmaceutical",
+    "quiz": {
+      "answer": "製薬の",
+      "options": [
+        "農業の",
+        "建設の",
+        "教育の"
+      ]
+    }
+  },
+  {
+    "word": "plausible",
+    "quiz": {
+      "answer": "もっともらしい",
+      "options": [
+        "ありえない",
+        "不可能",
+        "非論理的"
+      ]
+    }
+  },
+  {
+    "word": "premium",
+    "quiz": {
+      "answer": "プレミアム",
+      "options": [
+        "割引",
+        "標準価格",
+        "コスト"
+      ]
+    }
+  },
+  {
+    "word": "safely",
+    "quiz": {
+      "answer": "安全に",
+      "options": [
+        "危険に",
+        "不注意に",
+        "無謀に"
+      ]
+    }
+  },
+  {
+    "word": "simplify",
+    "quiz": {
+      "answer": "簡素化する",
+      "options": [
+        "複雑にする",
+        "拡大する",
+        "無視する"
+      ]
+    }
+  },
+  {
+    "word": "specialty",
+    "quiz": {
+      "answer": "専門",
+      "options": [
+        "一般知識",
+        "趣味",
+        "弱点"
+      ]
+    }
+  },
+  {
+    "word": "tech",
+    "quiz": {
+      "answer": "技術",
+      "options": [
+        "伝統",
+        "文化",
+        "芸術"
+      ]
+    }
+  },
+  {
+    "word": "unexpected",
+    "quiz": {
+      "answer": "予期せぬ",
+      "options": [
+        "予想通り",
+        "計画的",
+        "明白"
+      ]
+    }
+  },
+  {
+    "word": "unspecified",
+    "quiz": {
+      "answer": "特定されていない",
+      "options": [
+        "明確な",
+        "確定的",
+        "限定的"
+      ]
+    }
+  },
+  {
+    "word": "adhere",
+    "quiz": {
+      "answer": "固守する",
+      "options": [
+        "離れる",
+        "無視する",
+        "反対する"
+      ]
+    }
+  },
+  {
+    "word": "bankrupt",
+    "quiz": {
+      "answer": "破産した",
+      "options": [
+        "裕福な",
+        "安定した",
+        "成功した"
+      ]
+    }
+  },
+  {
+    "word": "caution",
+    "quiz": {
+      "answer": "警告",
+      "options": [
+        "無視",
+        "確信",
+        "急襲"
+      ]
+    }
+  },
+  {
+    "word": "clip",
+    "quiz": {
+      "answer": "クリップ",
+      "options": [
+        "解放",
+        "拡大",
+        "結合"
+      ]
+    }
+  },
+  {
+    "word": "comply",
+    "quiz": {
+      "answer": "従う",
+      "options": [
+        "反抗する",
+        "無視する",
+        "脱退する"
+      ]
+    }
+  },
+  {
+    "word": "diner",
+    "quiz": {
+      "answer": "ダイナー",
+      "options": [
+        "レストラン",
+        "寝室",
+        "オフィス"
+      ]
+    }
+  },
+  {
+    "word": "duplicate",
+    "quiz": {
+      "answer": "複製する",
+      "options": [
+        "原本",
+        "独自",
+        "削除"
+      ]
+    }
+  },
+  {
+    "word": "eager",
+    "quiz": {
+      "answer": "熱心",
+      "options": [
+        "無関心",
+        "冷静",
+        "悲観的"
+      ]
+    }
+  },
+  {
+    "word": "economist",
+    "quiz": {
+      "answer": "経済学者",
+      "options": [
+        "化学者",
+        "物理学者",
+        "歴史家"
+      ]
+    }
+  },
+  {
+    "word": "embassy",
+    "quiz": {
+      "answer": "大使館",
+      "options": [
+        "図書館",
+        "学校",
+        "病院"
+      ]
+    }
+  }
+]

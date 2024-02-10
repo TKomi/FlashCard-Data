@@ -1,0 +1,552 @@
+[
+  {
+    "word": "strictly",
+    "quiz": {
+      "answer": "厳格に",
+      "options": [
+        "緩やかに",
+        "適当に",
+        "自由に"
+      ]
+    }
+  },
+  {
+    "word": "tomato",
+    "quiz": {
+      "answer": "トマト",
+      "options": [
+        "レタス",
+        "キャベツ",
+        "ニンジン"
+      ]
+    }
+  },
+  {
+    "word": "tray",
+    "quiz": {
+      "answer": "トレイ",
+      "options": [
+        "テーブル",
+        "カップ",
+        "ボトル"
+      ]
+    }
+  },
+  {
+    "word": "vendor",
+    "quiz": {
+      "answer": "販売者",
+      "options": [
+        "購入者",
+        "製造者",
+        "顧客"
+      ]
+    }
+  },
+  {
+    "word": "withdrawal",
+    "quiz": {
+      "answer": "引き出し",
+      "options": [
+        "預金",
+        "追加",
+        "貯金"
+      ]
+    }
+  },
+  {
+    "word": "anytime",
+    "quiz": {
+      "answer": "いつでも",
+      "options": [
+        "決して",
+        "今すぐ",
+        "特定の時間に"
+      ]
+    }
+  },
+  {
+    "word": "badge",
+    "quiz": {
+      "answer": "バッジ",
+      "options": [
+        "ステッカー",
+        "シール",
+        "リボン"
+      ]
+    }
+  },
+  {
+    "word": "brake",
+    "quiz": {
+      "answer": "ブレーキ",
+      "options": [
+        "アクセル",
+        "ステアリング",
+        "ギア"
+      ]
+    }
+  },
+  {
+    "word": "calculation",
+    "quiz": {
+      "answer": "計算",
+      "options": [
+        "推測",
+        "忘却",
+        "無視"
+      ]
+    }
+  },
+  {
+    "word": "coordinator",
+    "quiz": {
+      "answer": "コーディネーター",
+      "options": [
+        "参加者",
+        "観客",
+        "競争者"
+      ]
+    }
+  },
+  {
+    "word": "costly",
+    "quiz": {
+      "answer": "高価な",
+      "options": [
+        "安価な",
+        "無料の",
+        "手頃な価格の"
+      ]
+    }
+  },
+  {
+    "word": "equip",
+    "quiz": {
+      "answer": "装備する",
+      "options": [
+        "取り外す",
+        "破壊する",
+        "軽視する"
+      ]
+    }
+  },
+  {
+    "word": "excursion",
+    "quiz": {
+      "answer": "遠足",
+      "options": [
+        "仕事",
+        "家での休息",
+        "勉強会"
+      ]
+    }
+  },
+  {
+    "word": "graphic",
+    "quiz": {
+      "answer": "グラフィック",
+      "options": [
+        "テキスト",
+        "音声",
+        "ビデオ"
+      ]
+    }
+  },
+  {
+    "word": "inexperience",
+    "quiz": {
+      "answer": "経験不足",
+      "options": [
+        "経験豊富",
+        "熟練",
+        "専門知識"
+      ]
+    }
+  },
+  {
+    "word": "lengthy",
+    "quiz": {
+      "answer": "長い",
+      "options": [
+        "短い",
+        "瞬間的",
+        "速い"
+      ]
+    }
+  },
+  {
+    "word": "librarian",
+    "quiz": {
+      "answer": "司書",
+      "options": [
+        "教師",
+        "学生",
+        "管理者"
+      ]
+    }
+  },
+  {
+    "word": "meantime",
+    "quiz": {
+      "answer": "その間",
+      "options": [
+        "以前",
+        "その後",
+        "即座に"
+      ]
+    }
+  },
+  {
+    "word": "merge",
+    "quiz": {
+      "answer": "合併する",
+      "options": [
+        "分離する",
+        "競合する",
+        "独立する"
+      ]
+    }
+  },
+  {
+    "word": "performer",
+    "quiz": {
+      "answer": "演者",
+      "options": [
+        "観客",
+        "聴衆",
+        "批評家"
+      ]
+    }
+  },
+  {
+    "word": "pharmacist",
+    "quiz": {
+      "answer": "薬剤師",
+      "options": [
+        "医師",
+        "看護師",
+        "教師"
+      ]
+    }
+  },
+  {
+    "word": "pizza",
+    "quiz": {
+      "answer": "ピザ",
+      "options": [
+        "パスタ",
+        "サラダ",
+        "スープ"
+      ]
+    }
+  },
+  {
+    "word": "resignation",
+    "quiz": {
+      "answer": "辞職",
+      "options": [
+        "昇進",
+        "採用",
+        "継続"
+      ]
+    }
+  },
+  {
+    "word": "reviewer",
+    "quiz": {
+      "answer": "レビュアー",
+      "options": [
+        "作者",
+        "聴衆",
+        "出版社"
+      ]
+    }
+  },
+  {
+    "word": "terminate",
+    "quiz": {
+      "answer": "終了する",
+      "options": [
+        "開始する",
+        "継続する",
+        "増加する"
+      ]
+    }
+  },
+  {
+    "word": "translation",
+    "quiz": {
+      "answer": "翻訳",
+      "options": [
+        "原文",
+        "著作",
+        "計画"
+      ]
+    }
+  },
+  {
+    "word": "unfamiliar",
+    "quiz": {
+      "answer": "馴染みがない",
+      "options": [
+        "知られている",
+        "一般的な",
+        "人気のある"
+      ]
+    }
+  },
+  {
+    "word": "actress",
+    "quiz": {
+      "answer": "女優",
+      "options": [
+        "俳優",
+        "監督",
+        "脚本家"
+      ]
+    }
+  },
+  {
+    "word": "adjacent",
+    "quiz": {
+      "answer": "隣接する",
+      "options": [
+        "遠い",
+        "中央の",
+        "分離した"
+      ]
+    }
+  },
+  {
+    "word": "alternate",
+    "quiz": {
+      "answer": "代替する",
+      "options": [
+        "継続する",
+        "同一の",
+        "固定的な"
+      ]
+    }
+  },
+  {
+    "word": "congratulate",
+    "quiz": {
+      "answer": "祝う",
+      "options": [
+        "非難する",
+        "無視する",
+        "悲しむ"
+      ]
+    }
+  },
+  {
+    "word": "escort",
+    "quiz": {
+      "answer": "護衛する",
+      "options": [
+        "単独で行く",
+        "避ける",
+        "放置する"
+      ]
+    }
+  },
+  {
+    "word": "inexpensive",
+    "quiz": {
+      "answer": "安価な",
+      "options": [
+        "高価な",
+        "贅沢な",
+        "無料の"
+      ]
+    }
+  },
+  {
+    "word": "mask",
+    "quiz": {
+      "answer": "マスク",
+      "options": [
+        "顔",
+        "ヘルメット",
+        "帽子"
+      ]
+    }
+  },
+  {
+    "word": "purchaser",
+    "quiz": {
+      "answer": "購入者",
+      "options": [
+        "販売者",
+        "見学者",
+        "製造者"
+      ]
+    }
+  },
+  {
+    "word": "purse",
+    "quiz": {
+      "answer": "財布",
+      "options": [
+        "バッグ",
+        "スーツケース",
+        "箱"
+      ]
+    }
+  },
+  {
+    "word": "realtor",
+    "quiz": {
+      "answer": "不動産業者",
+      "options": [
+        "建築家",
+        "貸主",
+        "借主"
+      ]
+    }
+  },
+  {
+    "word": "rearrange",
+    "quiz": {
+      "answer": "再配置する",
+      "options": [
+        "固定する",
+        "無視する",
+        "削除する"
+      ]
+    }
+  },
+  {
+    "word": "reopen",
+    "quiz": {
+      "answer": "再開する",
+      "options": [
+        "閉鎖する",
+        "延期する",
+        "続行する"
+      ]
+    }
+  },
+  {
+    "word": "soap",
+    "quiz": {
+      "answer": "石鹸",
+      "options": [
+        "シャンプー",
+        "ローション",
+        "クリーム"
+      ]
+    }
+  },
+  {
+    "word": "spokesperson",
+    "quiz": {
+      "answer": "広報",
+      "options": [
+        "聴衆",
+        "観客",
+        "批評家"
+      ]
+    }
+  },
+  {
+    "word": "superior",
+    "quiz": {
+      "answer": "優れている",
+      "options": [
+        "劣っている",
+        "平均的な",
+        "下位の"
+      ]
+    }
+  },
+  {
+    "word": "airfare",
+    "quiz": {
+      "answer": "航空運賃",
+      "options": [
+        "チケット代",
+        "入場料",
+        "料金"
+      ]
+    }
+  },
+  {
+    "word": "bake",
+    "quiz": {
+      "answer": "焼く",
+      "options": [
+        "凍らせる",
+        "蒸す",
+        "煮る"
+      ]
+    }
+  },
+  {
+    "word": "businessperson",
+    "quiz": {
+      "answer": "実業家",
+      "options": [
+        "従業員",
+        "学生",
+        "アルバイト"
+      ]
+    }
+  },
+  {
+    "word": "considerably",
+    "quiz": {
+      "answer": "かなり",
+      "options": [
+        "わずかに",
+        "全く",
+        "ほとんどない"
+      ]
+    }
+  },
+  {
+    "word": "faulty",
+    "quiz": {
+      "answer": "欠陥がある",
+      "options": [
+        "完璧な",
+        "優れた",
+        "効率的な"
+      ]
+    }
+  },
+  {
+    "word": "hobby",
+    "quiz": {
+      "answer": "趣味",
+      "options": [
+        "仕事",
+        "義務",
+        "訓練"
+      ]
+    }
+  },
+  {
+    "word": "informal",
+    "quiz": {
+      "answer": "非公式の",
+      "options": [
+        "公式の",
+        "厳格な",
+        "形式的な"
+      ]
+    }
+  },
+  {
+    "word": "kilometer",
+    "quiz": {
+      "answer": "キロメートル",
+      "options": [
+        "メートル",
+        "センチメートル",
+        "ミリメートル"
+      ]
+    }
+  }
+]
