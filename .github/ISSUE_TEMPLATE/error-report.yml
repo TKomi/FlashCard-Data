@@ -1,0 +1,48 @@
+name: 単語データミス報告
+description: 単語データのミスを報告するためのフォーム
+title: "単語データミス報告: [ここに英単語を入力]"
+projects: ["TKomi/FlashCard-Data"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        以下のフォームに必要事項を記入してください。  
+        報告いただいた内容は、単語データの修正に利用させていただきます。  
+        ご協力いただき、ありがとうございます。
+  - type: input
+    id: spelling
+    attributes:
+      label: 誤りの英単語
+      placeholder: (例) spelling
+    validations:
+      required: true
+  - type: input
+    id: filename
+    attributes:
+      label: ファイルパスとファイル名(任意)
+      description: 該当のファイルパスおよびファイル名がわかれば教えてください。
+      placeholder: (例) path/to/file.json
+  - type: input
+    id: part
+    attributes:
+      label: シリーズ名とパート(任意)
+      description: 該当の単語が収録されているシリーズ名およびパートがわかれば教えてください。
+      placeholder: (例) TOEIC Service List Part1
+  - type: dropdown
+    id: type
+    attributes:
+      label: 誤りの類型
+      options:
+        - 英単語のスペルミス
+        - 正解選択肢が不適切
+        - 誤答選択肢が不適切
+        - その他
+      default: 0
+  - type: textarea
+    id: details
+    attributes:
+      label: 誤りの詳細(任意)
+  - type: textarea
+    id: modification
+    attributes:
+      label: 修正案(任意)
